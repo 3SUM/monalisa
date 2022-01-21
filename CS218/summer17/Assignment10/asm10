@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# -----
+#  Ensure some arguments were entered
+#  Disply usage message if not
+
+if [ -z $1 ] || [ -z $2 ]; then
+	echo "Usage:  ./asm10 <asmMainFile (no extension)> <asmProcsFile (no extension)>"
+	exit
+fi
+
+# -----
+#  Verify no extensions were entered
+
+if [ ! -e "$1.cpp" ]; then
+	echo "Error, $1.cpp not found."
+	echo "Note, do not enter file extensions."
+	exit
+fi
+
+if [ ! -e $2.asm ]; then
+	echo "Error, $2.asm not found."
+	echo "Note, do not enter file extensions."
+	exit
+fi
+
+# -----
+#  Compile, assemble, and link.
+
+g++ -g -c $1.cpp -lglut -lGLU -lGL -lm
+yasm -g dwarf2 -f elf64 $2.asm -l $2.lst
+g++ -g -o $1 $1.o $2.o -lglut -lGLU -lGL -lm
+
+# -----
+#  remove temp files
+
+rm $1.o
+rm $2.o
+rm $2.lst
+

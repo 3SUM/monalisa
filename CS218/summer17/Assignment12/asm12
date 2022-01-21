@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# -----
+#  Ensure some arguments were entered
+#  Disply usage message if not
+
+if [ -z $1 ]; then
+	echo "Usage:  ./asm13 <asmMainFile (no extension)>"
+	exit
+fi
+
+# -----
+#  Verify no extensions were entered
+
+if [ ! -e "$1.asm" ]; then
+	echo "Error, $1.asm not found."
+	echo "Note, do not enter file extensions."
+	exit
+fi
+
+# -----
+#  Compile, assemble, and link.
+
+yasm -g dwarf2 -f elf64 $1.asm -l $1.lst
+gcc -g -o $1 $1.o -pthread
+
+# -----
+#  remove temp files
+
+rm $1.o
+rm $1.lst
+

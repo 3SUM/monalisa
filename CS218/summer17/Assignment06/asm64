@@ -1,0 +1,41 @@
+#!/bin/bash
+
+# -----
+#  CS 218 - Assemble / Link scipt file.
+
+#	This script will assemble and link an
+#	assembly language program to an executable.
+#	This script expects 1 argument, which is the
+#	name of the assembly language source file.
+#	The extension is assumed to be '.asm' and
+#	thus should NOT be entered.
+
+#	Note, before using, must make the file executable.
+#	Assuming the file is named 'asm', at the command
+#	line prompt, type:  chmod +x asm
+#	This adds execute priveledge to the file, so it
+#	can be executed as a script.
+
+# -----
+#  Ensure some arguments were entered
+#  Disply usage message if not
+
+if [ -z $1 ]; then
+	echo "Usage:  ./asm <asmMainFile> (no extension)"
+	exit
+fi
+
+# -----
+#  Verify no extensions were entered
+
+if [ ! -e "$1.asm" ]; then
+	echo "Error, $1.asm not found."
+	echo "Note, do not enter file extensions."
+	exit
+fi
+
+# -----
+#  Compile, assemble, and link.
+
+yasm -f macho64 -l $1.lst $1.asm
+ld -o $1 $1.o

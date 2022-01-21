@@ -1,0 +1,58 @@
+#------------------------------------
+# CS 218 - Assignment #8
+#   Debugger Script File
+#------------------------------------
+echo \n\n
+break last
+run
+set pagination off
+set logging file a8out.txt
+set logging overwrite
+set logging on
+set prompt
+echo ------------------------------------ \n
+echo Display calculations for Data Set #1 \n
+x/28dw &list1
+echo \n
+echo min1: \t\t
+x/dw &min1
+echo med1: \t\t
+x/dw &med1
+echo max1: \t\t
+x/dw &max1
+echo ave1: \t\t
+x/dw &ave1
+echo var1: \t\t
+x/dg &var1
+echo ------------------------------------ \n
+echo Display calculations for Data Set #2 \n
+x/100dw &list2
+echo \n
+echo min2: \t\t
+x/dw &min2
+echo med2: \t\t
+x/dw &med2
+echo max2: \t\t
+x/dw &max2
+echo ave2: \t\t
+x/dw &ave2
+echo var2: \t\t
+x/dg &var2
+echo ------------------------------------ \n
+echo Display calculations for Data Set #3 \n
+x/200dw &list3
+echo \n
+echo min3: \t\t
+x/dw &min3
+echo med3: \t\t
+x/dw &med3
+echo max3: \t\t
+x/dw &max3
+echo ave3: \t\t
+x/dw &ave3
+echo var3: \t\t
+x/dg &var3
+echo ------------------------------------ \n
+echo \n \n
+set logging off
+quit

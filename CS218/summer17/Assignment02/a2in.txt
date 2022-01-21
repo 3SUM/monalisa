@@ -1,0 +1,133 @@
+#------------------------------------
+# CS 218
+#   Assignment #2
+#   Debugger Script File
+#------------------------------------
+echo \n\n
+break last
+run
+set pagination off
+set logging file a2out.txt
+set logging overwrite
+set logging on
+set prompt
+echo \n
+echo ------------------------------------ \n
+echo display byte variables \n
+echo bVar1: \t
+x/db &bVar1
+echo bVar2: \t
+x/db &bVar2
+echo bAns1: \t
+x/db &bAns1
+echo bAns2: \t
+x/db &bAns2
+echo \n
+echo display byte variables in hex \n
+echo bVar1: \t
+x/xb &bVar1
+echo bVar2: \t
+x/xb &bVar2
+echo bAns1: \t
+x/xb &bAns1
+echo bAns2: \t
+x/xb &bAns2
+echo \n
+echo ------------------------------------ \n
+echo display word variables \n
+echo wVar1: \t
+x/dh &wVar1
+echo wVar2: \t
+x/dh &wVar2
+echo wAns1: \t
+x/dh &wAns1
+echo wAns2: \t
+x/dh &wAns2
+echo \n
+echo display word variables in hex \n
+echo wVar1: \t
+x/xh &wVar1
+echo wVar2: \t
+x/xh &wVar2
+echo wAns1: \t
+x/xh &wAns1
+echo wAns2: \t
+x/xh &wAns2
+echo \n
+echo ------------------------------------ \n
+echo display double word variables \n
+echo dVar1: \t
+x/dw &dVar1
+echo dVar2: \t
+x/dw &dVar2
+echo dVar3: \t
+x/dw &dVar3
+echo dAns1: \t
+x/dw &dAns1
+echo dAns2: \t
+x/dw &dAns2
+echo \n
+echo display double word variables in hex\n
+echo dVar1: \t
+x/xw &dVar1
+echo dVar2: \t
+x/xw &dVar2
+echo dVar3: \t
+x/xw &dVar3
+echo dAns1: \t
+x/xw &dAns1
+echo dAns2: \t
+x/xw &dAns2
+echo \n
+echo ------------------------------------ \n
+echo display real values in decimal \n
+echo flt1: \t
+x/f &flt1
+echo flt2: \t
+x/f &flt2
+echo fourPi: \t
+x/f &fourPi
+echo \n
+echo display real values in hex\n
+echo flt1: \t
+x/fx &flt1
+echo flt2: \t
+x/fx &flt2
+echo fourPi: \t
+x/fx &fourPi
+echo \n
+echo ------------------------------------ \n
+echo display real values in decimal \n
+echo qVar1: \t
+x/dg &qVar1
+echo \n
+echo ------------------------------------ \n
+echo display strings (first 6) as decimal / characters \n
+echo myClass: \t
+x/6cb &myClass
+echo edName: \t
+x/6cb &edName
+echo myName: \t
+x/6cb &myName
+echo \n
+echo display strings (first 6) as hex \n
+echo myClass: \t
+x/6cx &myClass
+echo edName: \t
+x/6cx &edName
+echo myName: \t
+x/6cx &myName
+echo \n
+echo display strings as strings \n
+echo myClass: \t
+x/s &myClass
+echo edName: \t
+x/s &edName
+echo myName: \t
+x/s &myName
+echo \n
+echo ------------------------------------ \n
+echo \n \n
+set logging off
+quit
+

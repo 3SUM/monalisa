@@ -1,0 +1,76 @@
+#!/bin/bash
+
+# Assignment #12 execution timing script.
+#
+# -----------------------------------------------------
+# Initial checks.
+#	Ensure executable files exists.
+#	Ensure test file exists
+#
+if [ -z $1 ]; then
+	echo "Usage:  ./a12timer <asst12_Executable>"
+	exit
+fi
+#
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find assignment #12 $1 executable file."
+	exit
+fi
+#
+# -----------------------------------------------------
+# Display header
+#
+bolded=`tput bold`
+normal=`tput sgr0`
+echo -e "\\n${bolded}Assignment #12 -> Timed Executions${normal}\\n"
+#
+# -----------------------------------------------------
+#  Sequential
+#
+echo -e "Starting Sequential Timed Executions\\n"
+echo "***************************************" > a12times.txt
+echo -e "Sequential Timed Executions" >> a12times.txt
+echo -e "\\n-------------------" >> a12times.txt
+echo "Timed Test #1" >> a12times.txt
+(time ./$1 -sq ) > null.txt 2>> a12times.txt
+#
+echo -e "\\n-------------------" >> a12times.txt
+echo "Timed Test #2" >> a12times.txt
+(time ./$1 -sq) > null.txt 2>> a12times.txt
+#
+echo -e "\\n-------------------" >> a12times.txt
+echo "Timed Test #3" >> a12times.txt
+(time ./$1 -sq) > null.txt 2>> a12times.txt
+#
+rm null.txt
+#
+# -----------------------------------------------------
+#  Parallel
+#
+echo -e "Starting Parellel Timed Executions\\n"
+echo -e "\\n\\n***************************************" >> a12times.txt
+echo -e "Parallel Timed Executions" >> a12times.txt
+echo -e "\\n-------------------" >> a12times.txt
+echo "Timed Test #1" >> a12times.txt
+(time ./$1 -pt) > null.txt 2>> a12times.txt
+#
+echo -e "\\n-------------------" >> a12times.txt
+echo "Timed Test #2" >> a12times.txt
+(time ./$1 -pt) > null.txt 2>> a12times.txt
+#
+echo -e "\\n-------------------" >> a12times.txt
+echo "Timed Test #3" >> a12times.txt
+(time ./$1 -pt) > null.txt 2>> a12times.txt
+#
+echo  >> a12times.txt
+echo  >> a12times.txt
+#
+rm null.txt
+
+# -----------------------------------------------------
+# Done
+#
+echo "Timed Tests completed."
+echo "See ${bolded}a12times.txt${normal} results."
+echo
+

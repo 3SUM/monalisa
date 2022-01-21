@@ -1,0 +1,42 @@
+#------------------------------------
+# CS 218 - Assignment #5
+#   Debugger Script File
+#------------------------------------
+echo \n\n
+break last
+run
+set pagination off
+set logging file a5out.txt
+set logging overwrite
+set logging on
+set prompt
+echo ------------------------------------ \n
+echo Display list calculations for volumes \n
+x/50uw &volumes
+echo vMin: \t\t
+x/uw &vMin
+echo vMid: \t\t
+x/uw &vMid
+echo vMax: \t\t
+x/uw &vMax
+echo vSum: \t\t
+x/uw &vSum
+echo vAve: \t\t
+x/uw &vAve
+echo ------------------------------------ \n
+echo Display list calculations for surfaceAreas \n
+x/50uw &surfaceAreas
+echo saMin: \t\t
+x/uw &saMin
+echo saMid: \t\t
+x/uw &saMid
+echo saMax: \t\t
+x/uw &saMax
+echo saSum: \t\t
+x/uw &saSum
+echo saAve: \t\t
+x/uw &saAve
+echo ------------------------------------ \n
+echo \n \n
+set logging off
+quit

@@ -1,0 +1,80 @@
+#------------------------------------
+# CS 218
+#   Assignment #1
+#   Debugger Script File
+#------------------------------------
+echo \n\n
+b last
+run
+set pagination off
+set logging file a1out.txt
+set logging overwrite
+set logging on
+set prompt
+echo \n
+echo display byte variables \n
+echo num1: \t
+x/db &num1
+echo num2: \t
+x/db &num2
+echo res1: \t
+x/db &res1
+echo res2: \t
+x/db &res2
+echo res3: \t
+x/dh &res3
+echo res4: \t
+x/db &res4
+echo rem4: \t
+x/db &rem4
+echo \n
+echo display word variables \n
+echo num3: \t
+x/dh &num3
+echo num4: \t
+x/dh &num4
+echo res3: \t
+x/dh &res5
+echo res6: \t
+x/dh &res6
+echo res7: \t
+x/dw &res7
+echo res8: \t
+x/dh &res8
+echo rem8: \t
+x/dh &rem8
+echo \n
+echo display doubleword variables \n
+echo num5: \t
+x/dw &num5
+echo num6: \t
+x/dw &num6
+echo res9: \t
+x/dw &res9
+echo res10: \t
+x/dw &res10
+echo res11: \t
+x/dg &res11
+echo res12: \t
+x/dw &res12
+echo rem12: \t
+x/dw &rem12
+echo \n
+echo display quadword variables \n
+echo num7: \t
+x/dg &num7
+echo num8: \t
+x/dg &num8
+echo res13: \t
+x/dg &res13
+echo res14: \t
+x/dg &res14
+echo res15: \t
+x/dg &res15
+echo res16: \t
+x/dg &res16
+echo rem16: \t
+x/dg &rem16
+set loggin off
+quit
+

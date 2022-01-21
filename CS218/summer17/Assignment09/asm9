@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# -----
+#  Ensure some arguments were entered
+#  Disply usage message if not
+
+if [ -z $1 ] || [ -z $2 ]; then
+	echo "Usage:  ./asm9 <C++SourceFile (no extension)> <asmSourceFile (no extension)>"
+	exit
+fi
+
+# -----
+#  Verify no extensions were entered
+
+if [ ! -e "$1.cpp" ]; then
+	echo "Error, $1.cpp not found."
+	echo "Note, do not enter file extensions."
+	exit
+fi
+
+if [ ! -e $2.asm ]; then
+	echo "Error, $2.asm not found."
+	echo "Note, do not enter file extensions."
+	exit
+fi
+
+# -----
+#  Compile, assemble, and link.
+
+g++ -g -Wall -c $1.cpp
+yasm -g dwarf2 -f elf64 $2.asm -l $2.lst
+g++ -g -o $1 $1.o $2.o
+
