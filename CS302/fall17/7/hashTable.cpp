@@ -2,7 +2,7 @@
 
 constexpr unsigned int hashTable ::hashSizes[];
 
-hashTable ::hashTable() {
+hashTable::hashTable() {
     entries = 0;
     reSizeCount = 0;
     collisionCount = 0;
@@ -19,13 +19,13 @@ hashTable ::hashTable() {
     }
 }
 
-hashTable ::~hashTable() {
+hashTable::~hashTable() {
     delete[] hashReviews;
     delete[] hashScores;
     delete[] hashCounts;
 }
 
-bool hashTable ::insert(const std::string key, const double score) {
+bool hashTable::insert(const std::string key, const double score) {
     unsigned int index = 0;
     unsigned int quadProbe = 0;
 
@@ -71,7 +71,7 @@ bool hashTable ::insert(const std::string key, const double score) {
     return false;
 }
 
-bool hashTable ::search(const std::string key, double &score, unsigned int &count) const {
+bool hashTable::search(const std::string key, double &score, unsigned int &count) const {
     unsigned int index = 0;
     unsigned int quadProbe = 0;
 
@@ -117,7 +117,7 @@ bool hashTable ::remove(const std::string key) {
     }
 }
 
-void hashTable ::printHash() const {
+void hashTable::printHash() const {
     for (unsigned int i = 0; i < hashSize; i++) {
         if (hashReviews[i] != "" && hashReviews[i] != "*") {
             std::cout << hashReviews[i] << " : ";
@@ -127,7 +127,7 @@ void hashTable ::printHash() const {
     }
 }
 
-void hashTable ::showHashStats() const {
+void hashTable::showHashStats() const {
     std::cout << "Hash Stats" << std::endl;
     std::cout << "   Current Entries Count: " << entries << std::endl;
     std::cout << "   Current Hash Size: " << hashSize << std::endl;
@@ -135,7 +135,7 @@ void hashTable ::showHashStats() const {
     std::cout << "   Hash Collisions: " << collisionCount << std::endl;
 }
 
-bool hashTable ::findMaxReview(std::string &key, double &score, unsigned int &count) {
+bool hashTable::findMaxReview(std::string &key, double &score, unsigned int &count) {
     unsigned int max = 0;
 
     if (hashReviews != nullptr) {
@@ -153,7 +153,7 @@ bool hashTable ::findMaxReview(std::string &key, double &score, unsigned int &co
     return false;
 }
 
-bool hashTable ::insert(const std::string key, const double score, const unsigned int count) {
+bool hashTable::insert(const std::string key, const double score, const unsigned int count) {
     unsigned int index = 0;
     unsigned int quadProbe = 0;
 
@@ -196,7 +196,7 @@ bool hashTable ::insert(const std::string key, const double score, const unsigne
     return false;
 }
 
-unsigned int hashTable ::hash(std::string key) const {
+unsigned int hashTable::hash(std::string key) const {
     unsigned int FNV_offset_basis = 2166136261;
     unsigned int FNV_prime = 16777619;
 
@@ -209,7 +209,7 @@ unsigned int hashTable ::hash(std::string key) const {
     return (hash % hashSize);
 }
 
-void hashTable ::rehash() {
+void hashTable::rehash() {
     unsigned int prevSize = hashSize;
     for (unsigned int i = 0; i < 12; i++) {
         if (hashSizes[i] > hashSize) {

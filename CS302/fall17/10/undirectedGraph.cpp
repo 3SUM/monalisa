@@ -1,6 +1,6 @@
 #include "undirectedGraph.h"
 
-undirectedGraph ::undirectedGraph(int size) {
+undirectedGraph::undirectedGraph(int size) {
     vertexCount = 0;
     title = "";
     graphMatrix = NULL;
@@ -16,13 +16,13 @@ undirectedGraph ::undirectedGraph(int size) {
         std::cout << "undirectedGraph: Error, invalid graph size." << std::endl;
 }
 
-undirectedGraph ::~undirectedGraph() {
+undirectedGraph::~undirectedGraph() {
     destroyGraph();
     title = "";
     vertexCount = 0;
 }
 
-void undirectedGraph ::setGraphSize(int size) {
+void undirectedGraph::setGraphSize(int size) {
     if (size < MIN_SIZE) {
         std::cout << "setGraphSize: Error, invalid graph size." << std::endl;
         return;
@@ -43,7 +43,7 @@ void undirectedGraph ::setGraphSize(int size) {
             graphMatrix[i][j] = 0;
 }
 
-void undirectedGraph ::addEdge(int from, int to, double edgeWeight) {
+void undirectedGraph::addEdge(int from, int to, double edgeWeight) {
     if (graphMatrix == NULL) {
         std::cout << "addEdge: error, no graph, can not add edge." << std::endl;
         return;
@@ -63,7 +63,7 @@ void undirectedGraph ::addEdge(int from, int to, double edgeWeight) {
     graphMatrix[to][from] = edgeWeight;
 }
 
-bool undirectedGraph ::readGraph(const std::string fname) {
+bool undirectedGraph::readGraph(const std::string fname) {
     int size;
     int to, from;
     double edgeWeight;
@@ -107,11 +107,11 @@ bool undirectedGraph ::readGraph(const std::string fname) {
     return false;
 }
 
-int undirectedGraph ::getGraphSize() const {
+int undirectedGraph::getGraphSize() const {
     return vertexCount;
 }
 
-void undirectedGraph ::printMatrix() const {
+void undirectedGraph::printMatrix() const {
     std::string bars, spaces, empty;
     bars.append(8, '-');
     spaces.append(6, ' ');
@@ -152,7 +152,7 @@ void undirectedGraph ::printMatrix() const {
     }
 }
 
-void undirectedGraph ::prims(int source) {
+void undirectedGraph::prims(int source) {
     int u;
     double p;
     double INF = std::numeric_limits<double>::max();
@@ -190,7 +190,7 @@ void undirectedGraph ::prims(int source) {
     }
 }
 
-bool undirectedGraph ::readLocationNames(const std::string fname) {
+bool undirectedGraph::readLocationNames(const std::string fname) {
     std::string location;
     std::ifstream input;
 
@@ -214,15 +214,15 @@ bool undirectedGraph ::readLocationNames(const std::string fname) {
     return false;
 }
 
-std::string undirectedGraph ::getTitle() const {
+std::string undirectedGraph::getTitle() const {
     return title;
 }
 
-void undirectedGraph ::setTitle(const std::string name) {
+void undirectedGraph::setTitle(const std::string name) {
     title = name;
 }
 
-void undirectedGraph ::printMST() const {
+void undirectedGraph::printMST() const {
     std::string bars_1, bars_2, bars_3, stars;
     bars_1.append(32, '-');
     bars_2.append(12, '-');
@@ -261,7 +261,7 @@ void undirectedGraph ::printMST() const {
     }
 }
 
-void undirectedGraph ::destroyGraph() {
+void undirectedGraph::destroyGraph() {
     if (graphMatrix != NULL) {
         for (int i = 0; i < vertexCount; i++)
             delete[] graphMatrix[i];

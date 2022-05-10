@@ -1,16 +1,16 @@
 #include "reviewData.h"
 
-reviewData ::reviewData() {
+reviewData::reviewData() {
     totalReviews = 0;
     uniqueProducts = 0;
 }
 
-reviewData ::~reviewData() {
+reviewData::~reviewData() {
     totalReviews = 0;
     uniqueProducts = 0;
 }
 
-bool reviewData ::readMasterReviewData(const std::string fname) {
+bool reviewData::readMasterReviewData(const std::string fname) {
     double score;
     std::string temp;
     std::string product;
@@ -50,7 +50,7 @@ bool reviewData ::readMasterReviewData(const std::string fname) {
     return false;
 }
 
-bool reviewData ::getReviews(const std::string fname) {
+bool reviewData::getReviews(const std::string fname) {
     std::string product;
     double score;
     unsigned int count;
@@ -86,7 +86,7 @@ bool reviewData ::getReviews(const std::string fname) {
     return false;
 }
 
-void reviewData ::showStats() const {
+void reviewData::showStats() const {
     std::string bars;
     bars.append(38, '-');
 
@@ -103,7 +103,7 @@ void reviewData ::showStats() const {
     std::cout << std::endl;
 }
 
-void reviewData ::showMaxReview() {
+void reviewData::showMaxReview() {
     std::string product;
     double score;
     unsigned int count = 0;
@@ -118,11 +118,11 @@ void reviewData ::showMaxReview() {
     }
 }
 
-void reviewData ::printAllReviews() const {
+void reviewData::printAllReviews() const {
     printHash();
 }
 
-void reviewData ::printProduct(const std::string product, const double score, const unsigned int count) {
+void reviewData::printProduct(const std::string product, const double score, const unsigned int count) {
     double avg = score / count;
 
     std::cout << std::fixed << std::showpoint << std::setprecision(2);

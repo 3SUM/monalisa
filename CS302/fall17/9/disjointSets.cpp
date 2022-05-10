@@ -1,20 +1,20 @@
 #include "disjointSets.h"
 
-disjointSets ::disjointSets() {
+disjointSets::disjointSets() {
     totalSize = 0;
     setsCount = 0;
     links = NULL;
     sizes = NULL;
 }
 
-disjointSets ::~disjointSets() {
+disjointSets::~disjointSets() {
     totalSize = 0;
     setsCount = 0;
     delete[] links;
     delete[] sizes;
 }
 
-bool disjointSets ::createSets(int size) {
+bool disjointSets::createSets(int size) {
     if (size >= MIN_SIZE && size <= MAX_SIZE) {
         totalSize = size;
         setsCount = size;
@@ -29,19 +29,19 @@ bool disjointSets ::createSets(int size) {
     return false;
 }
 
-int disjointSets ::getTotalSets() const {
+int disjointSets::getTotalSets() const {
     return totalSize;
 }
 
-int disjointSets ::getSetCount() const {
+int disjointSets::getSetCount() const {
     return setsCount;
 }
 
-int disjointSets ::getSetSize(const int set) const {
+int disjointSets::getSetSize(const int set) const {
     return sizes[set];
 }
 
-void disjointSets ::printSets() const {
+void disjointSets::printSets() const {
     std::cout << "  index:" << std::setw(3);
     for (int i = 0; i < totalSize; i++)
         std::cout << i << std::setw(3);
@@ -58,7 +58,7 @@ void disjointSets ::printSets() const {
     std::cout << std::endl;
 }
 
-int disjointSets ::setUnion(int a, int b) {
+int disjointSets::setUnion(int a, int b) {
     int x = setFind(a);
     int y = setFind(b);
 
@@ -80,7 +80,7 @@ int disjointSets ::setUnion(int a, int b) {
     return x;
 }
 
-int disjointSets ::setFind(int set) {
+int disjointSets::setFind(int set) {
     if (links[set] != -1)
         return links[set] = setFind(links[set]);
     return set;
