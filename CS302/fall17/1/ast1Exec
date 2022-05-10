@@ -1,0 +1,75 @@
+#!/bin/bash
+# CS 302, assignment #1 test script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo -n "Press return to continue"
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+# Display initial page
+
+clear
+echo
+echo
+echo ${bolded}Assignment 1 - Execution Times Utility${normal}
+echo
+echo
+echo "The total execution times may exceed 3 hours"
+echo "depending on the machine..."
+echo
+echo
+echo "The times are recorded in 'a1times.txt' " 
+echo
+echo
+echo
+pause $2
+
+echo -e "Executions Times for Longest Increasing Subsequence Program.\n\n" > a1times.txt
+
+# ---------------------------------------------------------
+#  Begin executions -> Maximum Subsequence algorithm, dynamic 
+
+echo "Executions for Longest Increasing Subsequence Program."
+echo -e "Executions for Longest Increasing Subsequence Program." >> a1times.txt
+echo
+
+for cnt in {70..170..10}
+do
+	echo -e "\n\n\n============================================================\n" >> a1times.txt
+	echo "Execution Tests, $cnt length."
+	echo
+	(time ./$1 -bf $cnt) 2>> a1times.txt 1>>a1times.txt
+	echo -e "\n" >> a1times.txt
+	(time ./$1 -dy $cnt) 2>> a1times.txt 1>>a1times.txt
+	echo -e "\n" >> a1times.txt
+done
+
+echo -e "\n-----------------------------------------\n" >> a1times.txt
+

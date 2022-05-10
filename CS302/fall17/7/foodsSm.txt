@@ -1,0 +1,1998 @@
+product/productId: B003VWU7IE
+review/userId: A1UWA2OOVU1MFK
+review/profileName: peachyangel
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1318464000
+review/summary: Healthy
+review/text: Fruitables are one of the best dog treats out there. My dog loves them. His favorite are the apple and banana.
+
+product/productId: B003VWU7IE
+review/userId: A260WZUEU1H633
+review/profileName: Megan Nauman "Megan N."
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1314316800
+review/summary: Wonderful Treat!
+review/text: These treats are great!  They smell wonderful and my dogs love them!  They are also very healthy and great for my dog who is a little over weight as they are low calorie.  The seller was excellent and the treats got here much faster than what was originally estimated.  I would definitely recommend them for anyone with small dogs.  The only downfall is that they are a little pricey but well worth it.
+
+product/productId: B003VWU7IE
+review/userId: A14G5X23KE4KKM
+review/profileName: Ruth
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1296000000
+review/summary: Awesome product/service
+review/text: My dog loves these treats and the pumpkin seems to keep her tummy troubles to a minimum. This is an awesome benefit considering we have no natural grass and unable to find a grass product that actually works!
+
+product/productId: B003VWU7IE
+review/userId: A3IQZI7GLMBCY2
+review/profileName: Christine Bet "Christine"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1295308800
+review/summary: Dog's loved every flavor.
+review/text: These are great dog treats.  I definately recommend them to anyone searching for a healthy treat for their pet.  Both of my boxers love them and get excited when I open a bag.  They are only 1 calorie per treat and they come in a fun shape and decent size.  I don't feel the need to break them in half unless I'm training or I'm running low while we're on a walk.  I've bought the variety pack 3 times now.
+
+product/productId: B003VWU7IE
+review/userId: A36S0UIHXYL8GD
+review/profileName: J. Gale "Schnauzer Lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1294185600
+review/summary: OUR DOGS LOVE THESE!
+review/text: Our dogs absolutely love these treats.  I bought them for my Schnauzer and my friend's Poodle, and both Casey and Bella LOVE them....and in every flavor!  It appears that the blueberry may be their favorite flavor, but they both are eager to snack on ALL the flavors!  And purchasing them in the 4-pack saves not only on the cost of the treats but on shipping as well!  It ended up averaging just at or under $5 per 7 oz. bag!  For this quality, and for how much our dogs love them, that's a fantastic price!!!
+
+product/productId: B003VWU7IE
+review/userId: ADLVKFOVVHK7R
+review/profileName: Rhonda Lawford "dog lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293494400
+review/summary: Tasty fun treats for dogs
+review/text: These treats are great. All my dogs ate them up as well as my sister's dogs. They are cute little flower type pieces, smaller than what I usually feed my dogs, all being over 50 lbs, but they work good for big dogs too. I am going to order some more. Love the fact that they are all natural too.
+
+product/productId: B002OXLXLG
+review/userId: A1Z54EM24Y40LL
+review/profileName: c2
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310601600
+review/summary: Great replacement for the Girl Scout version!
+review/text: If you failed to purchase enough of the Mint Girl Scout Cookies this year, well, this is definitely your day! Keebler used to make the mint cookies for the scouts and one bite of these guys and you'll be astonished at the similarity! The cookie is chocolate, as is the fudge icing, and they're SO wonderful frozen in the summer! Smash them up as topping for your strawberries - yum!  Makes a great cookies and cream ice cream too or mint chocolate chip. They're in patty form, just like the York Peppermint Patty candy, but not quite as thick. LOVE these things, been buying them for years. Highly, highly recommend!
+
+product/productId: B004BRECP2
+review/userId: A2ZHOFHKAQI7TN
+review/profileName: Steven J. Klebaur
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1330128000
+review/summary: Not the best
+review/text: Good price, crispy texture, but artificial vanilla flavoring is overpowering. Boxy taste.  There are better brands of this type of cookie available.
+
+product/productId: B003JHR4GE
+review/userId: A2LO4MHWY0JEUK
+review/profileName: dview
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1310601600
+review/summary: Greenies
+review/text: Our dog Beaudy goes crazy for greenies!  We live in a small coastal town and the greenies are very expensive.  This product was priced very well and the delivery was quick to my door!  We love it and our dog loves it--Win Win
+
+product/productId: B003JHR4GE
+review/userId: A2O70ZL3WWJYX6
+review/profileName: R. Rogin
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301702400
+review/summary: Greenies
+review/text: My dogs LOVE these treats!  I try to always look for free shipping - didn't get that this time, but will be sure to watch for that next time.
+
+product/productId: B003JHR4GE
+review/userId: A1KVV8I7DYPSVN
+review/profileName: Linda
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1293753600
+review/summary: Great value
+review/text: Have purchased greenies at the local pet store for years.  These were such a bargain and exactly the same product as judged by my dog devouring them.
+
+product/productId: B004JLGEII
+review/userId: A882PMEFQSP2N
+review/profileName: angelsguard
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1307318400
+review/summary: Brilliant bulk buy
+review/text: I fell in love with Stash chocolate mint tea two years ago.  I am thrilled to be able to buy it now in an economical and environmentally friendly way.  This is used for my private use and I've felt uncomfortable with all the many boxes I've gone through in order to have my six bag a day tea fix.  If you are a tea junkie and care about our landfill situation then go for broke and purchase this way and save yourself a couple of hundred bucks.
+
+product/productId: B004JLGEII
+review/userId: AS0SPE5TEM74Z
+review/profileName: Elizabeth Kingsley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1332201600
+review/summary: Excellent tasting tea.
+review/text: I have tried many OOlong teas and this is by far the best.  It has a wonderfully light coconut, mango flavor.  The two flavors blend well together, neither one overpowering the other.  I will definitely buy again.
+
+product/productId: B004JLGEII
+review/userId: A2VHX2LUXMLS18
+review/profileName: noblecat53
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328486400
+review/summary: an excellent cuppa
+review/text: really nice tea, and smells wonderful. I enjoy it with a teaspoon of "sugar in the raw."  Stores well as is wrapped in foil. I usually buy the box of 100 teabags since it is an excellent value
+
+product/productId: B004JLGEII
+review/userId: A1UQBFCERIP7VJ
+review/profileName: Margaret Picky
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1321401600
+review/summary: A ginormous box of 1,000 tea bags
+review/text: Stash Chamomile Herbal Tea is tea bags with dried, crushed chamomile flowers.<br /><br />Honestly, as far as I'm concerned, chamomile is chamomile. I suppose that when you use loose flowers you get sediment in the cup and I have seen this happen with some brands of chamomile tea bags, these don't do that.<br /><br />I have also had organic chamomile (this isn't) but I can't taste the difference.<br /><br />Each bag is individually packaged and that is either good or bad depending on how and where you use it and if you are concerned about excessive packaging.<br /><br />If you really, truly like chamomile tea, or own a restaurant, this ginormous box of 1,000 single-serving tea bags is a good choice.
+
+product/productId: B004JLGEII
+review/userId: A38Q1ROUWYYUGW
+review/profileName: lxaccord
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1329177600
+review/summary: Stash Chocolate Mint tea
+review/text: Fast shipping. Smells good when you open the tea bag - tastes like watered down coffee with a faint mint aftertaste. Not recommended.
+
+product/productId: B00374ZKQ0
+review/userId: A2ZIXZP46B737P
+review/profileName: D. J. Bradley
+review/helpfulness: 19/20
+review/score: 5.0
+review/time: 1296172800
+review/summary: Great Alternative Sweetener
+review/text: My review covers the Stevia In The Raw product in packet form. I have not tried the bulk product.<br /><br />This is a great alternative sweetener. It leaves no after taste that I can detect. I use it in tea, on cereal and in three different kinds of oatmeal. Everything that I have used it in or on has tasted the same as it did when sugar was used.<br /><br />I cam accross a couple of articles on Stevia while browsing on the Internet. After reading those two articles I did a little more research and decided to try Stevia. I found this product at our local Kroger store where it happened to be on sale. Kroger carries two ro three other Stevia based products however after comparing the list of ingredients for each I decided to buy the Stevia In The Raw. The list of ingredients for the packet form of this product is dextrose and Stevia Extract (Rebiana).<br /><br />OK, I tired it and it tastes great in everyhting I have used it with but I was curious. The Stevia extract is supposed to be 200 to 400 times more intensely sweet than sugar. If that is the case why was dextrose used and why was it the more prevalent ingredient? I called the company on their 800 and asked this same question. The answer is (according to them) that dextrose is a carbohydrate derived from crushed corn. It is a filler in their product. The Rebiana is so intensely sweet that it was impractical to package it in its pure form in individual packets. The volume would be so small that consumers would wonder if anything was really there. To me this sounds plausible. I am not a dietician, a doctor nor do I work for the company. I simply use their product and like it.<br /><br />I hope this info is helpful. Everyone have a gret day out there.
+
+product/productId: B00374ZKQ0
+review/userId: A17V9XL4CWTQ6G
+review/profileName: Chandler
+review/helpfulness: 38/45
+review/score: 1.0
+review/time: 1320192000
+review/summary: You'll need 3 packs to equal one pack of Truvia. Not a bargain.
+review/text: First of all, I have no ties with Truvia. In fact, I decided to replace my Truvia recently with Stevia in the Raw which is why I'm now typing this. In my grocery store the Stevia in the Raw was cheaper. I'd always felt Truvia expensive, so I was all over that.<br /><br />While I personally do not believe the phrase "You get what you pay for" since sometimes a consumer is only paying for more marketing in a more expensive product...in this case, it's true.<br /><br />I do like sugar in the raw and I do buy it. It's way better than regular sugar being bleached and processed through bone char (for reals).<br /><br />But, first of all, this isn't "in the raw". That would mean it's pure Stevia. It also contains Dextrose. Dextrose is a very cheap additive that's sweet that's made from corn. It's high carb. Great if you just finished a tough workout and need carbs. Not great if you call yourself Stevia in the RAW<br /><br />Having formerly worked in food chemical sales, I know that Dextrose is Glucose. This is not an artificial additive, however diabetes is caused by high levels of glucose in the blood. I therefore find it quite scary that this is labeled "raw" when diabetics may use it or someone wishing to avoid sugar would use it.  Now granted, Truvia has a fruit sweetener in it as well, because stevia is actually SO sweet that you'd have hardly anything in a pack otherwise because it takes very little stevia to sweeten something, but it's not calling itself "raw" either.<br /><br />But let's bypass that and take our sugar/stevia packs and move on. Is the rest the same?<br /><br />Huh-uh.<br /><br />You get 50 packs of Stevia in the Raw in a box.<br />You get 40 packs of Truvia in a box.<br /><br />Superb huh?<br /><br />Likely, because Stevia in the Raw was a tiny bit less expensive, you will do as I did and think "Woo Hoo! I get more for less!" Aw, those marketing dogs saw me coming a mile away.<br /><br />Not so fast.<br /><br />I kept making my coffee and hating the taste of it. Bitter.  I began adding 2 packs of Stevia in the Raw. Still not sweet. I had just bought a new coffee and I was thinking it must be stronger of something. Then I found a pack of Truvia I had in the drawer and realized how much MORE was in the pack simply by picking up the pack. I added that one pack to my coffee and it tasted, finally, sweet again.<br /><br />So that got me thinking...<br /><br />I go to the Stevia in the Raw box and look at the net weight of those 50 packets.<br />It is 1.75 ounces.<br />I then, when shopping again, pick up a box of Truvia (and buy it of course because I'm tired of coffee tasting unsweetened.) and for 40 packets it's 4.9 ounces!!!!<br /><br />WOA! I've just been had. I have to use about 3-4 of those Stevia in the Raw packets to equal the taste of one Truvia packet because there is next to nothing inside the packet..just as I suspected. They gave me more packets with less inside each one. So I have to waste paper, and time opening packet after packet just for one cup o' joe.<br /><br />And quite frankly, I don't like deceptive marketing and it's going on all over every 1.75 ounce box of Stevia in the Raw.<br /><br />But, wait...one more thing...<br /><br />Because Stevia in the Raw has sugar in it in glucose form, is it really 0 calories for the same amount? or just a low amount in one packet but by the time you use 4, how many calories may have snuck in....because 0.5 calories can add up too.  Not that I care about 4 calories or 2 calories, but in comparing the two products, and how little is in a packet of Stevia in the Raw...<br /><br />It wouldn't surprise me.<br /><br />Truvia, by the way, has Erythritol in it. This is one of the best all-natural zero calorie sweeteners you can buy. The Brand Z Sweet is erythritol. It's great for diabetics and dieters because it's the one that will NOT spike your blood sugar but is still all-natural. Stevia is so lightweight it needs a counterpart. Erythritol is a stevia cousin. Dextrose is a cheap filler that isn't.
+
+product/productId: B00374ZKQ0
+review/userId: A1I1V7QUWSMYGA
+review/profileName: Your Online Bookstore
+review/helpfulness: 13/15
+review/score: 5.0
+review/time: 1265760000
+review/summary: This is the only brand out there with minimal aftertaste
+review/text: I'm not 100% certain this is the same product sold at [...], but this is the only place I could find to review it, and I wanted to review it somewhere.  I love this stuff.  I've tried all the major stevia brands (including everything at Whole Foods), and Stevia in the Raw (which Whole Foods doesn't carry, sadly) is the only brand that doesn't taste like crap.  All other brands have a heavy bitter-licorice aftertaste.  Stevia in the Raw is unique in that I can put the powder itself to my tongue without grimacing.  I can't even do that with "normal" (i.e. toxic) sweeteners like NutraSweet or Equal (though Splenda tastes fine raw.)  I suppose I have a somewhat sensitive palate, and with the heavy amounts of sweetener I use, I can still detect a slight aftertaste even with Stevia in the Raw -- so if you're a heavy user with a sensitive palate, then just combine it with some erythritol and you're good to go.  No aftertaste whatsoever with that combo.  And this is way better for you than any other (palatable) sweetener.
+
+product/productId: B00374ZKQ0
+review/userId: A220GN2X2R47JE
+review/profileName: CJ
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1298073600
+review/summary: Very good in Green Tea, Herbal Tea, English Tea & Coffee
+review/text: I mostly drink English Tea and it is very yummy in English Tea and is pretty good in Green Tea & Herbal Teas as well.<br /><br />Pros:<br />No Odor<br />It's sweet<br />Not over powering<br />No licorice-like flavor<br />No after taste<br />Zero calories<br />Gluten Free<br /><br />Cons:<br />It's obviously not sugar! But pretty good.
+
+product/productId: B00374ZKQ0
+review/userId: A2YCEKVUN1W5F1
+review/profileName: K. Salinger "MBA, MSN, FNP, RN"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1315526400
+review/summary: The best Stevia sweetener! NO FUNKY AFTERTASTE!!!
+review/text: I've tried for years and years to like stevia, but it's always left a funky aftertaste in my mouth that just ruined it's use for me. Until now, the most tolerable of the stevias was the vanilla cream by sweetleaf, but even that left the funky after taste.<br /><br />A few months ago I decided to go on a marathon stevia taste test adventure and bought almost every brand out there to give them each a go. I didn't have high expectations as I fully expected them all to leave me with the funky taste. I did not do truvia, because it has another added sweetener - it is not pure stevia. I only tested those that were pure stevia plain flavor and vanilla flavor (since the sweetleaf vanilla had been the best one so far).<br /><br />I was shocked beyond belief when using the stevia in the raw and not having any funky after taste! I tried it many different ways - in chai tea, to sweeten hot breakfast cereal, for baking and cooking sweet treats, etc. and no aftertaste! I also tried larger quantities, as sometimes the more you use the increased after taste. So far no matter what I've done with this stevia I've had NO aftertaste what-so-ever!!!<br /><br />If you've tried to like stevia and just can't get past the after taste then give stevia in the raw a go - I think you'll be very surprised and pleased as I've been. Yay - finally a stevia I like.
+
+product/productId: B00374ZKQ0
+review/userId: AOJTB8BZVZQPP
+review/profileName: Frankie
+review/helpfulness: 8/10
+review/score: 5.0
+review/time: 1282694400
+review/summary: Very good stevia without any extra ingredients.
+review/text: I bought them at Shoprite (at 3.79 for a box of 50, its cheaper than from this seller) and I am so happy that I can enjoy sweet things again!  I compared it to other sweetners such as truvia and purvia, I like this product because I won't support coca cola(maker of truvia) or pepsi (maker of purvia) if i buy this.  Also, there is only two ingredients : dextrose and stevia extract.  Each pack is 1 gram, so I assume there is maybe 0.9 gram of which is dextrose, which IS a sugar, but the FDA allows the labeling to be such that if a serving is under 4 calories, it can be called 'zero-calories'.<br /><br />To my understanding, dextrose is needed as the bulking agent (probably stevia extract is so potent, no one can use it if its in pure form) Online searching have shown dextrose contains 3.7 cal per gram, so if you have to use many packets for your tea or coffee, it won't be calories-free.  BUT, 3 packets of this (maybe like 10 cal) made my 12 oz of water with lemon juice taste like a real cup of lemonade made with real sugar, and THAT would be like 110 calories. And it taste so much better and healthier than splenda.
+
+product/productId: B00374ZKQ0
+review/userId: A1MOQQSWMEUS2V
+review/profileName: PattyK
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1333238400
+review/summary: What a Mixture of Reviews!
+review/text: I guess our taste buds are all completely different considering the mixed reviews on this product.  Myself, I thought the Stevia in the Raw was pretty good.  It was no better or worse than any other sweetner I have tasted.  Considering it is healthier than the others, I will make it my brand of choice.  For one reviewer to call anyone who claims they like Stevia in the raw a liar, that is absurd.  Some people are so mean.  Many people drink Diet Coke and I can't stand it, even after trying to like it for years.  We all have different taste buds, obviously.  That is not a lie!
+
+product/productId: B00374ZKQ0
+review/userId: A34QRYPCFN523W
+review/profileName: Dr Don
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1350432000
+review/summary: Sweet nothing in my coffee!
+review/text: My review of Stevia in the 12 pack should be enjoyed more as a blues tune, so get any classic blues riff in your head and apply it to this:<br /><br />I really likes my coffee<br />And loves my cuppa tea<br />But sugar gives you diabetes<br />And that's no good for me<br /><br />I tried to use the other<br />Synthetics taste like wood<br />But I got the Stevia blues<br />Cuz it's sweet and so damn good!<br /><br />The Stevia blues<br />The Stevia blues dats fo me<br />Whether drinkin a beverage or eating a snack<br />All I gots to do is open that pack<br />And plaaaayyyy them ole Stevia Blues!
+
+product/productId: B00374ZKQ0
+review/userId: A1KC2SB3VXRUNE
+review/profileName: mamado
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1341273600
+review/summary: Don't buy Stevia in the Raw if you are diabetic
+review/text: Stevia in the raw is not good for diabetics.  I was so disappointed when I read the first ingredient is dextrose.  I should have looked at the label.  I thought it was pure stevia.  Dextrose is high glycemic and can raise your blood sugar. The makers of Stevia in the Raw are deceiving people who aren't firmiliar with dextrose.  Body builders use a shake with dextrose in it.  It is not a product that a diabetic should be using.  I will be taking my box of Stevia in the<br />Raw back.
+
+product/productId: B00374ZKQ0
+review/userId: A1WH9L3B34W915
+review/profileName: S. Campbell "S. Campbell"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1306281600
+review/summary: Great product
+review/text: I found this to be the best stevia in the packets.  Minimal after taste.  Very convenient to use.  We use the packets for individual drinks or on the go.  Because of cost, I buy the bulk stevia for using in pitchers of iced tea.  Also, I have found it very satisfactory for sweetening our home made yogurt.  Very happy with this product.
+
+product/productId: B00374ZKQ0
+review/userId: A3NVGVB2BS4ADR
+review/profileName: www.FirstAmazon.com
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: A stevia blend that will not disappoint!
+review/text: I have been using stevia for over a decade and tried dozens of different blends.  This blend is brought to you by the folks who bring you Sugar in the Raw.  Stevia in the Raw is one of the best stevia blends that I have tasted.  It works, it's potent (you may find that you only need half a packet in your iced tea or lemonade) and has absolutely no after-taste.<br /><br />It's equally tasty in cold drinks, coffee or tea.<br /><br />Best of all for being of such high quality, bought in bulk on Amazon THIS BRAND actually ends up being one of the lowest cost per packet.<br /><br />Try it....you won't be disappointed!
+
+product/productId: B00374ZKQ0
+review/userId: A1BFRTDMLD15UR
+review/profileName: Lucy Galvez
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1349308800
+review/summary: well product
+review/text: If you can't understand why the product measures same as sugar then pick up a bag of equal size and you will notice this in volume is light as a feather. The bag is larger than a 5 pound bag of sugar. It works very well and there is no deception. Check it out.
+
+product/productId: B00374ZKQ0
+review/userId: A1082L7GPFC0MD
+review/profileName: :(
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348444800
+review/summary: MALTODEXTRINE, BEWARE!
+review/text: This product is bad for you!!  I bought this assuming that "Stevia in the raw" meant that it was in fact, just stevia. NO!!  The number one ingredient listed is Maltodextrine.  Maltodextrine is TWICE as bad for you as simple sugar.  So by cutting stevia with maltodextrine, In The Raw has negating anything positive about this product, and made it JUST AS BAD FOR YOU, if not worse than, table sugar.  Buy SweetLeaf instead.
+
+product/productId: B00374ZKQ0
+review/userId: A2GEZJHBV92EVR
+review/profileName: History buff
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Very good alternative to sugar.
+review/text: I have tried many of the no sugar sweeteners out there. I find this to be the best. I like it even more than truvia ( which is way too sweet for me ). I put it in everything where I used to put sugar. Love it. Good stuff.
+
+product/productId: B00374ZKQ0
+review/userId: ARFV8BBMBQ054
+review/profileName: Sensitive Palate
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1329782400
+review/summary: Stevia in the Raw
+review/text: Purchased a single box in my grocery store, thinking Stevia products would all taste the same. Big mistake. The packet aftertaste was so unpleasant that I tossed the whole box after several tries at sweetening my iced tea. Stevia in the Raw didn't even come close to the Now product I purchased formerly in packets (Stevia Extract, Non-Bitter)which contained maltodextrin (rice sugar product)that probably made the difference. Would prefer to skip maltodextrin. Perhaps the organic extract powder in containers will taste better than the packets. A disappointed consumer.
+
+product/productId: B00374ZKQ0
+review/userId: A1CD1XP35JPU2S
+review/profileName: Earth Mama "Earth Mama"
+review/helpfulness: 3/5
+review/score: 1.0
+review/time: 1317859200
+review/summary: this stuff is nasty!
+review/text: I thought this stuff had a bad aftertaste. Not just the normal stevia aftertaste, but also the aftertaste from added ingredients. It completely ruined my cup of coffee, I had to throw it out and re-brew! I have tried it in a couple of desserts with the same results-- disgusting! I highly recommend using erythritol instead.<br /><br />PS: I have grown stevia and it tastes much better than this stuff. However, even the homegrown stuff has an aftertaste, and I would normally never put it in coffee!! Stevia is very very easy to grow and if you like stevia, I think you should consider growing it :)
+
+product/productId: B00374ZKQ0
+review/userId: A2C8Z24UT8W79J
+review/profileName: Dr. Z.
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1339545600
+review/summary: natural sweetener
+review/text: I have been using stevia products for many years before it was popularized. It is the best natural, non sugar, sweetener on the market without fillers like Truvia and other stevia products. Suitable for baking and anything where you would use sugar. Excellent product for the diabetic as well.
+
+product/productId: B00374ZKQ0
+review/userId: A3U7Y2BPCFNEDK
+review/profileName: Vickie
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1318204800
+review/summary: Stevia
+review/text: Love this product. No after taste, and according to my research one of the better products around.Always fast delivery and well packaged. Very pleased. Will continue to order this online.
+
+product/productId: B00374ZKQ0
+review/userId: AI2KHEXJXQIQ2
+review/profileName: Paul Andrew Anderson
+review/helpfulness: 4/7
+review/score: 3.0
+review/time: 1315785600
+review/summary: This is Dextrose (D-glucose)!
+review/text: Holding the package now, the ingredients read: "Dextrose, Stevia Extract". In other words, it's primary ingredient is Dextrose with some Stevia added so they can call it that. Now, Dextrose itself is not all that bad, however, if you have a health issue and wish to use Stevia, you must read labels. Search for pure Stevia. There are much cheaper Dextrose based sweeteners here at Amazon.com  Google "Dextrose side effects" because the Stevia portion of this is harmless to anyone. I'd recommend Now:  [...]
+
+product/productId: B00374ZKQ0
+review/userId: A22UP57PZNGP3A
+review/profileName: B. P. "coffee lover"
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1326153600
+review/summary: Not for me
+review/text: Tried this for the first time and had to dump an otherwise good cup of coffee.  The aftertaste resembled liquor/alcohol to me.  Obtained a second opinion, and he agreed with the taste analogy to hard liquor.  Will not be purchasing this product again.
+
+product/productId: B00374ZKQ0
+review/userId: A1XM9PE80KR9T5
+review/profileName: Deborah Kasowitz
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1329955200
+review/summary: watch out
+review/text: Tried using Stevia instead of white sugar in my chocolate chip cookies. Big mistake. The cookies never flattened or melted into normal looking cookies. The dough (which also was not normal) just stayed as it was when it went into the oven. Did not look like, feel like, or taste like a chocolate chip cookie!
+
+product/productId: B00374ZKQ0
+review/userId: A2HNJUYJQA8D5M
+review/profileName: R. Godale "RAG"
+review/helpfulness: 2/5
+review/score: 1.0
+review/time: 1294704000
+review/summary: Horrible Taste
+review/text: Tried this exact brand of Stevia today and I had to toss out my cup of coffee, it totally changed the taste and also had an awful "bitter" after taste. YUK....!!!!
+
+product/productId: B00374ZKQ0
+review/userId: A1WEY252CHABRY
+review/profileName: ms
+review/helpfulness: 3/8
+review/score: 1.0
+review/time: 1323561600
+review/summary: ZERO STARS - absolute garbage
+review/text: Don't buy this. I use Sugar in the Raw and thought every once in a while it might be better if I used this alternative. Personally if I put a spoonful of mud in my coffee I'm sure it couldn't taste worse than this stuff.<br /><br />Real Sugar in the Raw is somewhat granular in texture and light brown. This stuff is white and powdery, like confectioners sugar. The taste? The worst.<br /><br />I threw the entire package away and will never buy anything like it again. I'd rather drink my coffee black. I'd never use it in any recipe, as I'm sure the taste will be 'off' and all your ingredients will be ruined.<br /><br />Find something else or do without sugar.
+
+product/productId: B00374ZKQ0
+review/userId: A21K28EQ023UUU
+review/profileName: NY rat "+"
+review/helpfulness: 1/5
+review/score: 1.0
+review/time: 1296345600
+review/summary: bitter! yak; not sweet
+review/text: I used to use 3 sweet and low's...this one takes 6 packes! and even then it's not sweet but bitter! yak  Truvia is a lot better! I use 3 truvias..and that one is sweet and has no aftertaste like this stuff
+
+product/productId: B00374ZKQ0
+review/userId: AJ8CBMFSPRKQU
+review/profileName: &#60;/&#62;&#60;
+review/helpfulness: 2/7
+review/score: 1.0
+review/time: 1329436800
+review/summary: This is Not PURE Stevia but 90% FILLER added
+review/text: First off, just READ the Ingreients if you don't believe me!<br /> This "Stevia" in the RAW is NOT pure Stevia! It's really 90%....yes 90% FILLER! PURE STEVIA you'd use 1 TEASPOON for 1 CUP of Sugar, this crap they added so much Maltdextrin to make it equal to a cup of sugar.<br />Buy NOW FOODS "Better Stevia" if you want Stevia and save money. It will use 1 TEASPOON for what normally would take you a CUP of Sugar.<br /><br />This is outrageous! To call this "Stevia in the RAW" and then add 90% FILLER and I mean 90% FILLER!....is a JOKE! Stevia is 400 Times more sweet than Sugar, these packets should be a third smaller, but NOOOOOOOOO, they add crap Filler to equal the volume out with sugar!  There other title this company sell is "sugar in the raw" and that is 100% Pure sugar, so why here do they not also have 100% pure Stevia?  This is a RIP -OFF! If you want to pay for FILLER-ADDED crap then go ahead! *****If you really want PURE STEVIA, then buy the NOW FOODS "Better Stevia".<br />1 TEASPOON = 1 Cup of sugar. Why pay money for 90% FILLER garbage! Thank You
+
+product/productId: B00374ZKQ0
+review/userId: A17F4D8CTQG7IU
+review/profileName: John Merhej
+review/helpfulness: 3/9
+review/score: 1.0
+review/time: 1321315200
+review/summary: Disgusting is an Understatement!!!
+review/text: while waiting for my order to arrive (now foods - better stevia) i picked up a box of "stevia in the raw" from my local supermarket, and boy what a mistake that was! it is without a doubt one the most disgusting sweeteners i have ever tasted and these people claim that it has no after taste...i got one word in response to that, LIARS!<br />avoid it at any price!!!
+
+product/productId: B00374ZKQ0
+review/userId: A1937QU9932EVJ
+review/profileName: Molly
+review/helpfulness: 3/14
+review/score: 1.0
+review/time: 1305331200
+review/summary: Chemical Garbage!!! AVOID!!!
+review/text: I have tried this in many different recipes, all to my dismay and wasted ingredients... It always comes out the same.  It tastes like serious chemicals and is so gross it overpowers everything else.  This is SOOO NOT worth the money or time!  If you're looking for a totally all natural sweetener just buy a lb of dates in the veggies section of your store, cut them in half and take out the pits/stems, soak them in like a cup of water over night (covered well over) then blend them in your blender/food processor. It will make a thick paste that you can store in a jar/container in your fridge for a couple weeks.  I know that may sound like more trouble, but really? You'd be waiting for these things in the mail and when they arrive, I know you'd be dissapointed. Dates are chemical/sugar free, all natural and totally sweet so they DO work in many recipes and even coffee/tea.  Dates, now, after trying many, many sweeteners ( I have a serious sweet tooth) are the ONLY thing I will endorse that is remotely safe for your body and also tastes GREAT.  Peace, hope this helps...
+
+product/productId: B00374ZKQ0
+review/userId: A39GY44QP5Z374
+review/profileName: Dekatria
+review/helpfulness: 5/27
+review/score: 2.0
+review/time: 1287187200
+review/summary: Tastes good, but at what cost?
+review/text: Stevia in the raw contains saccharine, which is most commonly found in Sweet n' Low, which has been linked to bladder cancer..."The actual warning reads:<br />"Use of this product may be hazardous to your health. This product contains saccharin, which has been determined to cause cancer in laboratory animals."<br />Note that this warning was removed in 2000 by the US Congress (not by the FDA) after heavy lobbying by the saccharin industry.<br />Further research was then done on saccharin, because the FDA wished to ban saccharin outright but the food companies fought this (successfully). The National Cancer Institute ran studies in the next 2 years and found that saccharin was indeed connected with bladder cancer. People who drank only 2 cans or more a day of diet soda had an increased risk."<br /><br />Stevia by itself is one of the 'healthiest' low cal sweeteners on the market but when mixed with things like saccharine - I mean you might as well just use sweet n' low. The only pure stevia brand I have found is SweetLeaf Stevia - it is not as delicious and most certainly has a bit of an aftertaste, but I have gotten used to it since I have a blood sugar problem and can't consume sugar. My advice is that unless you physically cannot handle sugar, a small amount of raw sugar is much better for you than all this artificial crap. Just be smart about the stevia bandwagon everyone is jumping on, because pretty much every brand out there is just some other sweetener mixed with stevia and then sold as 'healthy'.
+
+product/productId: B006Z0Z6WG
+review/userId: A1EVV74UQYVKRY
+review/profileName: K. Groh
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1343520000
+review/summary: Tastes Pretty Good, Kids Love it, Moderate Nutritional Content
+review/text: We bought this on a whim. My daughter wanted to try it out and was pulled in by the chocolate centers. It went quickly and we bought it again.<br /><br />I like it but I wouldn't consider it to be an every morning bowl of cereal. I much prefer a more hearty cereal with a little more substance.<br /><br />Krave makes for a fun snack and can take away that chocolatey craving. It's pretty dry and the chocolate inside is really some kind of a paste.<br /><br />I'd rate it moderate for nutritional content, pretty good for flavor. Not the best cereal by any means.
+
+product/productId: B003EMXLU2
+review/userId: A3CTEFTZW2XR70
+review/profileName: Courtney J. Byelick "CJ Walsh"
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1290470400
+review/summary: YUM!
+review/text: came in a plastic bag, in a box. wasnt the freshest, but still yummy. i ordered these for my bridal shower-candy buffet. they were a bug hit; had tons of flavors. these fit in a 1 gallon cady jar (1 gallon=5lbs candy)
+
+product/productId: B003EMXLU2
+review/userId: ASKSY3IP98LFI
+review/profileName: H. WILSON
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1339545600
+review/summary: Orange slices
+review/text: Well pleased with my order of orange slices.It was the right taste I have been searching for since my childhood days.Price and delivery was satisfactory.Wish they had mixed flavors.
+
+product/productId: B003EMXLU2
+review/userId: A2PSCKTG5FENHO
+review/profileName: Sher
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338854400
+review/summary: Yum Yum
+review/text: Short, sweet, simple.  Yum, yum.  Can't go wrong with orange slices! Were delivered in<br />perfect condition and were well received by co-workers.  Thank you. :)
+
+product/productId: B003EMXLU2
+review/userId: A3C56IXBT4ETXA
+review/profileName: Bashert
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1319932800
+review/summary: Although Bag was torn, Product was great
+review/text: Better than I remembered.  Still sweet, but had good orange taste.  I wouldn't call it "real" orange flavor, but it was just like I remembered as a child.
+
+product/productId: B001IZHZJA
+review/userId: A13907NV5J1H3H
+review/profileName: Ronald Giranio "musicman"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261612800
+review/summary: Nestle chocolate bars
+review/text: Among the best milk chocolate candy I've eaten--ranks with the pricey kind for taste and texture. Would buy again.
+
+product/productId: B001IZHZJA
+review/userId: AEM8N4HUYWNZ1
+review/profileName: Ronald A. Bailey "rontoday"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1260230400
+review/summary: Nestles chocolate bars
+review/text: These are chocolate bars that are no longer on the open market. They are the best chocolate bars that I've ever had.
+
+product/productId: B001IZHZJA
+review/userId: A1O2XNLHXCQDCL
+review/profileName: tireguy
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1340582400
+review/summary: nestle chocolate bar
+review/text: i was disapointed since this product is not like the original. the chocolate is darker and not creamy like the original.
+
+product/productId: B001IZHZJA
+review/userId: A18OL06D6VPXR1
+review/profileName: Lloyd Morris "Looouuuuu"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327708800
+review/summary: GREAT Chocalate Bars!
+review/text: Since I order these candy bars because I really like the milk chocolate taste, I will avoid the comparison to the difference in taste between these and other candy bars like Hershey.<br /><br />These bars arrived in great shape! None were broken and the had obviously been stored properly. I ordered boxes from a different vendor a few years ago and the some had melted. NOT THE CASE WITH THIS VENDOR!<br /><br />I will definitely order from this vendor again when I need my next Nestle fix!
+
+product/productId: B001IZHZJA
+review/userId: A24NZ85AJHULCZ
+review/profileName: Nestle Milk Chocolate Lover
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327190400
+review/summary: Milk Chocolate Delight
+review/text: <a href="http://www.amazon.com/gp/product/B001IZHZJA">Nestle Milk Chocolate Candy, 1.45-Ounce Bars (Pack of 48)</a>This product is very hard to find in stores. Amazon has it and the candy is Very tasty and well worth the price. Highly recommend to all Milk Chocolate lovers. Although most milk chocolate lovers already know.
+
+product/productId: B001IZHZJA
+review/userId: A2WRM92QTUDRRY
+review/profileName: Lawrence E. Platte
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1304640000
+review/summary: Linda
+review/text: I was looking for candy bars on different web sites, and came across the Nestle Chocolate Bars and the price for the number of bars was incredible.  I could not believe I could buy a candy bar for 37 cents each, I ordered the candy bars and they are great.  I have given some to friends and neighbors.  Would purchase from this vendor again.
+
+product/productId: B001IZHZJA
+review/userId: A36FJ72LXUNWOK
+review/profileName: Harvey L
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1276300800
+review/summary: Nestle Milk Chocolate Candy Bars
+review/text: I grew up with this product while living in Cleveland, Ohio.  I always preferred it to Hershey's Milk Chocolate.  I consider it to be a bit sweeter than the Hershey product.
+
+product/productId: B001IZHZJA
+review/userId: A1YNYRZMNCEDDC
+review/profileName: Peter E. Carlson
+review/helpfulness: 1/3
+review/score: 3.0
+review/time: 1273881600
+review/summary: Don't pay attention to other reviews
+review/text: I bought this, based on the reviews. Big mistake. While I agree, it is less expensive than other name brand chocolate bars, there is not much of a creamy texture I expect in milk chocolate. I also think it is to sweet, at least for my taste. But opinions are like noses, everyone has one and they are all different. So I would suggest not basing a purchase of any product based only on the reviews you see
+
+product/productId: B0015V7GG4
+review/userId: A8LWH79C2TVK5
+review/profileName: SallySmith "Twiddles"
+review/helpfulness: 5/5
+review/score: 4.0
+review/time: 1231718400
+review/summary: Tastes like just back in Holland
+review/text: The salt liocorice was very good.  It came nice and moist, so even our three year old could chew it up.  It brought back memories for my husband, whom ate it while he was a little kid.<br /><br />My only complaint if you want to call it that was that it could have been a little bit saltier.  I know I could have ordered double zout, but this for single salt should have been slightly saltier.<br /><br />Enjoy!
+
+product/productId: B0015V7GG4
+review/userId: A310DRQT0UMYL9
+review/profileName: pkb
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1310774400
+review/summary: Fantastically strong!
+review/text: These are fantastic!  Very very strong black licorice, with a salty finish.  One at a time for these puppies, so they will last a while.  Better than anything made in the U.S., which has always been too sweet for me.
+
+product/productId: B0015V7GG4
+review/userId: A3SBDPI446D4VA
+review/profileName: glendavm
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1299628800
+review/summary: yum yum
+review/text: These are just what I wanted.  I "need" to have my droppes<br />at night before bed and was having to remember to purchase<br />them at a store 200 miles away.  Now I have enough to last me<br />a long time and very easy to order more.
+
+product/productId: B0015V7GG4
+review/userId: A364G7X2C85G36
+review/profileName: S. ANDERSON
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1288396800
+review/summary: licorice
+review/text: If you like salty licorice - and I do - I think you will like this.  It isn't too salty - just right!  Try it and see.
+
+product/productId: B0015V7GG4
+review/userId: A1W50OR49ON5OP
+review/profileName: Laura Millar
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1344124800
+review/summary: So Yummy!!!
+review/text: First of all I love salt licorice so I am already going to like the product. I would say this is a more mild version so might appeal to more people. I brought this to work and out of the twenty or so coworkers who tried it, only one liked it and came back for more, everyone else spit it out right away and complained that it was too salty (even people who said they love black licorice). So if you are a fan of salt licorice I would recommend this product (you get a very large amount with one order and it will last you months!).
+
+product/productId: B001682QCK
+review/userId: ABPDZO93VWAK5
+review/profileName: Mike Freeland
+review/helpfulness: 3/4
+review/score: 1.0
+review/time: 1318032000
+review/summary: NOT THE NESTLES CHOCOLATE I KNEW AS A KID-- DONT WASTE YOUR MONEY
+review/text: THE NESTLES CHOCOLATE BAR DOES NOT TASTE AT ALL LIKE IT DID WHEN I WAS A KID!<br />THE RICH VELVETY SMOOTH CHOCOLATE TASTE IS GONE. SOMEONE MUST HAVE CHANGED THE FORMULA.<br />THIS BAR USED TO TASTE 100% BETTER THAN A HERSHEY BAR BUT NOT NOW. HERSHEY TASTE BETTER.<br />I WASTED OVER 18 DOLLARS FOR 24 OF THESE BARS. THE OLD TASTE IS JUST NOT THERE.<br />NO WONDER YOU DONT SEE THESE SELLING ON STORE SHELVES ANYMORE.ITS JUST DOESNT TASTE THE SAME AS IT USED TO TASTE.<br />I WILL NOT RECOMMEND THESE TO FRIENDS AS THE QUALITY AND TASTE ARE JUST NOT THERE LIKE IT USED TO BE.<br />SOMEONE AT NESTLES DECIDED TO CHANGE THE FORMULA AND MAKE THIS BAR USING CHEAPER AND ARTIFICIAL<br />INGREDIENTS TO SAVE ON MONEY AND NOW WHAT THEY HAVE NOW IS AN INFERIOR CANDY BAR!!!
+
+product/productId: B001682QCK
+review/userId: A7EJERNB7IK3Z
+review/profileName: CQ DX
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1334620800
+review/summary: Nestle's CHANGED their formula, thus taste!  TERRIBLE chocolate!
+review/text: This is NOT the Nestle's milk chocolate I had as a teenager growing up in the 70's, which started my lifelong love affair with milk chocolate!  Nestle's changed and cheapened their formula!  What once was a creamy, rich, delectable, world class milk chocolate is now a cheap tasting mess.  Thank God Boyer hasn't changed their 'Mallo Cup' formula (one of my other fave candy bars).
+
+product/productId: B001682QCK
+review/userId: A1872A9YUZ6PX8
+review/profileName: sheila r strawser
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1324857600
+review/summary: nestle chocolate bar
+review/text: I HAVE SEARCHED ALL OVER AT STORES IN MY AREA  FOR NESTLE MILK CHOCOLATE BAR.  I CAN FIND NESTLES CRUNCH BARS EVERYWHERE.  I PLACED ORDER ON LINE.  THE SHIPPING WAS A LITTLE SLOW, BUT OVERALL I WAS VERY PLEASED WITH MY ORDER<br />SHEILA E
+
+product/productId: B001682QCK
+review/userId: A2A9X58G2GTBLP
+review/profileName: Wolfee1
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1312502400
+review/summary: GREAT TASTING CHOCOLATE!
+review/text: Nestle Milk Chocolate 24 Bars, The Great tasting and smooth Chocolate as what I always remember of Nestle, superior Milk quality Chocolate is made with real Milk Chocolate for a rich and creamy eating experience. I love it and have it often as a snack. Nestle knows how to make Chocolate they have been doing it since the late 1800's, the Company largely responsible for making Chocolate chip cookies. Sometimes I make Chocolate curls with a Nestle Milk Chocolate Bar and the help of a vegetable Peeler, I do it to decorate Cakes, or put on top of Pies to give that touch of Style from a Great tasting Milk Chocolate Bar. Thank You
+
+product/productId: B001682QCK
+review/userId: A2SP15S5FE4CIZ
+review/profileName: Dakota13
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1298851200
+review/summary: Great chocolate
+review/text: This was really good chocolate.  I didnt receive what I ordered though.<br />Instead, I received the "new" chocolate.  Quite a disappointment.  Still the chocolate is good, its just not the tried and true chocolate that I remember.  And for that price....I could have bought it at a local store.
+
+product/productId: B004MZ40DW
+review/userId: AHF4ZRGFQFV7K
+review/profileName: Old Paint
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345075200
+review/summary: Great item
+review/text: I have been using Nature's Recipe "Easy to Digest" Chicken Cuts with Gravy for about six months. My 12 year old beagle was having kidney problems and had refused to continue eating dry food. We looked for a wet food, which the vet suggested would be easier for him to digest and reduce his need for water. We tried the Nature's Recipe brand and he loved it. Acts like a puppy at feeding time. His general health has improved and we are happy with this product.
+
+product/productId: B004MZ40DW
+review/userId: A2WJQSVBYH75K9
+review/profileName: Paige Melton
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1329955200
+review/summary: Made my dog sick
+review/text: My dog eats Nature's Recipe "Easy to Digest" dry food everyday. It really helped with her digestive issues. I thought the wet food version would be okay, but it made me completely ill. She was dry-heaving, had major gas issues and was quite lethargic. About 12 hours after her final dose of it, all of her symptoms disappeared. The dry food is still great, but this wet food is really awful.
+
+product/productId: B002PXSGA6
+review/userId: A3V9HLMLJJKEJT
+review/profileName: Peter Commons
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1270166400
+review/summary: British Candy - with free Amazon shipping!
+review/text: My wife is Scottish and really misses good "British" chocolate. Not sure what the difference is, but British chocolate is just different (and better in many of our opinions as well). Quality Street is a great assortment of flavors to satisfy a British chocolate craving.<br /><br />Also - Purchasing from the many British food web sites often costs a lot shipping-wise, and the chocolate may be old and stale. Not from Amazon!
+
+product/productId: B002PXSGA6
+review/userId: AZXKAH2DE6C8A
+review/profileName: Patricia A. Autrey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1287792000
+review/summary: Quality Street is at it's best
+review/text: These little nuggets are so good. I cry because they are being discontinued when I have just found them. What am I to do?
+
+product/productId: B0013Z0PTW
+review/userId: A15H78YNIZTXN2
+review/profileName: G. Sebenick "GildaSe"
+review/helpfulness: 8/8
+review/score: 5.0
+review/time: 1208476800
+review/summary: 9 Grams of Fiber that tastes like a treat
+review/text: I have had all three of the Fiber One Bars (oats & chocolate, oats & peanut butter, and oats & caramel).  I didn't really care for the oats & chocolate, but I like the oats & peanut butter a lot.  It tastes very good with a nice mellow peanut butter flavor.  Even my young boys (6 and 3) like it.  As good as oats & peanut butter is, though, the caramel is 10 times better.  It tastes like a candy bar. Obviously, it has a firm texture, but it's not dry by any stretch.  It makes a great breakfast or part of a breakfast that can stick with you for a few hours.  It can also serve as a very satisfying snack.  I will confess that, since my supply of these bars has been limited, I haven't had my kids try them yet.  But, now that I have been finally able to order these from Amazon, I will definitely let them try this new flavor.
+
+product/productId: B0013Z0PTW
+review/userId: A1HHEMY96W1M1V
+review/profileName: Autodidact
+review/helpfulness: 3/3
+review/score: 3.0
+review/time: 1305244800
+review/summary: Inulin -- take it slowly!
+review/text: Inulin, found in chicory root, is the key ingredient here; everything else in the bar is designed to make it possible for you to eat the inulin.  Search the web on inulin (not insulin!) -- it is being touted as a wonderful probiotic ingredient.  And there's no question that eating these bars will make the trains run on time, so to speak.<br /><br />The problem is that not everyone tolerates inulin well, and tolerance is at different doses.  Some people experience gas, cramps, frequent bowel movements with tarry stool, and other kinds of GI distress.  This is not because of the increase in fiber per se -- it is a reaction to the specific fiber here, inulin.<br /><br />The bars are very sweet but don't treat them like a snack until you know how your body reacts.  (I read with horror the account of one person who sat down with a box and polished off four or five in a sitting.) Take it very very slowly.  I can tolerate one (1) bite of a bar a day; more than that and I get in trouble, period.  At one bite a day, this case of bars is lasting me a long, long time.  On the other hand, I'm not worried about the calories in the bar at that rate either.<br /><br />If you don't finish a bar you need to keep it in a baggie or container because it will dry out and become substantially less appealing.  Taste is fine, but I wish I had gotten the chocolate so that I could get my choco fix on at the same time.
+
+product/productId: B0013Z0PTW
+review/userId: A3V55DVYU80LDS
+review/profileName: V. Canfield
+review/helpfulness: 3/3
+review/score: 4.0
+review/time: 1231977600
+review/summary: Lots of fiber, fairly tasty
+review/text: I bought a boatload of these at Costsco. They ended up being 18 cents each. How could I pass up the bargain. Anyway, these are very sweet, a little too sweet for me, but they do taste good.  They are chewy and have an oatmeal cookie kind of flavor.  I don't taste much caramel flavoring, but the taste is still good enough for me to eat one a day without fussing. They go well with milk.
+
+product/productId: B0013Z0PTW
+review/userId: A25TVH9W5A6IHP
+review/profileName: kristilou
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338854400
+review/summary: Delicious!
+review/text: I've tried all the different flavors of bars that Fiber One offers and these are definitely my favorite. The caramel flavor is light and sweet and the fiber in these bars (a whopping 9g!) makes them a very filling snack or a quick meal on the go! I typically enjoy these in the afternoon to carry me through between lunch and dinner but have eaten them for breakfast on occasion as well and they keep me satisfied until lunch. Fiber is one of the hardest things for me to get enough of (25-35g is recommended daily) and these bars definitely help! Some people have reported digestive upset when eating these but I've never had a problem with them. I highly recommend this product!
+
+product/productId: B0013Z0PTW
+review/userId: A224GS7I7JSQM4
+review/profileName: Elizabeth "E.S."
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1263340800
+review/summary: The Best product for Dietary Fiber Intact
+review/text: OMG, things little treasures are wonderful!!  I LOVE these bars.  I have problems with constipation and these little bars help so much.  When I eat one bar daily, I will have daily BM's. I can't wait to buy the muffins!
+
+product/productId: B0013Z0PTW
+review/userId: ALTC9UABKSXTC
+review/profileName: Alexis Munoz "Stop Me if You Can"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1261094400
+review/summary: Great price and great food
+review/text: If you are having troubles going to the restroom, eat this once a day and it does wonders.
+
+product/productId: B0013Z0PTW
+review/userId: A3XFXGHC2P38Y
+review/profileName: Manny
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1238976000
+review/summary: Best taste in Granola Bars
+review/text: I have had a lot of granola bars in the past. Never satisfied with anyone so far. But this is it! No need to look any  further than this if you want fiber that tastes great.
+
+product/productId: B0013Z0PTW
+review/userId: A3AMC1JQ4ZY7AI
+review/profileName: Cat L.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1218585600
+review/summary: Tasty Treat
+review/text: If you are looking for a tasty snack, look no further.  These caramel Fiber One bars taste like a cross between a candy bar and a granola bar.  The consistency is chewy, but not so chewy that it gets stuck in your teeth.  Since each bar provides 35% of daily recommended fiber, it's relatively healthy as well.  For those individuals that are on Weight Watchers, these bars are 2 points each... and well worth it.  I highly recommend this snack.  I also recommend the peanut butter Fiber One bars, although they are not quite as tasty, in my opinion.  <a href="http://www.amazon.com/gp/product/B0013Z40U2">Fiber One Bars Oats And Peanut Butter, 5-Count Boxes (Pack of 12)</a>
+
+product/productId: B0013Z0PTW
+review/userId: A29VUC9WD06ED8
+review/profileName: Marie Wagner "PeaPod"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1216944000
+review/summary: So yummy, hard to believe they're good for you!
+review/text: Fiber One bars are my FAVORITE way of getting daily fiber. The caramel flavor is my 2nd favorite flavor to buy. These bars are so GOOD, I have to limit how many I buy because they are addictive! No other fiber tastes as good a Fiber One Bars....
+
+product/productId: B0013Z0PTW
+review/userId: A1OLZVLHXP6UP6
+review/profileName: Kirk
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316822400
+review/summary: Chewy goodness, and somewhat "healthy" too!
+review/text: I take these Fiber One bars with me to work, they are a GREAT mid-morning snack! They are filling, taste great (I LOVE caramel!!) and have less fat and more fiber than most other "health" bars.  I would recommend you try them!
+
+product/productId: B0013Z0PTW
+review/userId: A1B7NI3ZNPA0ZB
+review/profileName: High-Hate
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1299196800
+review/summary: Great taste, bad experience later
+review/text: These taste really good.  I wish I could eat one everyday.  However, I can't because they make my stomach start rumbling and I have to go to the bathroom pretty soon after eating one.  These don't help to regulate you.  They make you have to go poop over and over and over.
+
+product/productId: B0013Z0PTW
+review/userId: AMBZ9JFGKDMU2
+review/profileName: Karen Golden "Italian Greyhound lover"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1267920000
+review/summary: ABSOLUTELY DELICIOUS!
+review/text: This is my favorite of all the Fiber One Granola Bars ~~ after all it has caramel in it!<br />What could be better?  I throw a couple in my purse and know I can have some treats during the day.<br /><br />KG
+
+product/productId: B0013Z0PTW
+review/userId: AVGEWSTY0GQZ7
+review/profileName: J. Kadrmas
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252713600
+review/summary: Personal favorite ...
+review/text: This is my personal favorite flavor of these bars ... they're more of a butterscotchey than a carameley.  I eat one almost every day so I don't mind getting such a large quantity because they do get eaten.  Much cheaper to buy here with free shipping than a box a week in the store, that's for sure.
+
+product/productId: B0013Z0PTW
+review/userId: A1TUA8WBESO9D7
+review/profileName: John Thomas Reed "deerjohn"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1252368000
+review/summary: quick tasty energy
+review/text: I normally eat a high protein diet and find myself in dire need of a good carbohydrate energy source throughout the day...these Fiber One Oats and Caramel bars really do the trick, taste great, and help everything move right along - a winner in my book!
+
+product/productId: B0013Z0PTW
+review/userId: A1ODOGXEYECQQ8
+review/profileName: Nuknuk
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1226880000
+review/summary: Good Tasting Granola Bars
+review/text: Most health bars taste awful.  Fiber One Granola Bars Oats & Caramel is not bad at all.  A little chewy, but it does not crumble when you bite it while other snack bars shatters to hundreds of pieces of crumbs.  This one you can enjoy even if you are in front of your computer keyboard.<br />Just a bit small for my satisfaction.
+
+product/productId: B0013Z0PTW
+review/userId: A3CGGE7LVE9A8V
+review/profileName: Lubna K
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1222732800
+review/summary: Fiber all the way
+review/text: Great way to get your daily fiber. I eat this every morning for breakfast along with my high fiber bread toast. Taste delicious too. The only problem I have is that it is way too sweet. Too much sugar. Otherwise excellent source of daily fiber.
+
+product/productId: B0013Z0PTW
+review/userId: A1P9HE4IHIFM2A
+review/profileName: Debbie Foggin "starz"
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1217894400
+review/summary: Good
+review/text: Good but not the best, they are really good considering how much fibre they have but the peanut butter ones are the best!
+
+product/productId: B0013Z0PTW
+review/userId: A3G6JGPK0DDO8P
+review/profileName: J. Ehlert "Makatrelhe"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1217721600
+review/summary: yummmmmy
+review/text: These bars are very good for you with an awesome taste!! I love them, I try to eat one for breakfast every day and already have lost a little weight. I wouldn't recommend eating more than 1 per day because of the fiber, well you know!! But they are delicious!! Caramel is my fav along with choc!!
+
+product/productId: B0013Z0PTW
+review/userId: A1GGOPQUNRFLAK
+review/profileName: Scott Mackenzie
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1215993600
+review/summary: nice taste
+review/text: Granted, this isn't as tasty as a Milky Way candy bar, but for all its benefits, I could do without my daily candy bar and substitute this.  I microwaved one and put some vanilla ice cream on it and it was awesome.  They are also fine just out of the box.  "Eating oatmeal cookie dough" is one of the best ways to describe these.
+
+product/productId: B0013Z0PTW
+review/userId: ABQFLNBP3CV98
+review/profileName: Nick "Reverie"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1227657600
+review/summary: Delicious Food With Entertainment to Follow!
+review/text: These are easily the tastiest fiber you will ever consume.  The aftereffects are really, really memorable.  The number one ingredient is Chicory Root Extract, an ingredient that just may hold the clue to solving our natural gas shortage.  Wow!  I through a bunch of these out in a day long meeting and everyone enjoyed them.  About two hours later it became flat-out humorous.  We couldn't quit erupting.  We had to finish the budget that day so we all sat around, stewing in our natural aroma, wondering what had happened.  Do a Google search on Fiber One F***ts and you will be amazed.  I love to eat these but not when I have to be in public later.
+
+product/productId: B0013Z0PTW
+review/userId: A18AAABCIJKC5Q
+review/profileName: Rhiever
+review/helpfulness: 1/3
+review/score: 2.0
+review/time: 1295740800
+review/summary: High fiber isn't necessarily a good thing!
+review/text: I recently cut fiber one bars out of my diet after I noticed that I get all the fiber I need in a day just by eating whole wheat bread, fruits, vegetables and nuts. If you don't have many of the aforementioned foods in your daily diet, then one or two of these a day may be a good fiber supplement. However, this comes at the cost of making you extremely gassy all through the day, which can be embarrassing and sometimes even annoying when it's more frequent than the occasional toot that slips out. IMHO, it's better to get the daily dietary fiber your body needs via the more natural means that I mentioned above.<br /><br />Another thing to keep in mind, especially when dieting, is that these bars are pretty high in sugar. (As much as 10g added sugar per bar!) Considering a "healthy" amount of added sugar per day maxes out at about 40-50g per day, eating a few of these bars will chew right through that cap in no time. There's also emerging research showing that eating high-sugar foods (like fiber one bars) will make you crave more sweets, leading you to eat or drink even more unhealthy things like candy bars and sodas. So if you're on a diet, eating these bars probably aren't as great for your diet as you think!<br /><br />I've been fiber one free for two weeks now and I'm happy for the decision. (And so are my friends!)
+
+product/productId: B0013Z0PTW
+review/userId: A24QX29Q5BTU52
+review/profileName: A. Ritland
+review/helpfulness: 5/11
+review/score: 1.0
+review/time: 1222646400
+review/summary: Fiber-None Bars  Don't Be Fooled!
+review/text: Fiber one bars actually don't have real fiber.  They contain inulin (from chicory root) which is technically fiber because the body can't digest it.  Unfortunately fiber is defined by anything that can't be broken down easily.  These bars do not contain REAL fiber. (The real fiber usually found in whole grain breads and cereals) So if it says "chicory root" or "inulin" in the ingredients, you can be sure you aren't eating the fiber your body can actually use.
+
+product/productId: B001ELL54Y
+review/userId: AYIT1EFS9SVTD
+review/profileName: Elizabeth A. Keep
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1232668800
+review/summary: Highly enjoyable cup of coffee
+review/text: Just ordered our second set of this coffee and decided to share with others.  When brewed it was smooth and flavorful.  The aroma was wonderful; there was none of the burned/uriney smell some coffee has.  The only negative, minor as I have filters, is that it is a very, very fine grind so the gold basket alone let stragglers through.  My family highly recommends this coffee!
+
+product/productId: B001ELL54Y
+review/userId: A3C81ARMZEFWC5
+review/profileName: Travels A LOT
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1329177600
+review/summary: didn't hit the right notes
+review/text: This blend seems to be very light for Jamaican/Panama Blue. Very fine powdery grind, much like the European favored style.
+
+product/productId: B001ELL54Y
+review/userId: A2XDUQ6Y7STG0Y
+review/profileName: L. Rudolph
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1316390400
+review/summary: Pleasing blend, will re-order
+review/text: I was happy with my first order.  The coffee was well balanced with good flavor without being bitter.  It doesn't have the distinctive taste of 100% jamaican blue, but who could afford that on a regular basis?  I am placing a second order very soon.
+
+product/productId: B001ELL54Y
+review/userId: A3IN6V2F0ZHYBX
+review/profileName: CMW
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1308528000
+review/summary: Nothing Special
+review/text: In my opinion and those of my houseguests this past weekend, this coffee was nothing out of the ordinary.  The Kona blend that I buy at my grocery store is just as good, for half the price.  Wouldn't buy this blend again.
+
+product/productId: B001ELL54Y
+review/userId: ASI6UBJ27L5IX
+review/profileName: Jessica Salyer
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1302739200
+review/summary: My husband's favorite
+review/text: Cheap but good.  It's my husbands favorite.  While the grind is fine, it still works well in our french press.
+
+product/productId: B001ELL54Y
+review/userId: A3VQ54EZ30PNO5
+review/profileName: J. Gonzalez "Papa"
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1295827200
+review/summary: Jamaican Panama Blue
+review/text: Ordered coffee for a few months. Now I would not recommend it to my worst enemy. The coffee now has no aroma, is light brown and taste worse than ___________.  (fill in the blank)
+
+product/productId: B001BOAOLY
+review/userId: A36MP37DITBU6F
+review/profileName: Enchanted  In  Dixie "Enchanted"
+review/helpfulness: 6/6
+review/score: 4.0
+review/time: 1244419200
+review/summary: GREAT ORGANIC Honey flavor Hard candy. Great candy for eating or use as organic soothing throat drops. Not for small children.
+review/text: These are delicious organic hard candies. I only tasted the honey, no lemon flavor why I gave it 4 stars. These honey drops do have a very strong clover honey flavor. If you like a mild or subtle honey flavor, then these may be too strong for you.  ** SMALL HARD CANDY POSE A CHOKING RISK FOR SMALL CHILDREN.
+
+product/productId: B001BOAOLY
+review/userId: AIU66NO84WX2
+review/profileName: K. McAvoy
+review/helpfulness: 3/4
+review/score: 5.0
+review/time: 1243468800
+review/summary: Delicious!
+review/text: These are my favorite cough drops.  Just the right amount of honey and lemon.  No artificial ingredients.
+
+product/productId: B001BOAOLY
+review/userId: A15K3SDSQLT5UE
+review/profileName: Morgan Lindsey "workout mom"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328313600
+review/summary: Great!
+review/text: Wonderful alternative to the candies with all the additives.  They also have a soothing quality, which is nice when you have a sore throat.  Everybody in our family loves them; we order them in bulk!  You can buy them at Whole Foods, but it's much cheaper to buy them through "Subscribe and Save".
+
+product/productId: B001BOAOLY
+review/userId: A12N7H01A4AC20
+review/profileName: Sassy Graham
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326412800
+review/summary: Love the honey lemon
+review/text: I am a flight attendant and a couple of years ago I had a bad sinus infection with an irritating cough. I was in Chicago airport and ran across these. Wow! They coated my throat and helped my cough better than cough medicine!  I now carry them with me and offer them to my passengers  when they have a nasty cough, my passengers ask me where I got them from because they really work!  I bought 6 bags in amazon for my elderly aunt who smokes a lot and has a hacking cough. She now expects them as Christmas presents.!!
+
+product/productId: B001BOAOLY
+review/userId: A1B7T6ICP4OB5
+review/profileName: tigger
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1301702400
+review/summary: Organic Honey Lemon candy
+review/text: I liked the Honey Organic candy, and like it I tried the Lemon Honey.<br />Once I found it on Amazon I ordered it.  This candy is not a surggery<br />as Honey from a jar.  The lemon is very light not over powering.<br />I would also remond this as I did the Honey Candy.  It is Great.
+
+product/productId: B001BOAOLY
+review/userId: A3CMHE6IJV79QM
+review/profileName: Nancy J. Lumpkins
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1285459200
+review/summary: Not Enough Lemon!
+review/text: These taste basically as if there is no lemon at all.  And the honey (to me) has a slight aftertaste.  Organic isn't necessarily  better!
+
+product/productId: B000KOSIP0
+review/userId: A1JFPNLG1UM5BK
+review/profileName: C. Owen
+review/helpfulness: 4/5
+review/score: 5.0
+review/time: 1207958400
+review/summary: The best kipper snacks around....
+review/text: Really enjoyed these and whats great is that these have half the salt of brunswick kippers
+
+product/productId: B000KOSIP0
+review/userId: A3EDVUU7LRFZEJ
+review/profileName: Bob Dobolina
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1337385600
+review/summary: Poor Quality
+review/text: I used to eat these when I was a kid and loved them.  You'd open the can and there would be two or three whole, flaky fillets inside with the skin still on.  They were excellent.  Perhaps I got a bad can this time, but these were just awful.  Like opening a can of cat food.  An unidentifiable mass of smashed fish meat.  Ick.
+
+product/productId: B000KOSIP0
+review/userId: A1K6DRSBGDT0G
+review/profileName: saladin
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1348012800
+review/summary: caveat emptor
+review/text: After the pop-top ring came off I used some offset pliers to open the can, which was not only difficult it ended up splattering the liquid inside all over my desk.  Once inside the kippers were soggy, courtesy of much too much water.<br /><br />This is the fifth time in 2 weeks this has happened and you would think that I would have learned my lesson.  I suppose I am now convinced that it is definitely not an anomaly.  Fortunately I only have three cans left before I become an ex-customer of this product.<br /><br />They used to be a decent product.  But they have gone to hell big time. 09/19/2012
+
+product/productId: B000KOSIP0
+review/userId: A282SV3AIUE154
+review/profileName: K. Feucht "OncoDoc"
+review/helpfulness: 1/2
+review/score: 5.0
+review/time: 1296345600
+review/summary: Just plain awesome
+review/text: One cannot find a better kipper snack. And, they are healthy for you. Other brands taste watered down. Not King Oscar.
+
+product/productId: B000KOSIP0
+review/userId: A3EK2PVFDY3XTO
+review/profileName: Carl Veazey
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1327363200
+review/summary: Delicious and Nutritious
+review/text: These are great quality kippers and the cans have never given me any trouble whatsoever. Usually I get a better deal going bulk with amazon than I do from my local grocery store too. I don't mind the salt and do appreciate the Omega 3's.
+
+product/productId: B000KOSIP0
+review/userId: A3FBG11DIMFE61
+review/profileName: Caroline "Caroline"
+review/helpfulness: 2/5
+review/score: 2.0
+review/time: 1250380800
+review/summary: twice the salt
+review/text: twice (at least) the salt of season kipper snacks, those with or without salt. not nearly as good.and slightly less kippers per can.disappointing taste.
+
+product/productId: B000RHXJM2
+review/userId: A1SCOCC52KSMQG
+review/profileName: BRJR
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1298160000
+review/summary: Blackeye Peas
+review/text: I like blackeye peas; but, in the area where I live, they're not commonly found, as "pinto beans" are a local stable, and so being able to purchase blackeye peas online in 25 pound bags, is of great convenience to me.
+
+product/productId: B004BRECPW
+review/userId: A124VVZJD4PFD4
+review/profileName: Ju!
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1341792000
+review/summary: Best before end 2005, we are in 2012 !!!!!!
+review/text: Outch !<br />I just received these french lady fingers and I am reading "Best before end 2005" : we are in 2012 !!!!!!
+
+product/productId: B004BRECPW
+review/userId: AG3K28ZL7BR8M
+review/profileName: Jen
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324771200
+review/summary: Delicious!
+review/text: These ladyfingers were fresh and delicious!  Even others commented about how they didn't get mushy in my tirimisu.  Will definitely order them again, as it is hard for me to find ladyfingers locally.
+
+product/productId: B003Q9VWUO
+review/userId: A3E1HU3QRVSDUV
+review/profileName: H.M. Frank
+review/helpfulness: 0/1
+review/score: 2.0
+review/time: 1301961600
+review/summary: Not Impressed with the item. Great shipping however.
+review/text: Shipping was fast and quick so 5 stars to that. I was however disappointed in the olives. They are too briny and vinegary. They don't taste much different than green manzanillas or large queens from the supermarket. I will stick to the olive bar at Whole Foods Market for the BEST and most buttery smooth Castelvetranos
+
+product/productId: B004CHDG44
+review/userId: A4GAK2EOJFH8F
+review/profileName: Auntie Fun "Aunt of many"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1326931200
+review/summary: Practically Addictive!
+review/text: Sugar free, and so flavorful! My nieces L-O-V-E these as much as I do. I keep them in the cup-holder of my car as well as in my purse.<br />I have digestive issues and often experience "feedback" from mints, but not from these!  I originally purchased them at World Market (an offshoot of Pier 1) but they've stopped carrying them, so I now buy a case at a time online. Hope you'll enjoy these as much as my nieces and I do!
+
+product/productId: B004CZUOSM
+review/userId: A3ELOAF9QJDNK5
+review/profileName: Helen Hartel
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1316649600
+review/summary: No Bargain Here
+review/text: The pizzle twists are short in size. What seemed like a bargain price wasn't, even though the shipping was free. You can buy these at other retailers and pay just a little more, but get a lot more for your money. Each piece from this seller was about 2 inches shorter than from my usual supplier.
+
+product/productId: B009GTIHG0
+review/userId: A1Z3XWG2W5GOHP
+review/profileName: Nite Runner
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1349136000
+review/summary: Saves me trips to Starbucks
+review/text: I absolutely LOVE the pumpkin spice latte they serve at Starbucks.  My friend told me about the Via Ready Brew Pumpkin Spice packs.  While there is no nutmeg on top this stuff still hits the spot (and I can also add my own nutmeg).  Also I don't have to drive 10 minutes just to get some, wait in line, etc... I can just heat up a small pan of milk on the stove, add the Via Ready Brew to my mug, pour, mix and enjoy!  Also it is cheaper than going to Starbucks.  Their grande size latte is about $4 whereas one packet of Via Ready Brew from Amazon comes out to $2.68 for a serving.  Also, depending on your mug size you can add more or not as much milk so the flavor is to your liking.  I'm going to stock up while I can on this :)
+
+product/productId: B003IFB148
+review/userId: A253NFOZACFN9M
+review/profileName: Bigforker
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1314230400
+review/summary: Awesome on Everything...
+review/text: My sister, from Brooklyn NY, sent us a jar of this Corriander Chutney from her favorite eastern quisine shop on 1st Avenue in Manhatten.  We absolutely loved it as did our friends that we introduced it to ~ AWESOME on everything...rice, vegetables, you name it!  We live in the woods with little ethnic anything available to us and are so happy to see that we can buy this product on-line via Amazon!  We plan to buy at least a case a year ~ like a fine wine :)  Mary & Ken in Bigfork, MN
+
+product/productId: B003O5Q3KE
+review/userId: A2T26HRHG8172X
+review/profileName: pompoodlejr
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1293321600
+review/summary: dog treats
+review/text: i have 4 dogs, 3 of them love these peanut butter crackers, the last one finally came around, now he eats them too. they seem a little dry, but i don't think they'll go to waste. price was good. shipping time was fine.
+
+product/productId: B003O5Q3KE
+review/userId: A3J8TD7DX73JK0
+review/profileName: Joni
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1292198400
+review/summary: Repeat Purchaser - My dogs love these
+review/text: I order several of these everytime I place an order.  Both my dogs love these and they are limited igredient so they are great for my dog who has a sensitive stomach.
+
+product/productId: B003O5Q3KE
+review/userId: A2U4L18LOGSHQ1
+review/profileName: Larry L. Wieskamp "larwie"
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1291161600
+review/summary: doggy crackers
+review/text: These were kind of expensive for a dog treat and two of my dogs wouldn't even touch them, so I doubt I would buy them again.
+
+product/productId: B003O5Q3KE
+review/userId: A2Q833MV8UEM37
+review/profileName: Josh Crick
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1286841600
+review/summary: My Dog HATED these treats
+review/text: Went into the dumpster the very first night. My dog Loves peanut butter, I thought these would be perfect, i was WRONG. These are worse than the dog food they hand out at bank drive thru windows
+
+product/productId: B002XO3Q52
+review/userId: A7DMNT5YZ3JV1
+review/profileName: RJT
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1334534400
+review/summary: Paid too much
+review/text: I  paid well over labeled price and the product was not fresh. Stamped date to use by is April 24, and many were smashed. Would not order again. Only bought because my wife likes them and I can't find them in Brevard County Fl.
+
+product/productId: B001TGY7W6
+review/userId: A27QGEFS9CYHCX
+review/profileName: mermadelove "Sparkle on!"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350086400
+review/summary: Just what I was looking for!
+review/text: My 5 month old is teething and putting everything in her mouth. She is simultaneously showing interest in food. I was looking for something that would satisfy all of her needs and this is it. Although this is made in China, I felt confident about buying it because it is organic. The crackers are crisp and textured so they provide teething relief. However,once they get really wet they dissolve, so there's no choking risk! This plus is also a minus because if your baby is messy and gets this everywhere, clean up before they dry because they dry like cement chips!
+
+product/productId: B0001WYNFA
+review/userId: A24LQ099X444C1
+review/profileName: CDC "cdc"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345593600
+review/summary: Great Service
+review/text: I ordered two of these to send to my grandmother and mother in law for mother's day.  It arrived earlier than expected and both of them were pleased with the flowers.  The plant arrived with flower buds ready to open and were packed well for delivery.  I will order from Giving plants again!
+
+product/productId: B000KOUOHU
+review/userId: AJTMYCENPOYM2
+review/profileName: brdkey
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1323475200
+review/summary: Great
+review/text: This is a very good flavor of rice.  I ordered a lot of Uncle Ben's Rice due to a deployment, it is great! Teriyaki is my second favorite, my favorite is Long Grain Wild!
+
+product/productId: B006JSPXZY
+review/userId: AOA5NLHK4LFN4
+review/profileName: zachariah
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1345852800
+review/summary: UGH!
+review/text: If you want unmarked grave dust  this may be  right for you. I don't know of anyone who eats the tough skin and bitter partitions of the pomegranate but skin, membranes and seeds are crushed up and marketed as pomegranate for ingestion. If you are looking for the edible portion of the pomegranate, be more careful than I was and order unadulterated pomegranate juice. The health benefits of the pomegranate are many and tried and true and it's one of the best tastes (flavor, texture, etc) the world has to offer. Just not this product!
+
+product/productId: B000LKVRQA
+review/userId: A35P0TD3LJFMAK
+review/profileName: Riti
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1319414400
+review/summary: Not too impressed by non-typical Earl Grey flavor
+review/text: I wanted to branch out and try this Earl Grey blend (I've tried and enjoyed many as it's my favorite tea).  This tastes too much like licorice for me.  I had hoped it would grow on me with time, but I'm still not feeling this one.  Won't be purchasing again.
+
+product/productId: B000LKVRQA
+review/userId: A1YUL9PCJR3JTY
+review/profileName: O. Brown "Ms. O. Khannah-Brown"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1282608000
+review/summary: An Earl Grey Tea That Won't Disappoint
+review/text: *****<br />St. Dalfour's wonderful Certified Organic Earl Grey Tea is made from hand-picked, organic Ceylon tea. The flavor is enhanced by "the all natural flavor of bergamot orange", which added interest and made my tea experience delightful. The orange flavor was subtle, not overwhelming at all. I left the tea bag in as I drank the tea (the whole time, much longer than recommended), which turns most teas bitter, but not this one.<br /><br />St. Dalfour is a French firm that makes natural teas, including this organic tea. There is not a lot of information about them on their web site beyond the basics, but what is there looks good.<br /><br />Earl Grey teas are one of my favorite black teas, so if you are a fan also, this tea is one not to miss.<br /><br />Highly recommended.<br />*****
+
+product/productId: B000LKVRQA
+review/userId: A2U9I7BWEQ5VKD
+review/profileName: Steeleye Span
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1265673600
+review/summary: This is a fantastic tea
+review/text: This is the best Earl Grey I've found and my overall favorite tea.  It has a distinct, unique flavor unlike any other Earl Grey.  I used to drink a wide variety of teas but now I drink this about 90% of the time.  I highly recommend this product.
+
+product/productId: B000LKVRQA
+review/userId: A3JDPYCTUC6Q6I
+review/profileName: Heckler "Thinker"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1179100800
+review/summary: Organic Earl Grey
+review/text: I love this tea.  It is almost addictive.  I try new teas all the time and this I am hooked.  Multiple cups per day. It's good for you and organic. What more could you ask for.  I try to support the organic industry when I can, it's the future.  Like green eggs and ham, try it you will see.
+
+product/productId: B000LKVRQA
+review/userId: A1M0RE3HQ9VS3M
+review/profileName: Mr. Greendeeds
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1337385600
+review/summary: Excellent!
+review/text: St. Dalfour's Earl Grey is one of my favorite teas. This tea has such a distinctively-delicious and refreshing flavor. The French are true connoisseurs of brilliance and this tea falls under such auspices.  Have a cup of this with a slice of homemade bread, smothered in St. Dalfour's marmalade and you'll know what I'm writing about.
+
+product/productId: B000LKVRQA
+review/userId: AEXM04LAAK5FK
+review/profileName: Nessa Rose "Loves  to Cook"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1335744000
+review/summary: ST. Dalfour Organic Earl Grey Tea
+review/text: This is my husbands favorite tea.  He won't drink any other earl grey tea!  Once he tasted this, it was all over!  He used to be a avid coffee drinker, but needed something that was better for him and not raise his blood pressure.  It doesn't have any artificial flavorings as most earl grey teas.  Instead, it contains real oil of Bergamont.  Yum!!
+
+product/productId: B000LKVRQA
+review/userId: A38LRYM1XV7NB5
+review/profileName: Shosh
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1327708800
+review/summary: Missing even a hint of bergamot
+review/text: I am very disappointed after drinking my first cup of this tea. I wish I would have read the reviews. I love Earl Grey because of the fresh flavor of bergamot, but this tea does not even have a hint of bergamot! Sadly, I bought a pack of 16 with 25 tea bags per box, and I will have to find them a a new home : (
+
+product/productId: B000LKVRQA
+review/userId: AYB4ELCS5AM8P
+review/profileName: John B. Goode "JBG"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1313539200
+review/summary: Excellent!
+review/text: Quite simply one of the best Earl Grey's I've tried, and I've had many Earl Greys. Some EG's are muted and understated but this one is very floral and has a very strong, but good taste. It's not over the top, just a very nice EG flavor. And to top it off, it's organic and the price is great!
+
+product/productId: B000LKVRQA
+review/userId: A23RRJTQA0JNGH
+review/profileName: Kathleen A. Nyman
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264982400
+review/summary: Sheer heaven
+review/text: This is the best earl grey tea I have ever had and I am a real tea snob. It is smooth,heavy and has a great aroma.It feels like you have really had a cup of tea when you are finished. I was a Twinings only before this-this beats it hands down.
+
+product/productId: B000LKVRQA
+review/userId: A2ZX818P92CM7F
+review/profileName: Gregg Somers "chillerdad"
+review/helpfulness: 1/2
+review/score: 3.0
+review/time: 1282694400
+review/summary: This is Earl Grey!???
+review/text: An admitted fan of Stash Earl Grey, nevertheless I endeavor to try them all.  St. Dalfour seemed intriguing, being a French company instead of British, so I gave it a try.  This tea neither tastes nor smells anything like Earl Grey.  The aroma of the tea upon opening the bag is rather bland with no hint of bergamont.  Believe it or not, the aroma and flavor after steeping are a mild licorice.  I'm serious!  If I was given this tea with no forewarning, I would have assumed it was Licorice Tea.  The flavor is not unpleasant.  It is quite different.  It is definitely not Earl Grey.  Be forewarned if you are seeking an Earl Grey aroma/flavor - this is not it.
+
+product/productId: B003NQMPYM
+review/userId: A26EL6HQW6SJZ4
+review/profileName: Michael Larson
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1328313600
+review/summary: M. Larson
+review/text: We tried these "candy bars" in Hawaii.  They are about as healthy as a candy bar can get. They do not have any refined sugar in them.  They are not really sweet, but they are satisfying.  My wife and I would share one (they are pretty big) and be satisfied.  They are really tasty.  Coming back to the main land we have not been able to find them. So we are excited to find them on Amazon.
+
+product/productId: B000H28ABW
+review/userId: A3N09BGVOMPM2E
+review/profileName: John D. Sims
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1200960000
+review/summary: Good and Healthy
+review/text: One of the very few, if not the only, mix that has no sugar in it. Simple ingredients unlike the packages sold in supermarkets which have sugar, stabilizers and other things that just are not healthy and do nothing to enhance the flavor.
+
+product/productId: B000H28ABW
+review/userId: AGMUWGEYJJ7XJ
+review/profileName: B. Lemm
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1329782400
+review/summary: BEST ON THE MARKET
+review/text: This is the very best taco seasoning mix you will ever buy!  It is spicy and not overly salty.  Those other brands are so weak and just packed full of salt and just plain not good.  You want a great taco seasoning mix....BUY WICK FOWLER'S!!
+
+product/productId: B000H28ABW
+review/userId: A1FVF43OQJE2AH
+review/profileName: C. Wiegman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1327795200
+review/summary: Awesome
+review/text: I'm not much of a health food person (actually, if the food is healthy I usually don't like it) but this taco mix is awesome. I've used just about every taco mix known to man over the years and have been making my own for quite some time but this stuff has brought me back to using a simple mix in my tacos without feeling guilty.
+
+product/productId: B000H28ABW
+review/userId: A1MNIZYWGVRVGF
+review/profileName: SMuia
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1326499200
+review/summary: Best Taco Seasoning Ever!
+review/text: Love this taco seasoning and when I couldn't find it at my Florida grocery stores, I looked on the web. Great stuff, not salty (which is a big requirement of mine), not hot either. Try it, I think you'll be glad you did. Sure beats the hell out of taco bell or rio grande seasons!
+
+product/productId: B000H28ABW
+review/userId: A2CLE7G5FK24AU
+review/profileName: Patrick from Miami
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1313020800
+review/summary: Best Taco Seasoning with NO MSG.
+review/text: Wick Fowler's Taco Seasoning is the best Taco Seasoning mix available that I have tried.  It has only natural food ingredients and no MSG.  Tastes great.  I use it with both ground beef and ground turkey.
+
+product/productId: B000H28ABW
+review/userId: A10R47UIIJHJQT
+review/profileName: frogman
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1283644800
+review/summary: Taco Seasoning - Wick Fowler
+review/text: This is the best product we have found for making Taco meat.  We use the taco meat primarily to make Taco Salad.  We cannot find the Taco Seasoning in Oklahoma City and are pleased to find the product from Amazon.com.
+
+product/productId: B000H28ABW
+review/userId: A1UCBPUAX4GBR6
+review/profileName: Vera H. Lortie "vjh10679"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1267574400
+review/summary: Simple yet delicious
+review/text: This spice packet is fabulous.  It is simple, delicious and only has herbs, spices and salt.  There is no beef extract or yeast gulten or other unnecessary stuff.  I add a pinch of chipolte pepper spice to give a bit more heat and it makes the perfect taco meat.
+
+product/productId: B000H28ABW
+review/userId: A1V0BAV1DWIKPQ
+review/profileName: DC Dawg "DC Dawg"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1227484800
+review/summary: Good and natural
+review/text: Grab some flavor and save yourself some chemicals, this stuff rocks. I was amazed when I saw many of the other brands dont even have Cumin in them, seriously? Can't have taco's without the Cumin. Anyway, it's good it's not expensive, try it, you won't regret!
+
+product/productId: B000H28ABW
+review/userId: A1XVKAMXSOW8ZV
+review/profileName: C. E. Hunsicker "Hatshepsut"
+review/helpfulness: 2/3
+review/score: 3.0
+review/time: 1256515200
+review/summary: Just OK
+review/text: I hadn't tried this taco seasoning prior to purchasing in bulk and am limited in what brands I guy to do allergies.  The taco seasoning is ok, but not nearly as good as McCormick.  A bit disappointed to be stuck with so much of it, but will use it eventually.
+
+product/productId: B000H28ABW
+review/userId: A25RYX4NFWDJ2N
+review/profileName: Lyvonne Hipperling "HEALTH ADVOCATE"
+review/helpfulness: 2/3
+review/score: 5.0
+review/time: 1181692800
+review/summary: HEALTHY EATING
+review/text: THIS TACO SEASONING WAS RECOMMENDED TO ME AS AN ALL NATURAL SEASONING THAT I SHOULD USE ON A DIET CALLED HEALTHY LIVING.  IT GIVES A REALLY GOOD NATURAL TACO FLAVOR WHEN USED IN MEATLOAF, MEATBALLS, OR JUST REGULAR HAMBURGER.  IT HAS NO INGREDIENTS THAT SHOULD NOT BE CONSUMED ON THIS DIET. I AM PLEASED WITH THIS PRODUCT AND HOPE TO BE ABLE TO CONTINUE TO ORDER IT.
+
+product/productId: B000H28ABW
+review/userId: A1I44EGA0EDJ03
+review/profileName: L. Woods
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1351036800
+review/summary: Best taco seasoning you can buy
+review/text: Notice that this taco seasoning packet weighs as much as the other brands, but doesn't have fillers like corn in it.  That means you get a lot more spices and flavor.  It's our favorite brand, and we've tried everything from store brands to organic/natural versions (a close second is La Preferida, and everything else is a distant third).  It's also great for people like me with multiple food allergies, or just if you're trying to cut chemicals out of your diet.  It's purpose is flavor and not excessive heat, so if you want to burn off your taste buds you'll have to add something to do that.
+
+product/productId: B000H28ABW
+review/userId: A1TZXENU9QMGQE
+review/profileName: nita
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350259200
+review/summary: Best buy 4 your money
+review/text: I purchased a packet of the taco seasoning and to my suprise it is the best one out there! You must try it<br />I'll never buy anything else.
+
+product/productId: B000H28ABW
+review/userId: A2RM8BU1FCYQM9
+review/profileName: Former Oak Parker "music buff"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1324339200
+review/summary: Best Taco Seasoning EVER!!!
+review/text: Wick Fowler Taco Seasoning is by far the best tasting taco seasoning.  I have served it to many of my friends and family and they all love it!!!
+
+product/productId: B000H28ABW
+review/userId: A8T6W1M15FM75
+review/profileName: CA-SK "CLA"
+review/helpfulness: 0/3
+review/score: 2.0
+review/time: 1255219200
+review/summary: Bland Taco Seasoning
+review/text: Tasteless, bland, insipid - how many synonyms do we need to describe this product? No wonder this stuff is rarely seen on store shelves. Stay away, stay very far away...
+
+product/productId: B005OCX5XI
+review/userId: A6RFVZFCCPPAB
+review/profileName: Sandra Thomas
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1345507200
+review/summary: Rip-off: Be careful before u buy!!!!!!!
+review/text: Be very careful to check out the the oz size, the picture is deceiving. I was under the impression that this is the same 22 ounces but it was actually the 13.20z size. When I tried to return it, Amazon didn't give me that option. Why would anyone in their right minds pay $16.11 for case of 13 oz can of dog food when you can get the same case at the grocery (Publix) store for $10.79 and even less at Walmart. Total rip-off!!!!!
+
+product/productId: B001EQ5O6Y
+review/userId: A1U36T07L3HM0E
+review/profileName: F. Dias
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1256688000
+review/summary: Just some info to help...
+review/text: Just FYI, I checked the nutritional information on this product and it states it has 20 calories per stick.  Each tablespoon of Agave Nectar has 60 calories so each stick is 1 teaspoon.  So you would need three sticks for a tablespoon serving.  Just thought I would throw that out there for anyone thinking about buying this product and trying to figure out how many sticks they need to use in their tea or coffee, LOL!  I'm a two sticker;o)
+
+product/productId: B001EQ5O6Y
+review/userId: A3NL4VV8FXZ266
+review/profileName: Ruby "Tuesday"
+review/helpfulness: 3/3
+review/score: 2.0
+review/time: 1187395200
+review/summary: good idea but messy
+review/text: this ia a good idea; however, difficult to open.  must squeeze/twist pretty hard & product oozes free - usually all over fingers.  also, portion size is a bit too small.  still love agave.
+
+product/productId: B001EQ5O6Y
+review/userId: A3JDX65QJO3Q2F
+review/profileName: Don't believe it just because someone told yo...
+review/helpfulness: 5/6
+review/score: 4.0
+review/time: 1187395200
+review/summary: Awesome product
+review/text: I have used agave for many things and find that it is a better alternative to sugar.  It will not give you the sugar plunge you get from sugary products.  If you are using this product in beverages please realize that it is not going to give you that same sugary, syrupy flavor that some people are used to from regular sugar or substitutes.  It is a subtle sweetness.<br /><br />I have served this product to friends, and those who are used to a sugary taste in their tea didn't care for it as much as those friends who don't use a lot of sugar.  It really depends on what you are used to.  I have no complaints about this product.<br /><br />Agave is also better for people who have diabetes, as it does not spike blood sugar levels.<br /><br />Don't pass up on trying this great alternative to sugar.  It is worth letting your tastebuds adapt to the subtleness.  It is also great for baking.  Also, this is now labeled as organic, so another reason to try it.
+
+product/productId: B001EQ5O6Y
+review/userId: A2LGOMSYQJ5PZS
+review/profileName: N. Hjort
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1257552000
+review/summary: great flavor
+review/text: The cinnamon honey sticks flavor was excellent. When added to tea it enhanced the flavor of the tea.
+
+product/productId: B001EQ5O6Y
+review/userId: A3HRWZW3ZK6W49
+review/profileName: Kristen McDaniel
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1239148800
+review/summary: Yummy honey in a convenient portion.
+review/text: I bought this in an effort to help myself quit smoking while watching my weight.  Also, I'd been looking for a smaller honey container to use to sweeten my hot tea when I'm at work.  These honey sticks definitely helped.  The honey was very good, the stick/straw seems to be a great way to package it as it doesn't spill out easily.  Plus, each stick is only 15 calories, so you can watch your proportion if that matters to you. I will definitely purchase this again.
+
+product/productId: B001EQ5O6Y
+review/userId: A31YNKI4TS6ZJW
+review/profileName: Lauren L.
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1234310400
+review/summary: convenient way of taking your agave with you!
+review/text: I was hesitant about this product based on some customer reviews that said there were difficulties opening the little sticks and that they (the customers, not the sticks) got agave all over their fingers... I wonder if Stash read the reviews and changed their packaging?  I have not had this problem, and I'm usually *awful* at opening packaging! With these, I simply bite off the end (gross, I know, but I am a student and I don't/can't carry a knife around with me in my bookbag all day) and squeeze it into my coffee.  It's a great way to have my agave with me because most coffee shops and cafes have not yet started stocking this alongside their poisonous sugar alternatives (you know, those pink, blue, and yellow packets).  Keeps my blood sugar from spiking, sweetens my coffee--what more could you ask for?
+
+product/productId: B001EQ5O6Y
+review/userId: A1XDASQ60YMQLN
+review/profileName: Karen Pratt "tudie"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1207526400
+review/summary: Wonderful Flavor
+review/text: These little goodies are so full of flavor and so good.  I bought these for my granddaughter in Minnesota and sent them to her.  She was thrilled, shared them with her sisters and now they are wanting to get some.<br />Great gift idea!!
+
+product/productId: B001EQ5O6Y
+review/userId: AJGGU9YEZNPY7
+review/profileName: Kah-tay
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1327795200
+review/summary: Sweet DEAL!
+review/text: These are great to have!  I toss one in my daughter's lunch...have a few in my purse for a "pick" me up, etc.  Tasty, tasty!  Other people are so curious when I whip one out.  They are amazed it's a straw filled with honey.  This is the place to find the best price on these honey sticks.  Thanks for having them on subscribe and save.  Great program!
+
+product/productId: B001EQ5O6Y
+review/userId: A309CWGUW09NYB
+review/profileName: Lirion73
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1315785600
+review/summary: Smell delightful, taste not so much
+review/text: I picked up these honey sticks because I'm in a chai tea phase and thought they'd be nice to add to a simple black tea. Upon taking one from the box, I was treated to a wonderful scent of cinnamon and spices that reminded me of Christmas time.  I brewed my tea, added the stick of honey and stirred.  As I took that first sip, I couldn't much smell the honey I just added.  As the tea coated my tongue I was waiting and waiting for the scent of the honey stick to hit my tongue and it never really did. I could taste a tiny bit of honey, but nothing more than if I added plain clover honey to my tea.  It was rather underwhelming.  My second cup I tried 2 sticks and it was a little better, but for the price, I'd much rather just buy chai tea bags.<br /><br />All in all, don't expect it to taste the way it smells.  Far too weak in just a simple black tea, but smells divine still sealed up!
+
+product/productId: B001EQ5O6Y
+review/userId: A2NEOGFAJDJMFV
+review/profileName: SUZANNE L. ARASIM
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1279411200
+review/summary: Very handy, yummy too
+review/text: My mom-in-law had rec'd 1 box of these in a gift box, but couldn't find more when she found she enjoyed the convenience of them in her hot tea & on toast.  She said the straws are just the right amount, they are less messy & the honey keeps longers than in a jar.  A 6-pk was a great surprise for her.  The price was reasonable for a convenience item.
+
+product/productId: B001EQ5O6Y
+review/userId: A27OFOL5ERMRWE
+review/profileName: Mary A. Simpson "Boatlady13"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1236729600
+review/summary: Lemon Honey Sticks
+review/text: These honey sticks are so nice in a cup of tea.  You can even remove your tea bag with them!
+
+product/productId: B001EQ5O6Y
+review/userId: AWLK6NSSV0YNA
+review/profileName: Midwest Mommy
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1219363200
+review/summary: Sweet Treat!
+review/text: These Chai Honey Sticks are SO good!  I enjoy eating one or two when I have a craving for something sweet.  It also makes a fun non-sugar sweet treat for my toddler.  The straws are the perfect size to add to a 6oz cup of tea too.
+
+product/productId: B001EQ5O6Y
+review/userId: AU5C3IYBH9JCW
+review/profileName: S. Musicant "Bermusicant"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1216512000
+review/summary: Portable Health
+review/text: I agree with other reviewers about Agave in general and also specifically this product.  Know that I have a pretty big sweet tooth, and thanks to Agave I feel I'm slowly taming it.  I do find Agave to be sufficiently satisfying -- with the right amount.  And it makes me feel very good to know I'm not jacking up my blood sugar level with sugar, and that I'm not putting sugar (which I increasingly think of as poison) into my body.  But you do have to use around the same amount as regular sugar, maybe sometimes less, sometimes more.  Various mfgs. of the product claim you can use less.  I have not found this to be the case.<br /><br />Regarding the sticks specifically, you do have to squeeze fairly hard and repeatedly to get it all out, and inevitably some gets on your fingers.  However, given the above pluses, in the absence of anything better I'm willing to settle for the drawbacks as opposed to putting sugar or -- quel horreur -- artificial sweetners into my body when I'm away from home.
+
+product/productId: B001EQ5O6Y
+review/userId: A339H0D2F669XI
+review/profileName: C. Nicholls
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1208217600
+review/summary: honey sticks
+review/text: These are straws filled with lemon flavored honey.  I love them.  They taste great and are easy to take with you.  I use them at work- very convenient for quick hot tea without the messy honey.
+
+product/productId: B001EQ5O6Y
+review/userId: A3AIZS4BZXUKIP
+review/profileName: Shirley Watt "gmaof7"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1202428800
+review/summary: Great for traveling or eating out!
+review/text: These are GREAT for carrying in my purse for eating out, or when we're traveling, as most places do not have Agave Nectar!<br />Just wish there was an easier way to open them...I'm carrying a small pair of scissors to open them!
+
+product/productId: B001EQ5O6Y
+review/userId: A28ZV2FB9OAFVJ
+review/profileName: Lori
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1192838400
+review/summary: Agave Nectar
+review/text: It's great to have agave in a portable format.  But is is difficult to open.  The directions say to pinch to open.  They are not so easy to pinch.  I have found if you bend the tube about 1 inch above the end then pinch the end it helps.  But the agave often gets on your fingers.
+
+product/productId: B001EQ5O6Y
+review/userId: A1A3H22VVZYUKW
+review/profileName: msfreixy
+review/helpfulness: 1/3
+review/score: 1.0
+review/time: 1187049600
+review/summary: alternative sweetner
+review/text: I was disappointed in this product, as I had read and heard that this was an excellent sweetner, and it only took a small amount.  NOT TRUE!  I had a 8 ounce glass of tea, and added two "straws" of Nectar, and you couldn't even tell anything had been added.  Expensive if  you had to use a whole pack to slightly sweeten anything.
+
+product/productId: B001EQ5O6Y
+review/userId: A2891E3BMAKGYN
+review/profileName: PCNiles "reader/writer"
+review/helpfulness: 0/6
+review/score: 2.0
+review/time: 1264118400
+review/summary: Deceptive Term = "Sticks"
+review/text: When I ordered these, based on the description, I thought the honey was somehow hardened into stick-form and thus would 'melt' into a cup of hot tea.  I was surprised when I discovered these sticks were actually thin plastic straws filled with honey!  There is no way I'm going to insert a plastic straw into a hot cup of tea. I'm not sure it would work anyway; I suppose you could cut open each end and then blow the honey in the tea.  Does Stash think you're going to sip on these straws?  I don't know what the company was thinking when they produced this product, other than as a candy to be eaten.<br /><br />I believe the term "stick" does not accurately describe this product and is misleading.  I doubt it's intentional, however.  The Stash Tea Company is an excellent company and has many high quality teas and products.<br /><br />The honey flavored with chai spices is good enough but frankly, it it a very expensive way to buy honey.  Better to buy a jar and flavor it yourself.  I wound up using these Chai Honey Sticks by cutting open one end and pressing out the honey into a tea cup/pot, which was messy and time consuming.<br /><br />I love Stash tea... drink it every morning.  But this product is a bust and I would never purchase it again.
+
+product/productId: B005OTVL8C
+review/userId: A1UJMVE0LCOI45
+review/profileName: J. Wolf
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350172800
+review/summary: great flavor boost
+review/text: If you want to add a hint of Meyer lemon flavor to a dish, then just add a drizzle of this wonderful oil.  Vegetables, fish, etc.  I've tried several brands and find this to have the nicest flavor of lemon with the buttery smooth flavor of Mission olives.  Not an every day cooking oil, but a finishing touch on many dishes.
+
+product/productId: B000P56I7Y
+review/userId: A2ZKNGL20FBK2I
+review/profileName: Shatzi Crabtree
+review/helpfulness: 3/5
+review/score: 5.0
+review/time: 1274918400
+review/summary: Arrived Fine
+review/text: The product arrived pretty quickly and was easy to make, tasted very good. Nice for us here in the US who never get Yorkshire Pudding when not in England.
+
+product/productId: B0039KE8Y2
+review/userId: A392FNHBJR1IY6
+review/profileName: Leo Breeden
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1336867200
+review/summary: great taste
+review/text: This apple butter has a great taste but the price is so I would not purchase again. I know it can not cost this much to produce such a small jar
+
+product/productId: B0018CLWM4
+review/userId: ANKM1RMQ4RKQ6
+review/profileName: Spaceman
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1291420800
+review/summary: Premium Edge Dry Cat Food for Kitten
+review/text: My 6 month old male Tuxedo cat likes Premium Edge Dry Cat Food for Kitten, Chicken, Salmon and Vegetables, which is "Y" shaped kibble, similar to Californian Natural <a href="http://www.amazon.com/gp/product/B000F782JY">Chicken and Rice Dry Cat and Kitten Food - 5 lb - Bag</a>. Premium Edge has a higher fat content than California Natural, and is therefore recommended only for kittens. Based on the stated ingredients and nutritional information, I award Premium Edge Dry Cat Food for Kitten, Chicken, Salmon and Vegetables, "5 Stars," even though the bag does not feature a resealable strip, which is a nice feature that some other kibble cat food bags have.
+
+product/productId: B0018CLWM4
+review/userId: AJGOF4W50ZNB4
+review/profileName: je2u
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1310515200
+review/summary: Premium Edge Kitten Food
+review/text: This is a good food with decent ingredients & it is affordable. My finicky cat does better on it than some more expensive brands. Unlike a comment on here stating otherwise,the first 2 ingredients are Chicken & Chicken meal,the food is naturally preserved. So,I gave it 5 stars even though I am not a big fan of Diamond foods being the manufacturer.
+
+product/productId: B0018CLWM4
+review/userId: A2PE0AGWV6OPL7
+review/profileName: Dark Water Mermaid
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1309651200
+review/summary: Quality & affordable food
+review/text: I was very pleased with the ingredient quality, taste (according to the kitties), price, and reasonable kibble size of this food. I fed this food to approximately 20 different cats and it was well received by the majority, even the extremely picky one. My cats eat a variety of food. They eat homemade raw, freeze dried raw, grain free dry/canned, and non grain-free dry/canned food. My personal, senior picky cat easily vomits with most food...this food was very easy on her sensitive stomach. I would not hesitate to purchase this food again
+
+product/productId: B0018CLWM4
+review/userId: A88HLWDCU57WG
+review/profileName: R28
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1332979200
+review/summary: litter box
+review/text: My main reason for the five star review has to do with the litter box.  When I tried switch my kittens off of this kitten food onto a brand I bought at the grocery store their litter box started smelling horrible !  When I switched them back to this food, litter box went back to minimal odor.  five star from me :)
+
+product/productId: B0018CLWM4
+review/userId: AUX1HSY8FX55S
+review/profileName: DAW
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1319500800
+review/summary: Happy Camper
+review/text: I bought this to try on two registered Maine Coon kittens, as one is picky and refused all previous dry foods.  I feed wet food several times a day and keep dry food available at all times.  To my surprise, they both love this dry food.  For a lower priced dry food, it has exceptional ingredients.  Fat content is high, but that's good for active, growing kittens.  I love hearing them crunching between wet food feedings.  At 12 months, I'll try to find a different dry food they like, but for now I'm a very happy camper.
+
+product/productId: B0018CLWM4
+review/userId: AVZ2OZ479Q9E8
+review/profileName: Ai Ling Chow
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1336435200
+review/summary: Two Siberians like it!
+review/text: When we brought home two 3-month-old purebred Siberian kittens, this was the dry food I picked for them.  Wolfram, the boy, prefers this to his wet canned food!  Catmium, the girl, likes wet food better, but she'll eat this when she's hungry and there's no wet food.  (They also eat the kitten versions of Fancy Feast wet canned food; it used to be 1 can per cat daily, but we've cut down to half a can per cat daily.  Catmium was gobbling her wet food and then eating Wolfram's, and Wolfram was letting her, preferring to eat dry food; he likes the crunchiness.  Catmium didn't need two cans a day, so now we just put out one can a day and they eat dry food if they don't get enough of the wet.)  They are growing quickly, and they are adorable little furballs full of energy.  Their coats are soft and luxurious, too.
+
+product/productId: B0018CLWM4
+review/userId: AI3Y26HLPYW4L
+review/profileName: kimosabe
+review/helpfulness: 1/2
+review/score: 2.0
+review/time: 1330041600
+review/summary: premium edge cat food
+review/text: My cats don't like it. what else can I say to reach 20 words.  It was an expensive mistake.  My older cat likes the premium edge food for older cats, but she may just be eating it because that is what she gets.
+
+product/productId: B0002ARMS6
+review/userId: ALMANY3CKWVH7
+review/profileName: Serval
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348185600
+review/summary: Exotic food
+review/text: This is always a good product for Exotic Cats. If you can't get raw meat, their favorite, then this is your food. They love it...
+
+product/productId: B000JT45IA
+review/userId: AEW1UWTI3MCVN
+review/profileName: John S "Johnny"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1177545600
+review/summary: Hands down the best dressing I've ever had...
+review/text: as it should be for $6 a bottle.
+
+product/productId: B0000D16IP
+review/userId: AQB1DEDUQYQK1
+review/profileName: David J. Alexander
+review/helpfulness: 2/2
+review/score: 2.0
+review/time: 1277337600
+review/summary: not what I ordered
+review/text: When I ordered this chutney, it was supposed to be "Sun" brand, where mangoes were the first ingredient.  What I was sent was "Patak" brand, where sugar is the first ingredient, and which is quite sweet for a chutney.  I don't feel I got what I ordered.  I have bought Patak brand in the past and didn't like it much.
+
+product/productId: B0000D16IP
+review/userId: A1SOL9F0I9D3A4
+review/profileName: William M. Jacobs
+review/helpfulness: 2/4
+review/score: 4.0
+review/time: 1257897600
+review/summary: Great
+review/text: This is the best brand of Mango Chutney that I have been able to buy and enjoy.
+
+product/productId: B001F2GDJY
+review/userId: AFFKPAAZCQ5IK
+review/profileName: biscuit
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1322438400
+review/summary: tuffer
+review/text: we just had a new lawn put in and it was very expensive. this product really worked. it was nice to not see all the yellow spots all over the lawn. i would  give this product a 10. i have will order it again. sincerely kathy pinto
+
+product/productId: B001F2GDJY
+review/userId: A2IN568FEHYSQ8
+review/profileName: Busy Mom
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1350518400
+review/summary: really works!
+review/text: I have been using this product for two years now and have seen a huge difference in how my lawn looks. I have two dogs and the lawn looked terrible before I started using Grasssaver Biscuits.  Plus my dogs love them, which makes it so easy to use.
+
+product/productId: B004BY23I8
+review/userId: A2B07RJZVDUJA5
+review/profileName: P. Mase
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1350518400
+review/summary: Co-co-yummy!
+review/text: Love the coconut flavor of this tea.  Two things I wish were different-the metal rim is slightly sharp and you need to be careful, would prefer that they make this in larger size (at least 16 oz).
+
+product/productId: B004BY23I8
+review/userId: A10JGJ9JOJOXQV
+review/profileName: W Weaver
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1340582400
+review/summary: Good Stuff
+review/text: Pacific Chai coconut Chai Latte is so good. I have a cup every morning with my coconut oil in it. Also getting it through Amazon is much cheaper than at the store. I live about an hour from any grocery store and so it is nice to be able to have it shipped to my door.
+
+product/productId: B004BY23I8
+review/userId: A2PJIM996TTQH2
+review/profileName: Sets in the City
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1327190400
+review/summary: Pacific Chai-Coconut
+review/text: This version of Pacific Chai is pretty mild.  I LOVE coconut and can bearly, if at all, taste it in this product.  I was glad my six pack was gone so I could buy something a little stronger.  If you like the mild taste of chai and hint of coconut, it would be perfect.  <a href="http://www.amazon.com/gp/product/B004BY23I8">Pacific Chai Tea, Coconut Chai Latte, 10-Ounce Cans (Pack of 6)</a>
+
+product/productId: B001FPT1WM
+review/userId: A1R3ERCRDIAV91
+review/profileName: S. Hobbs
+review/helpfulness: 7/7
+review/score: 5.0
+review/time: 1262822400
+review/summary: Good purchase
+review/text: I bought this candy for my son, who spent time in France, and came to like it.  We couldn't find much here locally, and nothing like the violet candy he had tasted, so I took a chance.  He said it is the same he purchased in France, so he is happy.  So am I!  It was well packaged, which was a concern, since it's in a glass jar.  I received the item very quickly.  I'm very satisfied.
+
+product/productId: B001FPT1WM
+review/userId: A291HTT117RVS9
+review/profileName: MadisonVeggie "Lynette in Wisconsin"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1333411200
+review/summary: Unusual, even for a violet candy
+review/text: I've tried several violet flavored candies in the past, and this is my favorite. Along with the floral flavor/aroma, it also has a nice citrus undertone which complements it well. Expensive, but hard candies last a long time, unless you "chain suck" them like I sometimes do!
+
+product/productId: B001FPT1WM
+review/userId: A1TRJQBYQFZW4
+review/profileName: Brad
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1325376000
+review/summary: Very good
+review/text: This candy has a very good flavor. It is quite unlike anything commonly available from the supermarket candy aisle.<br /><br />I live in the middle of the corn-belt, so if you have access to a "real" candy store you may not find it so unique.
+
+product/productId: B001FPT1WM
+review/userId: A2F25C6QCKJ3HL
+review/profileName: Jill
+review/helpfulness: 1/1
+review/score: 1.0
+review/time: 1341532800
+review/summary: rip off
+review/text: The candy is tasty, but they totally scam you on the price. The jar is only the size of a soda can, and looks absolutely nothing like  the picture. I will not be buying this again. If your gonna sell something that small make the price around $5.
+
+product/productId: B001FPT1WM
+review/userId: A7VLVCQJIROTF
+review/profileName: Lorraine "DamnSwank"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340323200
+review/summary: The search has ended!
+review/text: I had been looking for the violet candy with the perfect balance of sweet and floral when I tried these.<br />The search has ended.<br />I am very pleased.
+
+product/productId: B001FPT1WM
+review/userId: A1YGG6T4YJZWC1
+review/profileName: bethany "birds and more birds"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1340236800
+review/summary: very tasty
+review/text: these are very pricey so i only enjoy them now and then as a treat but the flavor is wonderfull and the packaging is very nice. would make a wonderfull gift to send to someone who likes such dainties.<br />i will order again when i run out, truly a nice treat.
+
+product/productId: B001FPT1WM
+review/userId: AW7HIV8I53FE4
+review/profileName: Herb Schulsinger "Bach Because!"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1338508800
+review/summary: Violet French Hard Candy
+review/text: These candies have a mild flavor, when compared with CHoward's Violet candy, but they are delicious nevertheless.  I will definitely purchase these candies again.
+
+product/productId: B001FPT1WM
+review/userId: A1XDMZMMOAMR7
+review/profileName: nyxport
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1345161600
+review/summary: delicious
+review/text: This product is a bit pricey for the amt. received.  But,I wanted the candy I chain sucked through Paris and Ifound it.<br />  Delivery was also quicker than I expected.
+
+product/productId: B003XUL27E
+review/userId: A32Y0419QFGVHM
+review/profileName: Kevin Mitchell
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319673600
+review/summary: Mostly water
+review/text: Definitely not worth buying flavored water with a few teaspoons of beans and rice that doesn't taste like normal beans and rice. I wont ever buy this again!
+
+product/productId: B003XUL27E
+review/userId: A1YKXVGAIA8952
+review/profileName: NC65
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1319500800
+review/summary: No Good
+review/text: I thought this soup would be more like a chilli, but it is very watery. Which I could tolerate as long as it still tasted good, which it doesn't. I had to throw it away after only a few spoonfulls.
+
+product/productId: B003XUL27E
+review/userId: A1JUG9WCN1A52Z
+review/profileName: maudlin666
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1311638400
+review/summary: Tastes horrible!
+review/text: I just bought this soup today at my local grocer, brought it back to work with me, heated it up and almost spit out my first bite.  The taste is so sweet, and it's not just the aftertaste as a previous commenter said.  This soup is horrible!  It tastes nothing like true Cajun red beans and rice.  I tried complaining via the Healthy Choice website today, only to have their servers fail twice before it wiped my complaint.<br /><br />DO NOT BUY THIS SOUP.<br /><br />I have never been so dissatisfied with food before I ate this soup.  I'm the type that will say, "eh, it doesn't taste good, but I bought it, so I'll eat it," but miraculously I ate three spoonfuls before I gave up and tossed the rest in the trash.  Tomato puree is one of the first three ingredients (high sugar), followed closely by evaporated cane juice?  Who puts evaporated cane juice in red beans and rice?  Healthy Choice, that's who!  Hey, Healthy Choice, maybe if you didn't add the evaporated cane juice this soup may very well be worth eating, and would probably have a few calories less than it already does.<br /><br />P.S. I bought this soup today not because it was "healthy" or "low fat" but because it didn't have wheat in it.  SORRY GLUTEN FREE PEOPLE. THIS SOUP SUCKS.
+
+product/productId: B003XUL27E
+review/userId: ABGQPE97ZVYJ3
+review/profileName: Katherine Kelly
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1306368000
+review/summary: Not so good
+review/text: This soup is mostly broth. Although it has a kick to it, it also a sweet after taste that I find pretty gross. This is the third soup I've tried from Healthy Choice and they have all bed bad. It tastes nothing like real red beans and rice. I wouldn't recommend this soup.
+
+product/productId: B003XUL27E
+review/userId: A2PSB4WQHH46HN
+review/profileName: carlyowu
+review/helpfulness: 0/2
+review/score: 2.0
+review/time: 1285718400
+review/summary: Where's the tortellini?
+review/text: It is mostly broth, with the advertised 3/4 cup of vegetables. However, each cup contains about 3 tortellinis. This is supposed to be a double serving bowl, but 1.5 tortellini isn't much of a meal. It tastes good and I like all the veggies (plus it has low sodium) but I really wish they would include a couple more tortellini.
+
+product/productId: B000NY4SAG
+review/userId: A3ODWHC3EMMWTT
+review/profileName: K. Brennan "Baking fool"
+review/helpfulness: 10/10
+review/score: 5.0
+review/time: 1229731200
+review/summary: Baker's Ammonia Small quantity
+review/text: In the past, I would have to buy a large quantity of baker's ammonia which would dissipate with time.  I love the small quantity and it worked just fine in my special cookies.
+
+product/productId: B000NY4SAG
+review/userId: A1RKKPSXF9QIZF
+review/profileName: Allen "RcDriver"
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1233792000
+review/summary: Good buy.
+review/text: Ammonium bicarbonate in a nice little package.  If you need ammonium bicarbonate in a stylish container, this is it.  Excellent buy.
+
+product/productId: B000NY4SAG
+review/userId: A3M89SF0SSOGBK
+review/profileName: Robert Goode "GrampaG"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1316995200
+review/summary: Baking Ammonia that Works
+review/text: If you haven't ever used Ammonium Bicarbonate in baking, try it. This lofted my soft biscotti cookies to parachute heights. Ammonia cooks out, but smell the end product and if you can still smell a hint of ammonia, cook it a few minutes longer. Very nice preparation.
+
+product/productId: B000NY4SAG
+review/userId: A34GDV49ZZQKXG
+review/profileName: Donald M. Cook
+review/helpfulness: 0/5
+review/score: 4.0
+review/time: 1280102400
+review/summary: a-ok
+review/text: We need this for a recipe my wife is interested to trying.  However, we<br />have not gotten around to doing it yet.
+
+product/productId: B005ZC0RRO
+review/userId: A2TO5R8QLIITEF
+review/profileName: SAK
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1323734400
+review/summary: Delicious, all natural and allergy free treats!
+review/text: Indie Candy's gummies are absolutely delicious. I buy them for my kids and I can't wait to have one myself! They are soft and so flavorful. Whenever I visit the store (I live a little ways away), I get orders from at least 5 friends of all the things they want me to get for them. It has quickly become our favorite candy store! I especially appreciate that their candy will never include artificial food coloring or flavors. I can trust that the candy is natural and the owner is so helpful. She will always tell me where the ingredients came from and exactly what is in them. She and her employees have been very easy to work with. My friends who have children with severe nut, gluten and milk allergies LOVE Indie. All their chocolate and candy is made in a big 8 free facility - no cross contamination!!
+
+product/productId: B000NY8O9M
+review/userId: AZRHU8CP5XKMF
+review/profileName: David L. Brown
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1264204800
+review/summary: Great For Fast Gulasch!
+review/text: Quick and easy! Had similar Gulasch in Guest Houses in Germany. You can use fully cooked wurst and have a good meal in minutes. I have added mushrooms and served over rice. Enjoy!
+
+product/productId: B006T7TKZO
+review/userId: A3BOURUK79CYY5
+review/profileName: BIH
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338854400
+review/summary: Great Cafe Latte
+review/text: This product is great.  Gives you so much energy and tastes great.  Try this Cafe Latte and all the other flavors and you will not be disappointed.
+
+product/productId: B000H7K114
+review/userId: A2AGSSZR9V7XST
+review/profileName: Peter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1281744000
+review/summary: Excellent Tea
+review/text: I love this tea.  I first discovered the pleasures of chai after attending a yoga class.  The yoga instructor made tea for us.  I wanted to make some on my own, and I tried many brands and recipes, including making it from scratch.  This is the best tea I found. In my opinion, steeping tea bags makes a weak, bland tea.  You really need to use loose tea and cook it according to the directions.  I use half and half for the milk, and it makes a rich, spicy tea.  Additionally, for the sweetener, I use maple syrup instead of honey or sugar.  It might sound odd, but the maple syrup blends with the chai spices much better.  If you want to make authentic chai (instead of using some kind of processed powdery mix), try this one.
+
+product/productId: B001EO7N10
+review/userId: A2SD7TY3IOX69B
+review/profileName: BayBay "BayBay Knows Best"
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1245369600
+review/summary: Best Value for Chinese 5 Spice
+review/text: As a foodie, I use a lot of Chinese 5 Spice powder in my daily cooking.  It is impossible to get the amount of 5 spice for this price!  All my dishes taste great!
+
+product/productId: B001EO7N10
+review/userId: A2E5C8TTAED4CQ
+review/profileName: S. Linkletter
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1268006400
+review/summary: Five Spice Powder
+review/text: You can make this mix yourself, but the Star Anise is often difficult to find.  Usually I use this mix to make Oriental-style pork or chicken dishes, but today I added a little to some fish boiled with lemon juice and black pepper.  It was very good without being actually Oriental in overall impression.
+
+product/productId: B001EO7N10
+review/userId: A2P9W8T7NTLG2Z
+review/profileName: Andy
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1328918400
+review/summary: Mixed wrong
+review/text: I had ordered some of these a few months back and they were great, but the latest batch was terrible. All anise is what it tasted like. They sent two more that we're just as bad.<br /><br />Maybe it will eventually get the right mix back in stock but I ordered elsewhere.
+
+product/productId: B001EO7N10
+review/userId: APWCOAVILK94B
+review/profileName: Real Named Person "wowzee"
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1322524800
+review/summary: If its all natural, this is like panacea of Spice mixes
+review/text: Hoping there is no MSG in this, this tastes extremely good when i make it with toasted fish. I used to eat fried chicken and other chicken dishes when i was young and had no idea they tasted so good because of this spice mix. Now i know when i remember about the great aroma and lip smacking flavor this imparts to my fish.  This is also good in soups and gives you a kind of addiction that you will want to put this spice mix into everything you eat.<br />Would like to add this will make anyone eat any kind of meat or vegetable, in my case I prefer costly red salmon in a can but pink salmon is so cheaper and now with Five spice pink salmon toast feels as enjoyable as anything else i have eaten.
+
+product/productId: B001EO7N10
+review/userId: A1F6BHEYB7R6R7
+review/profileName: James Braley
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1308096000
+review/summary: Very large ground spice jars.
+review/text: My only complaint is that there's so much of it, I don't use a huge amount of 5 spice, so I gave 1 jar to my sister. Good enough.
+
+product/productId: B001EO7N10
+review/userId: A28KG5XORO54AY
+review/profileName: Lettie D. Carter
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1299628800
+review/summary: Will not do without
+review/text: Great for sesame chicken..this is a good if not better than resturants I have eaten at..My husband loved it..will find other recipes to use this in..
+
+product/productId: B003S1WTCU
+review/userId: A3I8AFVPEE8KI5
+review/profileName: R. Sawyer
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1331251200
+review/summary: disappointed
+review/text: I'm disappointed with the flavor. The chocolate notes are especially weak. Milk thickens it but the flavor still disappoints. This was worth a try but I'll never buy again. I will use what's left, which will be gone in no time thanks to the small cans.
+
+product/productId: B004I613EE
+review/userId: A121AA1GQV751Z
+review/profileName: pksd "pk_007"
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1329782400
+review/summary: Perfect for our maltipoo
+review/text: These stars are small, so you can give 10-15 of those in one training session.  I tried to train our dog with "Ceaser dog treats",  it just made our puppy hyper.  If you compare the ingredients, you will know why.  Little stars has just basic food ingredients without any preservatives and food coloring.  Sweet potato flavor also did not make my hand smell like dog food.
+
+product/productId: B004I613EE
+review/userId: A3IBEVCTXKNOH
+review/profileName: Kathy A. Welch "katwel"
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1331596800
+review/summary: Favorite Training and reward treat
+review/text: These are the BEST treats for training and rewarding your dog for being good while grooming.  Lower in calories and loved by all the doggies.  Sweet potatoes seem to be their favorite Wet Noses treat!
+
+product/productId: B001LR2CU2
+review/userId: A3LGQPJCZVL9UC
+review/profileName: srfell17
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1338422400
+review/summary: Great Honey
+review/text: I am very satisfied ,product is as advertised, I use it on cereal, with raw vinegar, and as a general sweetner.
+

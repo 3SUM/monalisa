@@ -1,0 +1,55 @@
+*****************************************************************
+[1mCS 302 - Assignment #10
+Springfield Fiber Installation[0m
+
+=================================================================
+Springfield Fiber Configuration: 
+
+addEdge: error, vertex to and from can not be the same.
+addEdge: error, vertex to and from can not be the same.
+Graph Adjacency Matrix:
+   Title: Simple Graph 3 (w/errs)
+
+             0       1       2       3       4       5       6       7       8
+      ------------------------------------------------------------------------
+     0|       *    4.00      --      --      --      --      --    8.00      --
+     1|    4.00       *    8.00      --      --      --      --   11.00      --
+     2|      --    8.00       *    7.00      --    4.00      --      --    2.00
+     3|      --      --    7.00       *    9.00   14.00   14.00      --      --
+     4|      --      --      --    9.00       *   10.00      --      --      --
+     5|      --      --    4.00   14.00   10.00       *    2.00      --      --
+     6|      --      --      --   14.00      --    2.00       *    1.00    6.00
+     7|    8.00   11.00      --      --      --      --    1.00       *    7.00
+     8|      --      --    2.00      --      --      --    6.00    7.00       *
+
+
+*****************************************************************
+Springfield Fiber Configuration:
+--------------------------------
+
+By Vertex's:
+------------
+1 - 0  4.00
+2 - 5  4.00
+3 - 2  7.00
+4 - 3  9.00
+5 - 6  2.00
+6 - 7  1.00
+7 - 0  8.00
+8 - 2  2.00
+
+By Springfield Locations:
+-------------------------
+Springfield Nuclear Power Plant - Kwik-E-Mart  4.00
+Legitimate Businessmans Club - Midnight Rx  4.00
+Barney's Bowlarama - Legitimate Businessmans Club  7.00
+Badge, Haggle and Bill - Barney's Bowlarama  9.00
+Midnight Rx - The Android's Dungeon & Baseball Card Shop  2.00
+The Android's Dungeon & Baseball Card Shop - Duff Brewery  1.00
+Duff Brewery - Kwik-E-Mart  8.00
+Spinster City Apartments - Legitimate Businessmans Club  2.00
+
+Total Cost:  $37.00k
+
+*****************************************************************
+Mayor Quimby thanks you.

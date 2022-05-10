@@ -1,0 +1,144 @@
+#!/bin/bash
+# CS 302, assignment #8 test script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+bldred=`tput bold``tput setaf 1`
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo -n "Press return to continue"
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+# Display initial page
+
+clear
+echo
+echo
+echo ${bolded}Assignment 8 - Testing Utility${normal}
+echo
+echo
+echo
+echo
+echo "Note, this utility assumes the program is working or very"
+echo "      close to working.  Testing on an incomplete"
+echo "      program will not be useful."
+echo
+echo
+echo
+pause $2
+
+# ---------------------------------------------------------
+# Begin tests.
+
+# ---------------------------------
+#  PQ Testing
+
+echo
+echo "**********************************************************************"
+echo ${bolded}Priority Queue Test Program...${normal}
+echo
+echo
+echo
+echo
+./pqTest > testOut.txt
+
+if `diff testOut.txt mstrPQtest.txt >/dev/null` ; then
+	echo "PQ Test Successful"
+else
+	diff testOut.txt mstrPQtest.txt
+fi
+echo
+echo
+echo
+echo
+pause $2
+
+# ---------------------------------
+#  Maze finding testing
+
+echo
+echo "**********************************************************************"
+echo ${bolded}Command Line Testing...${normal}
+echo
+echo
+echo ${bldred}Should show usgae messgae.${normal}
+echo
+./$1
+echo
+echo
+echo
+echo ${bldred}Should show limit specifier error messages.${normal}
+echo
+./$1 -x 100
+echo
+./$1 -x 100
+echo
+./$1 -x 100
+echo
+echo
+pause $2
+echo
+echo ${bldred}Should show invalid limit value error messages.${normal}
+echo
+./$1 -l 1a0
+echo
+./$1 -l 3
+echo
+./$1 -l 1000001
+echo
+echo
+echo
+echo
+echo
+echo
+pause $2
+
+# -----
+#
+echo "**********************************************************************"
+echo ${bolded}Execution Testing...${normal}
+echo
+
+for cnt in {0..1000000..100000}
+do
+	echo
+	echo ${bldred}Test $cnt Executing...${normal}
+
+	./$1 -l $cnt > out$cnt.txt
+
+	if `diff out$cnt.txt mstr$cnt.txt >/dev/null` ; then
+		echo "Test $cnt Successful"
+	else
+		echo "Test $cnt Unsuccessful"
+		diff out$cnt.txt mstr$cnt.txt
+	fi
+
+done
+
+echo
+

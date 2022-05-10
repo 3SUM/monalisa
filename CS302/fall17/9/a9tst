@@ -1,0 +1,129 @@
+#!/bin/bash
+#  CS 302, assignment #9 test script.
+
+# ---------------------------------------------------------
+#  Initial checks.
+#	Ensure executable file exists.
+#	Verify availability of testing support files.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+if [ ! -e sn0.txt ] || [ ! -e sn1.txt ]; then
+	echo "Error, unable to find data files."
+	exit
+fi
+
+if [ ! -e mstr0con.txt ] || [ ! -e mstr0rpt.txt ] ; then
+	echo "Error, unable to find master verification files."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo -n "Press return to continue"
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+#  Begin testing...
+#
+clear
+echo "${bolded}CS 302 Assignment #9 Test Script${normal}"
+echo
+echo
+#
+# ---------------------------------------------------------
+#  Basic tests
+#
+echo
+echo ./testDS  >testOut.txt
+./testDS > testOut.txt
+
+if `diff testOut.txt testMstr.txt >/dev/null` ; then
+	echo "Disjoint Sets Test -> Successful"
+else
+	diff testOut.txt testMstr.txt
+fi
+echo
+#
+# -----
+#
+echo "---------------------------------"
+echo "Error Testing..."
+echo
+
+for cnt in {0..1..1}
+do
+	echo
+	echo ${bolded}Error Test ${cnt} ${normal}
+
+	./$1 -df bad${cnt}.txt -rpt tmp.txt > tmpBad${cnt}.txt
+
+	if `diff tmpBad${cnt}.txt mstrBad${cnt}.txt >/dev/null` ; then
+		echo "Error Test $cnt Program Ouput Successful"
+	else
+		echo "Error Test $cnt Program Ouput Unsuccessful"
+		diff tmpBad${cnt}.txt mstrBad${cnt}.txt
+	fi
+
+done
+#
+# -----
+#
+echo
+echo
+echo "---------------------------------"
+echo "Execution Testing."
+echo "     Note, some of these will take a while..."
+echo
+
+for cnt in {0..6..1}
+do
+	echo
+	echo ${bolded}Test ${cnt} ${normal}
+
+	./$1 -df sn${cnt}.txt -rpt rpt${cnt}.txt > tmp$cnt.txt
+
+	if `diff tmp${cnt}.txt mstr${cnt}con.txt >/dev/null` ; then
+		echo "Test $cnt Program Ouput Successful"
+	else
+		echo "Test $cnt Program Ouput Unsuccessful"
+		diff tmp${cnt}.txt mstr${cnt}con.txt
+	fi
+
+	if `diff rpt${cnt}.txt mstr${cnt}rpt.txt >/dev/null` ; then
+		echo "Test $cnt Connectivity Report Successful"
+	else
+		echo "Test $cnt Connectivity Report Unsuccessful"
+		diff rpt${cnt}.txt mstr${cnt}rpt.txt
+	fi
+
+done
+
+echo
+#
+# ---------------------------------------------------------
+#  Done, end script
+#
+echo
+echo "Test Script Done."
+

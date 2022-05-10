@@ -1,0 +1,103 @@
+#!/bin/bash
+# CS 302, assignment #8 test script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+#	Verify availability of testing support files.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+if [ ! -e mstr0.txt ]; then
+	echo "Error, unable to find verification files."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Begin test.
+#
+clear
+echo "${bolded}CS 302 Assignment #10 Test Script${normal}"
+echo
+echo
+#
+echo
+echo "./"$1" -t >out0.txt"
+./$1 -t >out0.txt
+
+if `diff out0.txt mstr0.txt >/dev/null` ; then
+	echo "Test Successful"
+else
+	diff out0.txt mstr0.txt
+fi
+echo
+#
+# ---------------------------------------------------------
+# graph files tests
+#
+echo
+inFile="graph"
+ansFile="gmstr"
+outFile="out"
+ext=".txt"
+#
+iter=1
+#
+#
+for ((i=1; i<=3; i++))
+do
+#
+echo "./"$1" $inFile$iter$ext >$outFile$iter$ext"
+./$1 $inFile$iter$ext >$outFile$iter$ext
+
+if `diff $outFile$iter$ext $ansFile$iter$ext >/dev/null`; then
+	echo "Test $iter Successful"
+else
+	diff $outFile$iter$ext $ansFile$iter$ext
+fi
+echo
+echo
+((iter++))
+#
+done
+#
+# ---------------------------------------------------------
+# mst files tests
+#
+inFile="mst."
+ansFile="mstr"
+outFile="out"
+ext1=".in"
+ext2=".txt"
+#
+iter=1
+#
+#
+for ((i=1; i<=10; i++))
+do
+#
+echo "./"$1" $inFile$iter$ext1 >$outFile$iter$ext2"
+./$1 $inFile$iter$ext1 >$outFile$iter$ext2
+
+if `diff $outFile$iter$ext2 $ansFile$iter$ext2 >/dev/null`; then
+	echo "Test $iter Successful"
+else
+	diff $outFile$iter$ext2 $ansFile$iter$ext2
+fi
+echo
+echo
+((iter++))
+#
+done
+#
+echo
+echo "Test Script Done."
+

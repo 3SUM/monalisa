@@ -1,0 +1,135 @@
+#!/bin/bash
+# CS 302, assignment #5 test script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+#
+if [ ! -e foodsSm.txt ] || [ ! -e foodsMed.txt ]; then
+	echo "Error, unable to find test input files."
+	exit
+fi
+#
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=$(tput bold)
+normal=$(tput sgr0)
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo -n "Press return to continue"
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+# Display initial page
+
+clear
+echo
+echo
+echo ${bolded}Assignment 5 - Testing Script${normal}
+echo
+echo
+echo
+echo
+echo "Note, this utility assumes the program is working or very"
+echo "      close to working.  Testing on an incomplete"
+echo "      program will not be useful. Make sure the directory"
+echo "		for the tests files has been modifed appropriately."
+echo
+echo
+echo
+echo
+pause $2
+
+# ---------------------------------------------------------
+# Begin tests.
+#
+echo -e "**********************************************************************"
+echo "Basic Tests for AVL Tree."
+echo
+#
+./avlTest >tmpTree.txt
+#
+if $(diff tmpTree.txt mstrTree.txt >/dev/null); then
+	echo "AVL Tree Test Output Correct"
+else
+	diff tmpTree.txt mstrTree.txt
+fi
+#
+#
+echo
+echo -e "\n**********************************************************************"
+echo "Tests for product review data program."
+echo
+echo
+#
+./$1 -m foodsSm.txt >tmpSM.txt <<EOF
+s
+m
+p
+in1.txt
+l
+B000NY8O9M
+l
+B003VWU7IE
+l
+B003VWU7I1
+a
+q
+EOF
+#
+if $(diff tmpSM.txt mstrSM.txt >/dev/null); then
+	echo "Small Product Reviews Data File Output Correct"
+else
+	diff tmpSM.txt mstrSM.txt
+fi
+#
+echo
+#
+# ---------------------------------------------------------
+#
+echo
+echo
+echo "Stand by, this may take a while..."
+echo
+#
+./$1 -m foodsMed.txt >tmpMed.txt <<EOF
+s
+m
+p
+in2.txt
+l
+B0000D9N6N
+l
+B0000E3QKU
+l
+B009OM66IU
+a
+q
+EOF
+#
+if $(diff tmpMed.txt mstrMed.txt >/dev/null); then
+	echo "Medium Product Reviews Data File Output Correct"
+else
+	diff tmpMed.txt mstrMed.txt
+fi
+#
+echo
+#

@@ -1,0 +1,141 @@
+*****************************************************************
+[1mCS 302 - Assignment #8
+Priority Queue Tester[0m
+
+
+=================================================================
+[1mTest Set #0[0m
+----------------------------------------
+PQ Heap (level order):
+google  1
+
+amazon  2
+newegg  3
+
+apple  4
+dell  5
+oracle  6
+cisco  7
+
+jupiter  8
+belkin  9
+ebay  10
+
+----------------------------------------
+PQ Heap Size: 10
+Priority Order:
+google  1
+amazon  2
+newegg  3
+apple  4
+dell  5
+oracle  6
+cisco  7
+jupiter  8
+belkin  9
+ebay  10
+
+=================================================================
+[1mTest Set #1[0m
+----------------------------------------
+PQ Heap (level order):
+g  1
+
+x  1
+y  1
+
+o  2
+n  5
+p  7
+d  9
+
+a  3
+c  4
+j  6
+b  8
+e  11
+f  12
+h  13
+k  14
+
+m  15
+
+----------------------------------------
+PQ Heap Size: 16
+Priority Order:
+g  1
+x  1
+y  1
+o  2
+a  3
+c  4
+n  5
+j  6
+p  7
+b  8
+d  9
+e  11
+f  12
+h  13
+k  14
+m  15
+
+=================================================================
+[1mTest Set #3[0m
+Large test successful.
+
+=================================================================
+[1mTest Set #4[0m
+Email (1):  leo@MorbimetusVivamus.com
+Email (2):  non.cursus@sapien.edu
+Email (3):  ut.ipsum.ac@et.org
+Email (4):  nec.ante@eteuismodet.edu
+Email (5):  netus@nonummy.com
+Email (6):  sit.amet.risus@tacitisociosquad.net
+Email (7):  nascetur.ridiculus.mus@DonecestNunc.com
+Email (8):  sed.dolor.Fusce@ornaretortorat.org
+Email (9):  id.risus@non.co.uk
+Email (10):  urna.justo@lectus.ca
+Email (11):  elementum.at@ipsumPhasellusvitae.org
+Email (12):  augue.porttitor.interdum@orciconsectetuer.org
+Email (13):  dolor.Fusce.feugiat@leo.ca
+Email (14):  purus@amalesuada.org
+Email (15):  ac@fermentummetusAenean.ca
+Email (16):  dolor.sit@pede.co.uk
+Email (17):  tellus.justo@sitamet.org
+Email (18):  consectetuer@lorem.edu
+Email (19):  magna.a.tortor@aliquetnecimperdiet.ca
+Email (20):  Cras.interdum.Nunc@aduiCras.org
+Email (21):  urna@Etiam.net
+Email (22):  montes@sem.ca
+Email (23):  lacinia.mattis.Integer@InfaucibusMorbi.ca
+Email (24):  enim.gravida.sit@mollisPhaselluslibero.com
+Email (25):  Integer@tinciduntadipiscingMauris.edu
+Email (26):  quis@ullamcorperDuis.ca
+Email (27):  lacinia.vitae.sodales@Suspendisse.org
+Email (28):  semper.tellus@adipiscing.edu
+Email (29):  parturient.montes.nascetur@utmi.org
+Email (30):  Nullam@mi.com
+Email (31):  bibendum.Donec@amet.net
+Email (32):  feugiat@faucibusid.com
+Email (33):  pellentesque.tellus@Ut.co.uk
+Email (34):  ante.Nunc@nuncacmattis.net
+Email (35):  erat.vitae.risus@lacusQuisqueimperdiet.ca
+Email (36):  et.malesuada.fames@consequatenim.org
+Email (37):  eu.odio@vulputateposuerevulputate.com
+Email (38):  id.libero.Donec@tinciduntnuncac.ca
+Email (39):  a.malesuada@erat.edu
+Email (40):  Fusce@Integervulputaterisus.co.uk
+Email (41):  molestie.Sed@luctusvulputate.edu
+Email (42):  Maecenas.mi@vestibulumnequesed.org
+Email (43):  Sed.eu@PraesentluctusCurabitur.org
+Email (44):  ligula.Nullam.enim@consectetuerrhoncus.com
+Email (45):  tincidunt.orci@laoreet.co.uk
+Email (46):  dictum.placerat.augue@risusQuisque.co.uk
+Email (47):  non.justo.Proin@augueeutempor.com
+Email (48):  cursus@Proinnisl.edu
+Email (49):  tincidunt.nibh.Phasellus@ac.org
+Email (50):  a.felis.ullamcorper@estvitaesodales.edu
+
+*****************************************************************
+Game Over, thank you for playing.

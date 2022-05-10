@@ -1,0 +1,153 @@
+*****************************************************************
+CS 302 - AVL Tree Test Program
+
+------------------------------
+Test Set #0  (10)
+
+Max Height: 4
+Node Count: 10
+Tree: 
+Complete Tree: (debug)
+----------------------
+a  1.00  1
+answer  3.00  1
+balloon  9.00  1
+ball  8.00  1
+any  4.00  1
+bye  6.00  1
+their  7.00  1
+there  2.00  1
+the  0.00  1
+by  5.00  1
+
+
+------------------------------
+Test Set #1  (50)
+
+Max Height: 6
+Node Count: 50
+Tree: 
+Complete Tree: (debug)
+----------------------
+aah  0.00  1
+aahing  2.00  1
+aahed  1.00  1
+aal  4.00  1
+aaliis  6.00  1
+aalii  5.00  1
+aahs  3.00  1
+aardvark  8.00  1
+aargh  10.00  1
+aardwolf  9.00  1
+aarrghh  12.00  1
+aasvogel  14.00  1
+aas  13.00  1
+aarrgh  11.00  1
+aals  7.00  1
+aba  16.00  1
+abacas  18.00  1
+abaca  17.00  1
+aback  20.00  1
+abacuses  22.00  1
+abacus  21.00  1
+abaci  19.00  1
+abaka  24.00  1
+abalone  26.00  1
+abakas  25.00  1
+abamp  28.00  1
+abamps  30.00  1
+abampere  29.00  1
+abalones  27.00  1
+abaft  23.00  1
+ab  15.00  1
+abandons  32.00  1
+abas  34.00  1
+abapical  33.00  1
+abased  36.00  1
+abaser  38.00  1
+abasedly  37.00  1
+abase  35.00  1
+abases  40.00  1
+abashed  42.00  1
+abash  41.00  1
+abashing  44.00  1
+abasias  46.00  1
+abasia  45.00  1
+abate  49.00  1
+abatable  48.00  1
+abasing  47.00  1
+abashes  43.00  1
+abasers  39.00  1
+abandon  31.00  1
+
+
+------------------------------
+Test Set #2  (25)
+
+Max Height: 5
+Node Count: 18
+Tree: 
+Complete Tree: (debug)
+----------------------
+a  20.00  2
+ab  22.00  2
+abaa  30.00  2
+abab  32.00  2
+aba  6.00  1
+abad  15.00  1
+abaf  17.00  1
+abae  16.00  1
+abc  8.00  1
+abb  7.00  1
+abac  14.00  1
+abe  10.00  1
+ac  24.00  2
+abf  11.00  1
+af  5.00  1
+ae  28.00  2
+ad  26.00  2
+abd  9.00  1
+
+
+------------------------------
+Test Set #3  (30)
+
+Max Height: 5
+Node Count: 30
+Tree: 
+Complete Tree: (debug)
+----------------------
+a  0.00  1
+aaa  2.00  1
+aa  1.00  1
+aaaaa  4.00  1
+aaaaaaa  6.00  1
+aaaaaa  5.00  1
+aaaa  3.00  1
+aaaaaaaaa  8.00  1
+aaaaaaaaaaa  10.00  1
+aaaaaaaaaa  9.00  1
+aaaaaaaaaaaaa  12.00  1
+aaaaaaaaaaaaaaa  14.00  1
+aaaaaaaaaaaaaa  13.00  1
+aaaaaaaaaaaa  11.00  1
+aaaaaaaa  7.00  1
+aaaaaaaaaaaaaaaaa  16.00  1
+aaaaaaaaaaaaaaaaaaa  18.00  1
+aaaaaaaaaaaaaaaaaa  17.00  1
+aaaaaaaaaaaaaaaaaaaaa  20.00  1
+aaaaaaaaaaaaaaaaaaaaaaa  22.00  1
+aaaaaaaaaaaaaaaaaaaaaa  21.00  1
+aaaaaaaaaaaaaaaaaaaa  19.00  1
+aaaaaaaaaaaaaaaaaaaaaaaaa  24.00  1
+aaaaaaaaaaaaaaaaaaaaaaaaaaa  26.00  1
+aaaaaaaaaaaaaaaaaaaaaaaaaa  25.00  1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  29.00  1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa  28.00  1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaa  27.00  1
+aaaaaaaaaaaaaaaaaaaaaaaa  23.00  1
+aaaaaaaaaaaaaaaa  15.00  1
+
+
+------------------------------
+Game Over, thank you for playing.

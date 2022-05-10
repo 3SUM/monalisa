@@ -1,0 +1,9 @@
+*****************************************************************
+[1mCS 302 - Assignment #9
+Sensor Network Connectivity Program[0m
+
+readFile: Error, invalid data file range.
+Error reading input file.
+
+*****************************************************************
+Game Over, thank you for playing.

@@ -1,0 +1,23 @@
+*****************************************************************
+[1mCS 302 - Assignment #9
+Sensor Network Connectivity Program[0m
+
+  Total Sensors in Network:      548552
+  Total Connected Sub-Groups:    213690
+
+  Largest Connected Group:       334863
+  Parent Node (largest group):   120
+  Connectivity (largest group):  61.04
+
+  2nd Largest Connected Group:   1
+  Parent Node (2nd group):       0
+  Connectivity (2nd group):      0.00
+
+  Smallest Connected Group:      0
+  Parent Node (smallest group):  1
+  Connectivity (smallest group): 0.00
+
+
+
+*****************************************************************
+Game Over, thank you for playing.

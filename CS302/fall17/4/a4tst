@@ -1,0 +1,131 @@
+#!/bin/bash
+# CS 302, assignment #4 test script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo -n "Press return to continue"
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+# Display initial page
+
+clear
+echo
+echo
+echo ${bolded}Assignment 4 - Error Testing Utility${normal}
+echo
+echo
+echo
+echo
+echo "Note, this utility assumes the program is working or very"
+echo "      close to working.  Testing on an incomplete"
+echo "      program will not be useful."
+echo
+echo
+echo
+pause $2
+#
+# -----
+echo "**********************************************************************"
+echo "Error testing - missing argument / too many arguments"
+echo
+echo
+echo
+./$1
+echo
+./$1  one two
+#
+echo
+echo
+echo
+echo
+pause $2
+#
+# ---------------------------------------------------------
+# Begin tests.
+
+declare -a arr=(anna detartrated Aibohphobia "an na" "I did, did I?"
+	"Eva, can I see bees in a cave?" "Was it a cat I saw?"
+	"A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal-Panama!"
+	"Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era."
+	"Are we not drawn onward, we few, drawn onward to new era?"
+	"1234567890987654321" "123456789987654321"
+	"A Toyota! Race fast, safe car! A Toyota!")
+#
+echo "**********************************************************************"
+echo "Tests - all palindromes"
+echo
+#
+counter=1
+for i in "${arr[@]}";
+do
+	if [[ $(( $counter % 8 )) == 0 ]]; then
+		echo
+		pause $2
+		echo "**********************************************************************"
+		echo "Tests - all palindromes"
+		echo
+	fi
+	((counter++))
+	./$1 "$i"
+done
+#
+pause $2
+#
+# -----
+#
+declare -a arr1=(anasssaana detarrtrated Aibolhphobia "an anas" "I did, dide I?"
+	"Eva, can I see bees in a caves?" "Was it a cate I saw?"
+	"A man, a plan, a cat, a ham, a yake, a yam, a hat, a canal-Panama!"
+	"Are we not pure? “No sir!” Panama’s mooody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era."
+	"Are we not drawn onward, we few, drawn fonward to new era?"
+	"12345678901987654321" "1234567899876543211"
+	"A Toyota! Race fast, safee car! A Toyota!")
+#
+echo "**********************************************************************"
+echo "Tests - all not palindromes"
+echo
+#
+counter=1
+for i in "${arr1[@]}";
+do
+	if [[ $(( $counter % 8 )) == 0 ]]; then
+		echo
+		pause $2
+		echo "**********************************************************************"
+		echo "Tests - all not palindromes"
+		echo
+	fi
+	((counter++))
+	./$1 "$i"
+done
+echo
+#
+# -----
+

@@ -1,0 +1,50 @@
+*****************************************************************
+[1mCS 302 - Assignment #10
+Springfield Fiber Installation[0m
+
+=================================================================
+Springfield Fiber Configuration: 
+
+Graph Adjacency Matrix:
+   Title: small test
+
+             0       1       2       3       4       5       6       7
+      ----------------------------------------------------------------
+     0|       *      --    0.26      --    0.38      --    0.58    0.16
+     1|      --       *    0.36    0.29      --    0.32      --    0.19
+     2|    0.26    0.36       *    0.17      --      --    0.40    0.34
+     3|      --    0.29    0.17       *      --      --    0.52      --
+     4|    0.38      --      --      --       *    0.35    0.93    0.37
+     5|      --    0.32      --      --    0.35       *      --    0.28
+     6|    0.58      --    0.40    0.52    0.93      --       *      --
+     7|    0.16    0.19    0.34      --    0.37    0.28      --       *
+
+
+*****************************************************************
+Springfield Fiber Configuration:
+--------------------------------
+
+By Vertex's:
+------------
+1 - 7  0.19
+2 - 0  0.26
+3 - 2  0.17
+4 - 5  0.35
+5 - 7  0.28
+6 - 2  0.40
+7 - 0  0.16
+
+By Springfield Locations:
+-------------------------
+Springfield Nuclear Power Plant - Duff Brewery  0.19
+Legitimate Businessmans Club - Kwik-E-Mart  0.26
+Barney's Bowlarama - Legitimate Businessmans Club  0.17
+Badge, Haggle and Bill - Midnight Rx  0.35
+Midnight Rx - Duff Brewery  0.28
+The Android's Dungeon & Baseball Card Shop - Legitimate Businessmans Club  0.40
+Duff Brewery - Kwik-E-Mart  0.16
+
+Total Cost:  $1.81k
+
+*****************************************************************
+Mayor Quimby thanks you.

@@ -1,0 +1,115 @@
+#!/bin/bash
+# CS 302, assignment #3 test script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+
+pause() {
+	if [ "$1" = "skip" ]; then
+		echo
+	else
+		echo
+		echo "The total execution times may exceed 2 hours"
+		echo "depending on the machine..."
+		echo
+		echo
+		echo "The times are recorded in 'a3times.txt' "
+		echo
+		echo
+		echo "Press return when ready to start."
+		read
+		clear
+	fi
+}
+
+# ---------------------------------------------------------
+# Display initial page
+
+clear
+echo
+echo
+echo ${bolded}Assignment 3 - Execution Times Utility${normal}
+echo
+echo
+echo
+pause $2
+
+echo -e "Executions Times for Sorting Algorithms Program.\n\n" > a3times.txt
+
+# ---------------------------------------------------------
+#  Begin executions -> bubble sort.
+
+
+# ---------------------------------------------------------
+#  Begin executions -> Insertion sort.
+
+echo "Executions for Insertion Sort."
+echo -e "Executions for Insertion Sort." >> a3times.txt
+echo
+
+for len in {100000..1000000..100000}
+do
+	echo -e "\n------------------------------------" >> a3times.txt
+	echo "Execution Test, $len numbers.\n"
+	echo
+	echo -e "Execution Test, $len numbers." >> a3times.txt
+	echo >> a3times.txt
+	(time ./$1 -is -l $len) 2>> a3times.txt
+done
+
+echo -e "\n------------------------------------\n" >> a3times.txt
+
+# ---------------------------------------------------------
+#  Begin executions -> quick sort.
+
+echo "Executions for Quick Sort."
+echo -e "Executions for Quick Sort." >> a3times.txt
+echo
+
+for len in {100000..1000000..100000}
+do
+	echo -e "\n------------------------------------" >> a3times.txt
+	echo "Execution Test, $len numbers."
+	echo
+	echo -e "Execution Test, $len numbers." >> a3times.txt
+	echo >> a3times.txt
+	(time ./$1 -qs -l $len) 2>> a3times.txt
+done
+
+echo -e "\n------------------------------------\n" >> a3times.txt
+
+# ---------------------------------------------------------
+#  Begin executions -> counting sort.
+
+echo "Executions for Counting Sort."
+echo -e "Executions for Counting Sort." >> a3times.txt
+echo
+
+for len in {100000..1000000..100000}
+do
+	echo -e "\n------------------------------------" >> a3times.txt
+	echo "Execution Test, $len numbers."
+	echo
+	echo -e "Execution Test, $len numbers." >> a3times.txt
+	echo >> a3times.txt
+	(time ./$1 -cs -l $len) 2>> a3times.txt
+done
+
+echo -e "\n------------------------------------\n" >> a3times.txt

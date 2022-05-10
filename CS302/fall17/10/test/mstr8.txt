@@ -1,0 +1,2020 @@
+*****************************************************************
+[1mCS 302 - Assignment #10
+Springfield Fiber Installation[0m
+
+=================================================================
+Springfield Fiber Configuration: 
+
+
+*****************************************************************
+Springfield Fiber Configuration:
+--------------------------------
+
+By Vertex's:
+------------
+1 - 260  0.236
+2 - 773  0.349
+3 - 875  0.053
+4 - 987  0.105
+5 - 379  0.111
+6 - 405  0.144
+7 - 38  0.067
+8 - 634  0.016
+9 - 751  0.297
+10 - 953  0.169
+11 - 705  0.028
+12 - 785  0.583
+13 - 486  0.136
+14 - 955  0.513
+15 - 204  0.178
+16 - 676  0.144
+17 - 814  0.56
+18 - 924  0.062
+19 - 491  0.096
+20 - 555  0.067
+21 - 955  0.041
+22 - 589  0.124
+23 - 93  0.01
+24 - 459  0.073
+25 - 377  0.028
+26 - 689  0.132
+27 - 757  0.061
+28 - 978  0.152
+29 - 339  0.181
+30 - 914  0.13
+31 - 23  0.112
+32 - 801  0.016
+33 - 568  0.204
+34 - 386  0.53
+35 - 681  0.092
+36 - 448  0.3
+37 - 505  0.135
+38 - 823  0.234
+39 - 319  0.042
+40 - 583  0.107
+41 - 906  0.3
+42 - 133  0.005
+43 - 761  0.075
+44 - 65  0.023
+45 - 680  0.265
+46 - 906  0.249
+47 - 947  0.144
+48 - 19  0.325
+49 - 889  0.159
+50 - 9  0.088
+51 - 45  0.152
+52 - 595  0.299
+53 - 168  0.043
+54 - 341  0.124
+55 - 93  0.204
+56 - 636  0.013
+57 - 157  0.054
+58 - 230  0.331
+59 - 157  0.147
+60 - 269  0.077
+61 - 292  0.14
+62 - 169  0.03
+63 - 186  0.139
+64 - 768  0.584
+65 - 863  0.193
+66 - 541  0.24
+67 - 650  0.156
+68 - 142  0.156
+69 - 921  0.232
+70 - 453  0.054
+71 - 118  0.172
+72 - 638  0.366
+73 - 32  0.144
+74 - 932  0.125
+75 - 379  0.116
+76 - 30  0.105
+77 - 326  0.095
+78 - 431  0.078
+79 - 223  0.113
+80 - 671  0.14
+81 - 918  0.12
+82 - 952  0.955
+83 - 29  0.168
+84 - 22  0.014
+85 - 564  0.242
+86 - 571  0.142
+87 - 95  0.069
+88 - 158  0.26
+89 - 878  0.602
+90 - 248  0.466
+91 - 145  0.212
+92 - 887  0.136
+93 - 266  0.105
+94 - 553  0.16
+95 - 414  0.061
+96 - 308  0.142
+97 - 437  0.369
+98 - 239  0.37
+99 - 206  0.019
+100 - 912  0.187
+101 - 26  0.034
+102 - 138  0.245
+103 - 814  0.202
+104 - 92  0.028
+105 - 779  0.826
+106 - 101  0.16
+107 - 517  0.3
+108 - 296  0.106
+109 - 522  0.135
+110 - 804  0.044
+111 - 238  0.109
+112 - 396  0.356
+113 - 731  0.091
+114 - 669  0.317
+115 - 687  0.032
+116 - 720  0.331
+117 - 165  0.019
+118 - 781  0.145
+119 - 326  0.183
+120 - 154  0.017
+121 - 677  0.023
+122 - 935  0.171
+123 - 581  0.492
+124 - 391  0.071
+125 - 652  0.457
+126 - 257  0.468
+127 - 996  0.528
+128 - 725  0.224
+129 - 718  0.382
+130 - 337  0.153
+131 - 59  0.185
+132 - 4  0.134
+133 - 358  0.09
+134 - 244  0.069
+135 - 194  0.291
+136 - 35  0.038
+137 - 545  0.077
+138 - 971  0.079
+139 - 69  0.049
+140 - 500  0.088
+141 - 61  0.116
+142 - 75  0.173
+143 - 820  0.512
+144 - 101  0.16
+145 - 591  0.223
+146 - 394  0.246
+147 - 789  0.086
+148 - 279  0.069
+149 - 616  0.306
+150 - 218  0.143
+151 - 397  0.116
+152 - 27  0.22
+153 - 650  0.339
+154 - 757  0.005
+155 - 334  0.165
+156 - 599  0.233
+157 - 159  0.188
+158 - 564  0.222
+159 - 251  0.043
+160 - 125  0.024
+161 - 532  0.185
+162 - 109  0.028
+163 - 45  0.175
+164 - 931  0.14
+165 - 355  0.13
+166 - 882  0.126
+167 - 944  0.149
+168 - 509  0.073
+169 - 269  0.165
+170 - 547  0.23
+171 - 405  0.355
+172 - 944  0.288
+173 - 283  0.367
+174 - 258  0.373
+175 - 476  0.036
+176 - 629  0.171
+177 - 616  0.046
+178 - 413  0.393
+179 - 657  0.064
+180 - 151  0.14
+181 - 93  0.163
+182 - 649  0.256
+183 - 372  0.183
+184 - 254  0.467
+185 - 802  0.073
+186 - 154  0.164
+187 - 716  0.802
+188 - 699  0.04
+189 - 110  0.193
+190 - 599  0.701
+191 - 356  0.247
+192 - 115  0.296
+193 - 612  0.25
+194 - 950  0.294
+195 - 605  0.179
+196 - 45  0.187
+197 - 182  0.017
+198 - 49  0.041
+199 - 306  0.048
+200 - 65  0.115
+201 - 479  0.047
+202 - 158  0.157
+203 - 436  0.138
+204 - 277  0.008
+205 - 561  0.186
+206 - 218  0.118
+207 - 772  0.624
+208 - 927  0.028
+209 - 358  0.174
+210 - 720  0.004
+211 - 91  0.065
+212 - 437  0.134
+213 - 288  0.394
+214 - 631  0.175
+215 - 678  0.026
+216 - 337  0.054
+217 - 162  0.275
+218 - 711  0.077
+219 - 301  0.39
+220 - 179  0.348
+221 - 393  0.134
+222 - 248  0.042
+223 - 833  0.144
+224 - 873  0.341
+225 - 758  0.158
+226 - 984  0.035
+227 - 392  0.23
+228 - 649  0.227
+229 - 618  0.195
+230 - 445  0.253
+231 - 269  0.15
+232 - 667  0.019
+233 - 742  0.322
+234 - 5  0.325
+235 - 453  0.082
+236 - 70  0.042
+237 - 872  0.242
+238 - 278  0.059
+239 - 296  0.075
+240 - 943  0.069
+241 - 630  0.188
+242 - 413  0.16
+243 - 686  0.586
+244 - 890  0.057
+245 - 637  0.35
+246 - 458  0.173
+247 - 827  0.166
+248 - 113  0.076
+249 - 228  0.078
+250 - 885  0.105
+251 - 793  0.078
+252 - 857  0.35
+253 - 171  0.132
+254 - 621  0.02
+255 - 265  0.017
+256 - 530  0.233
+257 - 838  0.108
+258 - 253  0.156
+259 - 493  0.096
+260 - 364  0.106
+261 - 758  0.57
+262 - 11  0.181
+263 - 666  0.024
+264 - 84  0.303
+265 - 972  0.186
+266 - 748  0.015
+267 - 227  0.054
+268 - 787  0.339
+269 - 509  0.119
+270 - 770  0.44
+271 - 304  0.18
+272 - 149  0.413
+273 - 894  0.022
+274 - 935  0.151
+275 - 615  0.077
+276 - 933  0.245
+277 - 60  0.103
+278 - 900  0.031
+279 - 195  0.23
+280 - 807  0.211
+281 - 952  0.059
+282 - 371  0.51
+283 - 605  0.127
+284 - 526  0.032
+285 - 938  0.064
+286 - 421  0.082
+287 - 992  0.204
+288 - 104  0.422
+289 - 304  0.417
+290 - 998  0.035
+291 - 838  0.327
+292 - 527  0.134
+293 - 132  0.011
+294 - 303  0.212
+295 - 277  0.132
+296 - 527  0.054
+297 - 292  0.041
+298 - 674  0.039
+299 - 988  0.346
+300 - 503  0.096
+301 - 173  0.283
+302 - 260  0.015
+303 - 768  0.182
+304 - 776  0.422
+305 - 620  0.421
+306 - 705  0.083
+307 - 132  0.059
+308 - 84  0.116
+309 - 728  0.135
+310 - 370  0.033
+311 - 453  0.365
+312 - 520  0.038
+313 - 678  0.303
+314 - 164  0.142
+315 - 362  0.322
+316 - 205  0.646
+317 - 456  0.129
+318 - 903  0.144
+319 - 8  0.165
+320 - 314  0.573
+321 - 585  0.108
+322 - 206  0.019
+323 - 387  0.325
+324 - 967  0.038
+325 - 549  0.154
+326 - 785  0.043
+327 - 29  0.136
+328 - 351  0.322
+329 - 119  0.485
+330 - 805  0.509
+331 - 10  0.009
+332 - 23  0.169
+333 - 209  0.322
+334 - 674  0.105
+335 - 949  0.105
+336 - 543  0.147
+337 - 656  0.095
+338 - 567  0.415
+339 - 472  0.033
+340 - 630  0.075
+341 - 491  0.064
+342 - 202  0.247
+343 - 564  0.158
+344 - 15  0.421
+345 - 106  0.211
+346 - 920  0.216
+347 - 586  0.545
+348 - 772  0.111
+349 - 585  0.206
+350 - 674  0.229
+351 - 702  0.077
+352 - 701  0.263
+353 - 389  0.117
+354 - 709  0.365
+355 - 687  0.014
+356 - 487  0.061
+357 - 51  0.458
+358 - 393  0.081
+359 - 216  0.363
+360 - 617  0.027
+361 - 500  0.019
+362 - 710  0.079
+363 - 635  0.248
+364 - 256  0.006
+365 - 733  0.153
+366 - 300  0.203
+367 - 378  0.037
+368 - 954  0.133
+369 - 961  0.422
+370 - 77  0.04
+371 - 557  0.307
+372 - 278  0.077
+373 - 680  0.425
+374 - 395  0.023
+375 - 671  0.037
+376 - 601  0.055
+377 - 568  0.081
+378 - 133  0.041
+379 - 141  0.05
+380 - 379  0.012
+381 - 841  0.043
+382 - 455  0.29
+383 - 927  0.084
+384 - 927  0.102
+385 - 881  0.139
+386 - 847  0.059
+387 - 791  0.097
+388 - 888  0.07
+389 - 498  0.186
+390 - 254  0.02
+391 - 768  0.153
+392 - 737  0.142
+393 - 461  0.046
+394 - 420  0.001
+395 - 743  0.127
+396 - 977  0.058
+397 - 781  0.085
+398 - 278  0.008
+399 - 393  0.045
+400 - 685  0.363
+401 - 53  0.362
+402 - 981  0.022
+403 - 335  0.073
+404 - 708  0.304
+405 - 422  0.105
+406 - 77  0.312
+407 - 491  0.382
+408 - 642  0.143
+409 - 835  0.006
+410 - 881  0.224
+411 - 254  0.152
+412 - 894  0.057
+413 - 285  0.21
+414 - 84  0.076
+415 - 632  0.202
+416 - 724  0.439
+417 - 566  0.144
+418 - 949  0.184
+419 - 297  0.218
+420 - 731  0.022
+421 - 140  0.022
+422 - 973  0.173
+423 - 260  0.124
+424 - 177  0.414
+425 - 570  0.135
+426 - 987  0.229
+427 - 497  0.301
+428 - 21  0.188
+429 - 778  0.089
+430 - 472  0.309
+431 - 511  0.015
+432 - 468  0.047
+433 - 859  0.462
+434 - 138  0.004
+435 - 979  0.237
+436 - 91  0.214
+437 - 929  0.107
+438 - 839  0.048
+439 - 513  0.058
+440 - 635  0.114
+441 - 881  0.087
+442 - 179  0.113
+443 - 314  0.128
+444 - 622  0.214
+445 - 1  0.023
+446 - 725  0.131
+447 - 564  0.358
+448 - 399  0.019
+449 - 517  0.397
+450 - 909  0.202
+451 - 842  0.137
+452 - 18  0.396
+453 - 111  0.094
+454 - 148  0.118
+455 - 749  0.075
+456 - 821  0.1
+457 - 863  0.218
+458 - 748  0.048
+459 - 654  0.063
+460 - 202  0.595
+461 - 459  0.09
+462 - 469  0.086
+463 - 274  0.239
+464 - 902  0.376
+465 - 104  0.047
+466 - 635  0.194
+467 - 636  0.065
+468 - 675  0.147
+469 - 954  0.027
+470 - 384  0.078
+471 - 984  0.048
+472 - 592  0.159
+473 - 980  0.178
+474 - 91  0.139
+475 - 921  0.131
+476 - 756  0.053
+477 - 519  0.331
+478 - 142  0.148
+479 - 905  0.081
+480 - 240  0.269
+481 - 227  0.018
+482 - 371  0.174
+483 - 854  0.01
+484 - 945  0.258
+485 - 719  0.091
+486 - 314  0.116
+487 - 471  0.062
+488 - 437  0.334
+489 - 513  0.3
+490 - 526  0.195
+491 - 888  0.128
+492 - 239  0.277
+493 - 367  0.218
+494 - 44  0.335
+495 - 878  0.132
+496 - 585  0.184
+497 - 136  0.362
+498 - 612  0.144
+499 - 165  0.026
+500 - 448  0.064
+501 - 183  0.34
+502 - 422  0.105
+503 - 236  0.063
+504 - 341  0.019
+505 - 504  0.013
+506 - 616  0.035
+507 - 204  0.124
+508 - 39  0.285
+509 - 664  0.151
+510 - 687  0.113
+511 - 996  0.053
+512 - 787  0.273
+513 - 23  0.132
+514 - 872  0.102
+515 - 420  0.158
+516 - 206  0.012
+517 - 964  0.15
+518 - 93  0.239
+519 - 437  0.133
+520 - 6  0.172
+521 - 711  0.244
+522 - 281  0.179
+523 - 410  0.105
+524 - 469  0.174
+525 - 660  0.472
+526 - 269  0.153
+527 - 967  0.135
+528 - 35  0.029
+529 - 763  0.022
+530 - 341  0.053
+531 - 877  0.339
+532 - 20  0.04
+533 - 967  0.207
+534 - 341  0.429
+535 - 931  0.12
+536 - 51  0.561
+537 - 689  0.468
+538 - 941  0.129
+539 - 858  0.066
+540 - 184  0.148
+541 - 630  0.081
+542 - 31  0.02
+543 - 589  0.17
+544 - 917  0.083
+545 - 845  0.074
+546 - 285  0.03
+547 - 47  0.118
+548 - 393  0.068
+549 - 951  0.109
+550 - 208  0.122
+551 - 988  0.054
+552 - 453  0.172
+553 - 365  0.105
+554 - 924  0.624
+555 - 23  0.134
+556 - 566  0.121
+557 - 446  0.021
+558 - 42  0.323
+559 - 403  0.31
+560 - 334  0.258
+561 - 527  0.083
+562 - 981  0.101
+563 - 873  0.411
+564 - 808  0.08
+565 - 532  0.126
+566 - 592  0.192
+567 - 893  0.196
+568 - 612  0.185
+569 - 786  0.425
+570 - 428  0.082
+571 - 469  0.052
+572 - 500  0.503
+573 - 749  0.063
+574 - 107  0.068
+575 - 905  0.163
+576 - 169  0.198
+577 - 801  0.025
+578 - 555  1.118
+579 - 235  0.008
+580 - 309  0.351
+581 - 925  0.285
+582 - 570  0.428
+583 - 73  0.059
+584 - 454  0.013
+585 - 687  0.067
+586 - 889  0.228
+587 - 645  0.108
+588 - 986  0.072
+589 - 216  0.112
+590 - 966  0.116
+591 - 996  0.25
+592 - 954  0.193
+593 - 377  0.21
+594 - 557  0.014
+595 - 526  0.041
+596 - 142  0.56
+597 - 59  0.106
+598 - 956  0.121
+599 - 321  0.193
+600 - 369  0.517
+601 - 719  0.157
+602 - 84  0.05
+603 - 712  0.016
+604 - 898  0.306
+605 - 86  0.128
+606 - 922  0.141
+607 - 422  0.271
+608 - 687  0.275
+609 - 929  0.01
+610 - 286  0.413
+611 - 586  0.103
+612 - 898  0.101
+613 - 718  0.026
+614 - 682  0.12
+615 - 775  0.179
+616 - 907  0.21
+617 - 30  0.154
+618 - 475  0.115
+619 - 298  0.099
+620 - 893  0.425
+621 - 397  0.15
+622 - 741  0.083
+623 - 93  0.223
+624 - 504  0.087
+625 - 25  0.324
+626 - 824  0.28
+627 - 157  0.208
+628 - 681  0.262
+629 - 755  0.222
+630 - 337  0.042
+631 - 476  0.126
+632 - 535  0.405
+633 - 973  0.23
+634 - 925  0.231
+635 - 628  0.258
+636 - 63  0.195
+637 - 708  0.213
+638 - 281  0.331
+639 - 589  0.105
+640 - 6  0.069
+641 - 49  0.025
+642 - 671  0.12
+643 - 154  0.145
+644 - 878  0.306
+645 - 467  0.307
+646 - 521  0.115
+647 - 885  0.274
+648 - 200  0.375
+649 - 125  0.29
+650 - 497  0.448
+651 - 513  0.915
+652 - 3  0.005
+653 - 538  0.587
+654 - 380  0.066
+655 - 195  0.078
+656 - 386  0.073
+657 - 731  0.249
+658 - 135  0.512
+659 - 66  0.35
+660 - 975  0.501
+661 - 375  0.187
+662 - 386  0.154
+663 - 706  0.512
+664 - 388  0.009
+665 - 423  0.09
+666 - 498  0.069
+667 - 757  0.041
+668 - 439  0.055
+669 - 544  0.057
+670 - 211  0.289
+671 - 967  0.095
+672 - 708  0.15
+673 - 297  0.007
+674 - 570  0.097
+675 - 321  0.062
+676 - 715  0.164
+677 - 32  0.047
+678 - 231  0.186
+679 - 635  0.715
+680 - 511  0.237
+681 - 226  0.133
+682 - 979  0.087
+683 - 283  0.068
+684 - 730  0.1
+685 - 179  0.056
+686 - 610  0.23
+687 - 666  0.121
+688 - 745  0.035
+689 - 589  0.034
+690 - 567  0.176
+691 - 828  0.085
+692 - 661  0.061
+693 - 683  0.365
+694 - 332  0.197
+695 - 360  0.104
+696 - 646  0.418
+697 - 137  0.275
+698 - 386  0.128
+699 - 23  0.145
+700 - 963  0.237
+701 - 607  0.055
+702 - 337  0.122
+703 - 920  0.115
+704 - 562  0.25
+705 - 851  0.034
+706 - 338  0.231
+707 - 333  0.372
+708 - 872  0.169
+709 - 508  0.103
+710 - 939  0.022
+711 - 547  0.157
+712 - 692  0.176
+713 - 491  0.027
+714 - 297  0.077
+715 - 485  0.001
+716 - 344  0.16
+717 - 526  0.41
+718 - 846  0.337
+719 - 303  0.198
+720 - 943  0.407
+721 - 417  0.162
+722 - 185  0.185
+723 - 790  0.283
+724 - 516  0.107
+725 - 847  0.081
+726 - 177  0.284
+727 - 450  0.236
+728 - 772  0.055
+729 - 710  0.088
+730 - 566  0.053
+731 - 60  0.125
+732 - 61  0.303
+733 - 209  0.115
+734 - 297  0.095
+735 - 821  0.162
+736 - 853  0.205
+737 - 955  0.084
+738 - 469  0.368
+739 - 528  0.05
+740 - 93  0.079
+741 - 322  0.117
+742 - 59  0.326
+743 - 386  0.198
+744 - 748  0.269
+745 - 145  0.043
+746 - 779  0.263
+747 - 584  0.199
+748 - 286  0.116
+749 - 857  0.171
+750 - 96  1.011
+751 - 761  0.278
+752 - 641  0.069
+753 - 807  0.245
+754 - 784  0.097
+755 - 762  0.249
+756 - 860  0.118
+757 - 549  0.144
+758 - 448  0.042
+759 - 610  0.345
+760 - 298  0.218
+761 - 802  0.087
+762 - 848  0.075
+763 - 69  0.3
+764 - 457  0.154
+765 - 274  0.246
+766 - 749  0.225
+767 - 486  0.071
+768 - 837  0.02
+769 - 345  0.313
+770 - 39  0.111
+771 - 865  0.239
+772 - 629  0.02
+773 - 907  0.104
+774 - 811  0.19
+775 - 337  0.205
+776 - 510  0.139
+777 - 761  0.127
+778 - 221  0.086
+779 - 356  0.174
+780 - 110  0.301
+781 - 847  0.087
+782 - 775  0.194
+783 - 500  0.118
+784 - 254  0.136
+785 - 807  0.149
+786 - 934  0.128
+787 - 979  0.283
+788 - 5  0.142
+789 - 51  0.29
+790 - 740  0.282
+791 - 30  0.114
+792 - 343  0.774
+793 - 677  0.091
+794 - 485  0.122
+795 - 500  0.239
+796 - 169  0.291
+797 - 995  0.008
+798 - 262  0.088
+799 - 724  0.026
+800 - 688  0.212
+801 - 86  0.077
+802 - 345  0.097
+803 - 264  0.038
+804 - 248  0.141
+805 - 342  0.07
+806 - 514  0.369
+807 - 278  0.001
+808 - 84  0.15
+809 - 444  0.355
+810 - 708  0.156
+811 - 60  0.078
+812 - 63  0.409
+813 - 521  0.139
+814 - 417  0.015
+815 - 766  0.006
+816 - 896  0.08
+817 - 308  0.108
+818 - 591  0.136
+819 - 70  0.26
+820 - 989  0.427
+821 - 432  0.01
+822 - 383  0.279
+823 - 530  0.123
+824 - 754  0.376
+825 - 99  0.141
+826 - 598  0.329
+827 - 310  0.139
+828 - 784  0.044
+829 - 266  0.069
+830 - 949  0.38
+831 - 742  0.292
+832 - 374  0.144
+833 - 368  0.173
+834 - 665  0.225
+835 - 78  0.227
+836 - 456  0.268
+837 - 781  0.054
+838 - 517  0.217
+839 - 476  0.189
+840 - 564  0.233
+841 - 305  0.259
+842 - 907  0.413
+843 - 435  0.044
+844 - 862  0.16
+845 - 117  0.246
+846 - 314  0.057
+847 - 238  0.008
+848 - 753  0.078
+849 - 890  0.122
+850 - 45  0.234
+851 - 778  0.135
+852 - 812  0.695
+853 - 758  0.205
+854 - 784  0.149
+855 - 110  0.001
+856 - 364  0.266
+857 - 226  0.039
+858 - 878  0.017
+859 - 961  0.19
+860 - 546  0.126
+861 - 472  0.055
+862 - 95  0.115
+863 - 486  0.121
+864 - 980  0.1
+865 - 576  0.179
+866 - 399  0.149
+867 - 391  0.031
+868 - 171  0.454
+869 - 348  1.252
+870 - 418  0.023
+871 - 63  0.161
+872 - 212  0.032
+873 - 549  0.051
+874 - 705  0.097
+875 - 870  0.202
+876 - 24  0.185
+877 - 917  0.034
+878 - 832  0.1
+879 - 2  0.05
+880 - 19  0.065
+881 - 236  0.088
+882 - 874  0.057
+883 - 221  0.503
+884 - 354  0.408
+885 - 513  0.006
+886 - 535  0.142
+887 - 528  0.064
+888 - 5  0.137
+889 - 517  0.171
+890 - 231  0.123
+891 - 354  0.32
+892 - 893  0.339
+893 - 745  0.093
+894 - 7  0.118
+895 - 760  0.296
+896 - 753  0.193
+897 - 180  0.152
+898 - 699  0.155
+899 - 263  0.187
+900 - 461  0.067
+901 - 366  0.115
+902 - 491  0.1
+903 - 422  0.349
+904 - 8  0.326
+905 - 81  0.202
+906 - 473  0.054
+907 - 674  0.053
+908 - 45  0.121
+909 - 235  0.138
+910 - 307  0.348
+911 - 106  0.086
+912 - 665  0.194
+913 - 698  0.255
+914 - 335  0.054
+915 - 528  0.199
+916 - 188  0.18
+917 - 229  0.263
+918 - 662  0.018
+919 - 79  0.031
+920 - 837  0.094
+921 - 507  0.057
+922 - 794  0.06
+923 - 614  0.32
+924 - 676  0.506
+925 - 642  0.031
+926 - 471  0.632
+927 - 561  0.036
+928 - 639  0.249
+929 - 384  0.027
+930 - 967  0.475
+931 - 144  0.136
+932 - 206  0.075
+933 - 159  0.014
+934 - 752  0.151
+935 - 565  0.13
+936 - 928  0.009
+937 - 746  0.171
+938 - 310  0.094
+939 - 35  0.179
+940 - 286  0.377
+941 - 286  0.02
+942 - 976  0.075
+943 - 86  0.203
+944 - 299  0.18
+945 - 293  0.233
+946 - 559  0.049
+947 - 561  0.072
+948 - 836  0.286
+949 - 386  0.109
+950 - 169  0.25
+951 - 579  0.162
+952 - 19  0.169
+953 - 623  0.205
+954 - 471  0.154
+955 - 496  0.148
+956 - 804  0.075
+957 - 655  0.001
+958 - 154  0.313
+959 - 418  0.135
+960 - 706  0.071
+961 - 277  0.011
+962 - 871  0.485
+963 - 216  0.162
+964 - 919  0.084
+965 - 699  0.058
+966 - 623  0.181
+967 - 0  0.179
+968 - 830  0.497
+969 - 506  0.338
+970 - 566  0.038
+971 - 678  0.175
+972 - 511  0.07
+973 - 378  0.137
+974 - 555  0.111
+975 - 488  0.313
+976 - 939  0.008
+977 - 872  0.213
+978 - 279  0.259
+979 - 137  0.169
+980 - 667  0.252
+981 - 796  0.101
+982 - 403  0.524
+983 - 491  0.051
+984 - 667  0.028
+985 - 401  0.234
+986 - 803  0.125
+987 - 538  0.089
+988 - 627  0.056
+989 - 731  0.146
+990 - 598  0.018
+991 - 745  0.274
+992 - 762  0.174
+993 - 775  0.087
+994 - 383  0.355
+995 - 838  0.092
+996 - 303  0.135
+997 - 189  0.14
+998 - 461  0.096
+999 - 0  18.866
+
+By Springfield Locations:
+-------------------------
+Springfield Nuclear Power Plant - Hindeloopen  0.236
+Legitimate Businessmans Club - Waardamme  0.349
+Barney's Bowlarama - Riparbella  0.053
+Badge, Haggle and Bill - Zeitz  0.105
+Midnight Rx - Ophain-Bois-Seigneur-Isaac  0.111
+The Android's Dungeon & Baseball Card Shop - Gorinchem  0.144
+Duff Brewery - Springfield Grocery Store  0.067
+Spinster City Apartments - Igboho  0.016
+Malaria Zone - Gols  0.297
+Springfield Library - Kempten  0.169
+Channel 6 Studios - San Gregorio nelle Alpi  0.028
+Nighthawk Diner - Perth  0.583
+Audulty Education Annex - Rocca Massima  0.136
+Springfield Town Hall - Aylmer  0.513
+Squeaky Farms - Springfield Penitentiary  0.178
+Air Springfield - Teruel  0.144
+Hal's Liquor - Carovilli  0.56
+Shapes - Meetkerke  0.062
+Powell Motors - Aparecida de Goiania  0.096
+Uncle Homer's Daycare Center - Leamington  0.067
+SpringShield - Aylmer  0.041
+Box Factory - Ahmadpur East  0.124
+The Happy Sailor Tattoo Parlor - Them, Robot  0.01
+Dr. Zitsofsky Dermatology Clinic - Heredia  0.073
+Herman's Military Antiques - Itegem  0.028
+Bob's RV Round-Up - Blenheim  0.132
+Girdles N' Such - Bridgend  0.061
+International House of Answering Machines - Kamarhati  0.152
+Rubber Baby Buggy Bumpers Babysitting Service - Saint-Denis-Bovesse  0.181
+Hair Clinic - Yeotmal  0.13
+Simpson & Son Grease Co. - The Happy Sailor Tattoo Parlor  0.112
+I Can't Believe It's a Law Firm! - Porto Cesareo  0.016
+Springfield Department of Motor Vehicles - Bad Hersfeld  0.204
+Mt. Swartzwelder Historic Cider Mill - Montaldo Bormida  0.53
+Ah, Fudge! Factory - Anklam  0.092
+Au Naturel - Walhain-Saint-Paul  0.3
+Steel Mill - Angleur  0.135
+Springfield Grocery Store - Kansas City  0.234
+Video Matchmaking - Welshpool  0.042
+Chalmskinn Productions  - Palanzano  0.107
+Lullabuy$ - Hoshiarpur  0.3
+Kentucky Fried Panda - Santa's Workshop  0.005
+Wall E. Weasel's - Drachten  0.075
+Tattoos - Pretzel Wagon  0.023
+Half-Man Half-Ape Burgers - Zierikzee  0.265
+Mapple - Hoshiarpur  0.249
+Kid First Industries - Lauco  0.144
+We Have Restrooms! - Powell Motors  0.325
+Springfield Squidport - Halberstadt  0.159
+Springfield Skating Rink - Malaria Zone  0.088
+House-O-Donuts - Half-Man Half-Ape Burgers  0.152
+Widow's Peak - Ceppaloni  0.299
+Stern Lecture Plumbing - Whiskey a God God  0.043
+Motherloving Sugar Corp. - Beziers  0.124
+G. Bannister & Associates - Them, Robot  0.204
+Groovy Grove Juice Corporation - Hull  0.013
+Bail Bonds - Smoked Meat and Cheese  0.054
+Boris' Car Loft  - Mespelare  0.331
+Hairy Shearers - Smoked Meat and Cheese  0.147
+Southern Cracker - Lalbahadur Nagar  0.077
+Cisc O'systems - Bihain  0.14
+Springfield Donuts - Devil Donuts  0.03
+Springfield Rent-a-Car - Social Security Office  0.139
+Professor Pigskin - Chieti  0.584
+Pretzel Wagon - Wells  0.193
+The Copy Jalopy - Bettiah  0.24
+Cats Amore Kitty Boutique - Newtonmore  0.156
+Waterfront - Frank's Print  0.156
+Texxon - Berloz  0.232
+Mook-E-Mart - Ettelgem  0.054
+World Class Wrestling - Ice Cream (Springfield Mall)  0.172
+The Prodigy Barn - Daussoulx  0.366
+Toddlin' Town - I Can't Believe It's a Law Firm!  0.144
+Springfield Cinema - Sint-Pieters-Kapelle  0.125
+Merry Widow Insurance Co. - Ophain-Bois-Seigneur-Isaac  0.116
+Omni-Pave - Hair Clinic  0.105
+Twirl King - Tullibody  0.095
+Cinderblock Village  - Gagliato  0.078
+Music World - Bundaberg  0.113
+Are We Hair Yet? - Plymouth  0.14
+Shavings - Thurso  0.12
+The Quick Market - Tregaron  0.955
+Sleazy Sam's Payday Loans - Rubber Baby Buggy Bumpers Babysitting Service  0.168
+Pool Sharks - Box Factory  0.014
+The Sharper Mark-Up - Fauvillers  0.242
+Yesterday's Puppies - Sanluri  0.142
+Dukakis Campaign H.Q. - The Psychedelicatessen  0.069
+JCPenney's - Australia Post  0.26
+Stinking Fish Realty - Zerkegem  0.602
+Let's Get Fiscal - Alma  0.466
+The Perm Bank - Bail Bonds and Beyond  0.212
+Twelve-Day Dry Cleaners - Hertford  0.136
+Them, Robot - Grumo Appula  0.105
+Springfield's Little Ukraine - Malonne  0.16
+The Psychedelicatessen - Novo Hamburgo  0.061
+Neat & Tidy - Brandenburg  0.142
+Broken-Home Chimney Repair  - Leighton Buzzard  0.369
+Betty's Beauty Barn - Moere  0.37
+Veg-Out Video - Rutigliano  0.019
+Harry's Cluck'n'Suds - Monte San Savino  0.187
+Springfield Coal-Fired Power Plant - Bob's RV Round-Up  0.034
+Kwickee & Sons General Store - Magnetbox  0.245
+Funtendo - Carovilli  0.202
+Iceland - Twelve-Day Dry Cleaners  0.028
+Luvum and Burnham, Family Law - Duncan  0.826
+Honey Me Mine - Springfield Coal-Fired Power Plant  0.16
+Al's Towing - Woerden  0.3
+Suds-n-Duds Laundromat - Houston  0.106
+Dewey, Cheatem, Howe & Weissmann - Stamford  0.135
+CLAMB Power - Athus  0.044
+Springfield Emporia Shopping Mall - Redwater  0.109
+Usurpco Commerical Development Corporation - Rattray  0.356
+My First Tattoo  - Korfez  0.091
+Fleet-A-Pita - Conca Casale  0.317
+Clip and Save - Mehlheim am Main  0.032
+A Test Before Trying - Bonlez  0.331
+Princess Opal - Wilted Rose  0.019
+Ice Cream (Springfield Mall) - Walsall  0.145
+Shoelaces Plus - Tullibody  0.183
+Beauty Barn - The New Android's Dungeon  0.017
+Origam Designs - Harrogate  0.023
+SpringfieldSuits - Chimay  0.171
+Springfield Candy - Hinckley  0.492
+Springfield Tools - Laino Castello  0.071
+Sport Shack - San Giacomo degli Schiavoni  0.457
+Party Supplies - Sesto Campano  0.468
+1 Photo - Werbomont  0.528
+Frames - Castelluccio Superiore  0.224
+Sun Glasses  - Bludenz  0.382
+Le Pamperie Hair Salon - Shimoga  0.153
+Uriah's Heap Recycling Center - Hairy Shearers  0.185
+Department of Magical Vehicles - Badge, Haggle and Bill  0.134
+Santa's Workshop - Montigny-le-Tilleul  0.09
+Malfunctioning Eddie's - Vitrolles  0.069
+Farmer Billy's Bacon Factory - Modeling Agency  0.291
+Sideshow Bob's Cotton Candy - Ah, Fudge! Factory  0.038
+24 Seven - Raj Nandgaon  0.077
+Magnetbox - Frankfurt  0.079
+Panaphonics - Texxon  0.049
+Sorny - La Hulpe  0.088
+King Pin Malt Liquor - Cisc O'systems  0.116
+Frank's Print - Merry Widow Insurance Co.  0.173
+Springfield's Finest Double Cut Sawmill - Ludwigsfelde  0.512
+Simply Shoes - Springfield Coal-Fired Power Plant  0.16
+Bail Bonds and Beyond - Neerglabbeek  0.223
+Springfield Dry Cleaners - Beersel  0.246
+Acme Anvil Works  - Caplan  0.086
+UKwik-E-Mart - Kiel  0.069
+Gavelby's Auction House - Crowsnest Pass  0.306
+Krusty's Ark - Tielen  0.143
+Insurance Co. - Worcester  0.116
+Mother Hubbard's Sandwich Cupboard - Girdles N' Such  0.22
+Gil's Baby Photo Studio - Newtonmore  0.339
+The New Android's Dungeon - Bridgend  0.005
+New Things - Obertshausen  0.165
+Repo Depot - Baisy-Thy  0.233
+Smoked Meat and Cheese - Frank's Fox Hunting Lodge  0.188
+Australia Post - Fauvillers  0.222
+Frank's Fox Hunting Lodge - Hope  0.043
+Gentleman's Relief Productions - Sport Shack  0.024
+John's Carpentry - Linton  0.185
+Kitchen-Maid Inc. - Dewey, Cheatem, Howe & Weissmann  0.028
+Simpson and Grandson Bike Customizing - Half-Man Half-Ape Burgers  0.175
+Springfield Ink  - Champion  0.14
+Wilted Rose - North Bay  0.13
+Mr. Big & Large - Tejar  0.126
+U-Rent-It - Dessel  0.149
+Whiskey a God God - Branchon  0.073
+Devil Donuts - Lalbahadur Nagar  0.165
+Springfield Travel Agency - Wagga Wagga  0.23
+Sally Salon - Gorinchem  0.355
+Al's Septic Seats - Dessel  0.288
+Bed, Bath & Baha'i - Bellevue  0.367
+Burns Recycling Inc. - Borno  0.373
+Church of the Latter Day Druids - Ramagundam  0.036
+Cletus's Youngun's Flaverd Water - Bergeggi  0.171
+Drederick Tatum's Sleep Disorder Clinic - Crowsnest Pass  0.046
+Hackey, Joke and Dunnit - Dampremy  0.393
+Herman's Military Antiques Mega Store - Rapagnano  0.064
+Hula Hoop Repair Center - Insurance Co.  0.14
+Immigration and Naturalization Service - Them, Robot  0.163
+Kwik-Kuts Barber  - Kufstein  0.256
+Liquor - Lunel  0.183
+Madame and Masseur - Comblain-au-Pont  0.467
+Osaka Orangeade Concern - Maglie  0.073
+Social Security Office - The New Android's Dungeon  0.164
+АПТЕКА - Levallois-Perret  0.802
+Baby Get Well Cards, Inc. - Whyalla  0.04
+Bicycle Repair Shop - CLAMB Power  0.193
+Candyman Candies - Baisy-Thy  0.701
+The Graphic Hovel - Missoula  0.247
+High Steaks Steakhouse - Clip and Save  0.296
+Leo's - Thiaumont  0.25
+Modeling Agency - Basingstoke  0.294
+Ol' Blue Eyes Optometery - Haren  0.179
+Raven Rental Cars - Half-Man Half-Ape Burgers  0.187
+The Robot's Pagoda - Kwik-Kuts Barber   0.017
+Smoke Factory - Springfield Squidport  0.041
+Van Brunt & Churchill Ad Agency - Stamford  0.048
+Wigstock  - Pretzel Wagon  0.115
+Wholesome & Sons Publishing - Dignano  0.047
+Shelbyville Car Impound Lot - Australia Post  0.157
+Springfield Dry Cleaner  - Dorgali  0.138
+Springfield Penitentiary - Kisi  0.008
+Asia de Cube - Hawera  0.186
+Rutigliano - Tielen  0.118
+Lille - Carapicuíba  0.624
+Rachecourt - Goshtrow  0.028
+Ogbomosho - Montigny-le-Tilleul  0.174
+Kamalia - Bonlez  0.004
+Linkebeek - The Perm Bank  0.065
+Poggiodomo - Leighton Buzzard  0.134
+Almería - Rueil-Malmaison  0.394
+Ludlow - Charleroi  0.175
+Messancy - Pforzheim  0.026
+Kapelle-op-den-Bos - Shimoga  0.054
+Fairbanks - Kitchen-Maid Inc.  0.275
+Tielen - Westkerke  0.077
+Bellevue - Sasaram  0.39
+Moricone - Herman's Military Antiques Mega Store  0.348
+Arendonk - Wernigerode  0.134
+Aydın - Alma  0.042
+Bundaberg - Armungia  0.144
+Athus - Moircy  0.341
+Coimbatore - Gullegem  0.158
+Aubervilliers - Sogliano Cavour  0.035
+Glendale - Giove  0.23
+San Diego - Kufstein  0.227
+Pavone del Mella - Seborga  0.195
+Mespelare - San NicolAs  0.253
+Miraj - Lalbahadur Nagar  0.15
+Ham-sur-Sambre - Vorst  0.019
+Rimbey - Bellegem  0.322
+Buzet - Midnight Rx  0.325
+Macerata - Ettelgem  0.082
+Peutie - Mook-E-Mart  0.042
+Wibrin - Indianapolis  0.242
+Redwater - Chantemelle  0.059
+Moere - Houston  0.075
+Casalbuono - La Spezia  0.069
+Putignano - Gooik  0.188
+Sint-Martens-Bodegem - Dampremy  0.16
+Nagpur - Bovigny  0.586
+Vitrolles - Sobral  0.057
+Gosnells - Salem  0.35
+Alvito - Port Moody  0.173
+Baasrode - Oudegem  0.166
+Alma - My First Tattoo   0.076
+Nemi - San Diego  0.078
+Tulita - Esneux  0.105
+Hope - Lier  0.078
+Ried im Innkreis - Longchamps  0.35
+Sainte-Marie-sur-Semois - Sally Salon  0.132
+Comblain-au-Pont - Shimla  0.02
+Lake Cowichan - Thiaumont  0.017
+Gaya - Campagna  0.233
+Sesto Campano - Nellore  0.108
+Borno - Sainte-Marie-sur-Semois  0.156
+Bihain - Casalbuono  0.096
+Hindeloopen - Waasmunster  0.106
+Rangiora - Gullegem  0.57
+Wandlitz - Channel 6 Studios  0.181
+Villers-la-Ville - Rosoux-Crenwick  0.024
+Massa e Cozzile - Pool Sharks  0.303
+Thiaumont - Torquay  0.186
+Grumo Appula - Vizianagaram  0.015
+Cuddapah - Glendale  0.054
+Selkirk - Anjou  0.339
+Lalbahadur Nagar - Branchon  0.119
+Kemzeke - Gulbarga  0.44
+Anchorage - Macclesfield  0.18
+Stade - Gavelby's Auction House  0.413
+Salem - Marbais  0.022
+Cagnes-sur-Mer - Chimay  0.151
+Guildford - Lloydminster  0.077
+Sint-Lambrechts-Woluwe - Pontboset  0.245
+Kisi - Southern Cracker  0.103
+Chantemelle - Blackwood  0.031
+Kiel - Ol' Blue Eyes Optometery  0.23
+Palombaro - Shaki  0.211
+Neustadt am Rebenberge - Tregaron  0.059
+Paal - Cariboo Regional District  0.51
+Bellevue - Haren  0.127
+Meetkerke - Fortaleza  0.032
+Castel Guelfo di Bologna - Frederick  0.064
+Carleton - Oostkamp  0.082
+Whitchurch - Munich  0.204
+Rueil-Malmaison - Iceland  0.422
+Alviano - Macclesfield  0.417
+Gore - Wommelgem  0.035
+Hanret - Nellore  0.327
+Bihain - Daska  0.134
+Hollabrunn - Department of Magical Vehicles  0.011
+Saint-Dizier - Asti  0.212
+Floreffe - Kisi  0.132
+Houston - Daska  0.054
+Castelbuono - Bihain  0.041
+Edmonton - Hollange  0.039
+San Antonio - Leval-Chaudeville  0.346
+Cuceglio - Montes Claros  0.096
+Sasaram - Bed, Bath & Baha'i  0.283
+Valleyview - Hindeloopen  0.015
+Asti - Chieti  0.182
+Macclesfield - Minitonas  0.422
+Mount Pearl - Altidona  0.421
+Stamford - San Gregorio nelle Alpi  0.083
+Taunusstein - Department of Magical Vehicles  0.059
+Brandenburg - Pool Sharks  0.116
+Sint-Pieters-Kapelle - Asigliano Veneto  0.135
+Castel Baronia - Maidenhead  0.033
+Alphen aan den Rijn - Ettelgem  0.365
+Calvi Risorta - Chiny  0.038
+Sint-Michiels - Pforzheim  0.303
+Sant'Onofrio - Springfield Ink   0.142
+Pietragalla - Jalgaon  0.322
+Torrejon de Ardoz - Asia de Cube  0.646
+Gdansk - Heusden  0.129
+Utrecht - Vliermaalroot  0.144
+Welshpool - Spinster City Apartments  0.165
+Multan - Sant'Onofrio  0.573
+Sint-Amandsberg - Thorembais-les-Beguines  0.108
+Craco - Rutigliano  0.019
+Barchi - Elmshorn  0.325
+Hastings - Orta San Giulio  0.038
+Crotta d'Adda - Hoofddorp  0.154
+Tullibody - Perth  0.043
+Opwijk - Rubber Baby Buggy Bumpers Babysitting Service  0.136
+Biarritz - Aparecida de Goiania  0.322
+Nottingham - Shoelaces Plus  0.485
+Karacabey - Palencia  0.509
+Newbury - Springfield Library  0.009
+Bargagli - The Happy Sailor Tattoo Parlor  0.169
+Daussoulx - Ogbomosho  0.322
+Obertshausen - Hollange  0.105
+Kisi - Gozee  0.105
+Hoeke - Gojra  0.147
+Shimoga - Galway  0.095
+Canmore - Aurillac  0.415
+Saint-Denis-Bovesse - Velletri  0.033
+Jennersdorf - Gooik  0.075
+Beziers - Aparecida de Goiania  0.064
+Casnate con Bernate - Shelbyville Car Impound Lot  0.247
+Wergl - Fauvillers  0.158
+Hochst - Squeaky Farms  0.421
+Sparwood - Honey Me Mine  0.211
+Neunkirchen - Forge-Philippe  0.216
+Sint-Gillis - Arsoli  0.545
+Yeovil - Carapicuíba  0.111
+Champlain - Thorembais-les-Beguines  0.206
+Cheltenham - Hollange  0.229
+Aparecida de Goiania - Nîmes  0.077
+Inveraray - Baschi  0.263
+Gastrow - Bientina  0.117
+Trento - Sanquhar  0.365
+North Bay - Mehlheim am Main  0.014
+Missoula - Sant'Arsenio  0.061
+Dendermonde - House-O-Donuts  0.458
+Montigny-le-Tilleul - Wernigerode  0.081
+Northallerton - Kapelle-op-den-Bos  0.363
+Olcenengo - Pomarico  0.027
+Berg - La Hulpe  0.019
+Jalgaon - Tolve  0.079
+Stilo - Arrone  0.248
+Waasmunster - Gaya  0.006
+Faridabad - Ham-sur-Sambre  0.153
+Cabo de Santo Agostinho - Cuceglio  0.203
+Caerphilly - Thames  0.037
+Broken Hill - Kruibeke  0.133
+Awka - Perth  0.422
+Maidenhead - Twirl King  0.04
+Cariboo Regional District - Charny  0.307
+Lunel - Chantemelle  0.077
+Ortonovo - Zierikzee  0.425
+Millport - Latisana  0.023
+Francavilla Fontana - Plymouth  0.037
+Crehen - Bankura  0.055
+Itegem - Bad Hersfeld  0.081
+Thames - Santa's Workshop  0.041
+Ophain-Bois-Seigneur-Isaac - King Pin Malt Liquor  0.05
+Spalbeek - Ophain-Bois-Seigneur-Isaac  0.012
+Blumenau - Jasper  0.043
+St. Clears - Issime  0.29
+Firozabad - Goshtrow  0.084
+Nieuwegein - Goshtrow  0.102
+Moliterno - Castel Ritaldi  0.139
+Montaldo Bormida - Nizamabad  0.059
+Elmshorn - Kızılcahamam  0.097
+Ananindeua - Leonding  0.07
+Bientina - Montemilone  0.186
+Rampur - Comblain-au-Pont  0.02
+Laino Castello - Chieti  0.153
+Giove - Pirmasens  0.142
+Wernigerode - Castor  0.046
+Beersel - Oliver  0.001
+Latisana - Cisano Bergamasco  0.127
+Rattray - Sachs Harbour  0.058
+Worcester - Walsall  0.085
+Criciúma - Chantemelle  0.008
+Murwara - Wernigerode  0.045
+Berg - Pınarbaşı  0.363
+Sautin - Stern Lecture Plumbing  0.362
+Sibret - St. Thomas  0.022
+Hawick - Kisi  0.073
+Calice al Cornoviglio - Moerbeke  0.304
+Gorinchem - Vihari  0.105
+Beez - Twirl King  0.312
+Rathenow - Aparecida de Goiania  0.382
+Gore - Meerdonk  0.143
+Gorzow Wielkopolski - Tiegem  0.006
+Dingwall - Castel Ritaldi  0.224
+Fusignano - Comblain-au-Pont  0.152
+Dworp - Marbais  0.057
+Dampremy - Castel Guelfo di Bologna  0.21
+Novo Hamburgo - Pool Sharks  0.076
+Haarlem - Basildon  0.202
+Malegaon - Rouvreux  0.439
+Panihati - Ararat  0.144
+Lewiston - Gozee  0.184
+Hannache - Castelbuono  0.218
+Oliver - Korfez  0.022
+Oostkamp - Sorny  0.022
+Vihari - Nus  0.173
+Camborne - Hindeloopen  0.124
+Nieuwkerken-Waas - Drederick Tatum's Sleep Disorder Clinic  0.414
+Wroclaw - Fogliano Redipuglia  0.135
+Asso - Zeitz  0.229
+Eastbourne - Metz  0.301
+Beauport - SpringShield  0.188
+Bhatinda - Casole d'Elsa  0.089
+Narbolia - Velletri  0.309
+Gagliato - Waret-l'Eveque  0.015
+Montpellier - Orvieto  0.047
+Modena - Yeovil  0.462
+Massimino - Magnetbox  0.004
+Rochester - Petit-Hallet  0.237
+Dorgali - The Perm Bank  0.214
+Leighton Buzzard - Rollegem  0.107
+Wardha - San Piero Patti  0.048
+Grand-Leez - Saint-Denis  0.058
+Diyarbakır - Arrone  0.114
+Henley-on-Thames - Castel Ritaldi  0.087
+Drayton Valley - Herman's Military Antiques Mega Store  0.113
+Francavilla Fontana - Sant'Onofrio  0.128
+Boulogne-Billancourt - Alanya  0.214
+San NicolAs - Springfield Nuclear Power Plant  0.023
+Gaziantep - Castelluccio Superiore  0.131
+Copertino - Fauvillers  0.358
+Walhain-Saint-Paul - Murwara  0.019
+Santomenna - Woerden  0.397
+Villafranca in Lunigiana - Pisa  0.202
+Whitewater Region Township - Sarre  0.137
+Portland - Shapes  0.396
+Ettelgem - Springfield Emporia Shopping Mall  0.094
+Castiglione di Sicilia - UKwik-E-Mart  0.118
+Issime - Forgaria nel Friuli  0.075
+Heusden - Aydın  0.1
+Pont-Saint-Martin - Wells  0.218
+Port Moody - Vizianagaram  0.048
+Heredia - Emines  0.063
+Pontedera - Shelbyville Car Impound Lot  0.595
+Castor - Heredia  0.09
+Chiari - Kailua  0.086
+Bangor - Cagnes-sur-Mer  0.239
+Bientina - Massenhoven  0.376
+Forfar - Iceland  0.047
+Kawawachikamach - Arrone  0.194
+North Vancouver - Hull  0.065
+Orvieto - Tumbler Ridge  0.147
+Kailua - Kruibeke  0.027
+Recco - Nieuwegein  0.078
+Rockford - Sogliano Cavour  0.048
+Velletri - Forchtenstein  0.159
+Ruvo del Monte - West Ham  0.178
+Penna San Giovanni - The Perm Bank  0.139
+Lewiston - Berloz  0.131
+Ramagundam - Bolton  0.053
+Mercedes - Etalle  0.331
+Brodick - Frank's Print  0.148
+Dignano - Wambeek  0.081
+Worcester - Casalbuono  0.269
+Amstetten - Glendale  0.018
+Hereford - Cariboo Regional District  0.174
+Tramutola - Basirhat  0.01
+Guadalajara - Nalinnes  0.258
+Berhampore - Berhampore  0.091
+Rocca Massima - Sant'Onofrio  0.116
+Sant'Arsenio - Rockford  0.062
+Naperville - Leighton Buzzard  0.334
+Wodonga - Saint-Denis  0.3
+Monte Giberto - Fortaleza  0.195
+Aparecida de Goiania - Leonding  0.128
+Hertford - Moere  0.277
+Casalbuono - Caerphilly  0.218
+Molino dei Torti - Tattoos  0.335
+Candela - Zerkegem  0.132
+Tarrasa - Thorembais-les-Beguines  0.184
+Metz - Sideshow Bob's Cotton Candy  0.362
+Montemilone - Thiaumont  0.144
+Calco - Wilted Rose  0.026
+La Hulpe - Walhain-Saint-Paul  0.064
+Blumenau - Liquor  0.34
+Lower Hutt - Vihari  0.105
+Montes Claros - Peutie  0.063
+San Fratello - Beziers  0.019
+Angleur - San Fratello  0.013
+Great Yarmouth - Crowsnest Pass  0.035
+Kanpur Cantonment - Springfield Penitentiary  0.124
+Lambusart - Video Matchmaking  0.285
+Branchon - Castellafiume  0.151
+Delmenhorst - Mehlheim am Main  0.113
+Waret-l'Eveque - Werbomont  0.053
+St. Ives - Anjou  0.273
+Saint-Denis - The Happy Sailor Tattoo Parlor  0.132
+Panketal - Indianapolis  0.102
+Keswick - Oliver  0.158
+Machelen - Rutigliano  0.012
+Woerden - Champion  0.15
+Meerut - Them, Robot  0.239
+Etalle - Leighton Buzzard  0.133
+Chiny - The Android's Dungeon & Baseball Card Shop  0.172
+Fabro - Westkerke  0.244
+Stamford - Neustadt am Rebenberge  0.179
+Sedgewick - Dingwall  0.105
+Huesca - Kailua  0.174
+Fallo - Bhilwara  0.472
+Fortaleza - Lalbahadur Nagar  0.153
+Daska - Orta San Giulio  0.135
+Bulzi - Ah, Fudge! Factory  0.029
+Viersel - Serralunga d'Alba  0.022
+Campagna - Beziers  0.053
+Villers-aux-Tours - Alajuela  0.339
+Linton - Uncle Homer's Daycare Center  0.04
+Profondeville - Orta San Giulio  0.207
+Yaxley - Beziers  0.429
+Blehen - Champion  0.12
+Swansea - House-O-Donuts  0.561
+Civo - Blenheim  0.468
+Roux - Retford  0.129
+Raymond - San Damiano al Colle  0.066
+Taber - Madame and Masseur  0.148
+Bettiah - Gooik  0.081
+Banff - Simpson & Son Grease Co.  0.02
+Gojra - Ahmadpur East  0.17
+Devizes - Putignano  0.083
+Raj Nandgaon - Rigolet  0.074
+Connah's Quay - Castel Guelfo di Bologna  0.03
+Wagga Wagga - Kid First Industries  0.118
+Chetwynd - Wernigerode  0.068
+Hoofddorp - Genappe  0.109
+Erdemli - Rachecourt  0.122
+Mobile - Leval-Chaudeville  0.054
+Jauchelette - Ettelgem  0.172
+Malonne - Faridabad  0.105
+Montigny-les-Metz - Meetkerke  0.624
+Leamington - The Happy Sailor Tattoo Parlor  0.134
+Landenne - Ararat  0.121
+Charny - Gaziantep  0.021
+Roccalumera - Kentucky Fried Panda  0.323
+Pitlochry - Hawick  0.31
+Mesoraca - Obertshausen  0.258
+Hawera - Daska  0.083
+Sitapur - St. Thomas  0.101
+Villers-la-Ville - Moircy  0.411
+Fauvillers - Ellon  0.08
+Roccalumera - Linton  0.126
+Ararat - Forchtenstein  0.192
+Aurillac - Antalya  0.196
+Bad Hersfeld - Thiaumont  0.185
+Racine - Shahjahanpur  0.425
+Fogliano Redipuglia - Beauport  0.082
+Sanluri - Kailua  0.052
+Dworp - La Hulpe  0.503
+Lienz - Forgaria nel Friuli  0.063
+Meeswijk - Al's Towing  0.068
+Foligno - Wambeek  0.163
+Auvelais - Devil Donuts  0.198
+Meix-le-Tige - Porto Cesareo  0.025
+Landshut - Leamington  1.118
+Champion - Macerata  0.008
+Paulista - Sint-Pieters-Kapelle  0.351
+Hinckley - Avennes  0.285
+Concepcion - Fogliano Redipuglia  0.428
+Palanzano - Toddlin' Town  0.059
+Aligarh - Castiglione di Sicilia  0.013
+Thorembais-les-Beguines - Mehlheim am Main  0.067
+Arsoli - Halberstadt  0.228
+Merthyr Tydfil - Oban  0.108
+Montes Claros - Richmond Hill  0.072
+Ahmadpur East - Kapelle-op-den-Bos  0.112
+Sant'Agapito - Legal  0.116
+Neerglabbeek - Werbomont  0.25
+Forchtenstein - Kruibeke  0.193
+Westmalle - Itegem  0.21
+Sunderland - Charny  0.014
+Ceppaloni - Fortaleza  0.041
+Knighton - Frank's Print  0.56
+Piracicaba - Hairy Shearers  0.106
+Villeneuve-d'Ascq - Pabianice  0.121
+Baisy-Thy - Sint-Amandsberg  0.193
+Foligno - Awka  0.517
+Bankura - Berhampore  0.157
+Biggleswade - Pool Sharks  0.05
+Montegranaro - Houthalen  0.016
+Buckingham - Gloucester  0.306
+Haren - Yesterday's Puppies  0.128
+Feilding - Ilheus  0.141
+Gonnosfanadiga - Vihari  0.271
+Donosti - Mehlheim am Main  0.275
+Port Glasgow - Rollegem  0.01
+Woodlands County - Carleton  0.413
+Marche-les-Dames - Arsoli  0.103
+Thiaumont - Gloucester  0.101
+Alness - Bludenz  0.026
+Ceppaloni - Davangere  0.12
+Lloydminster - Val Rezzo  0.179
+Crowsnest Pass - Wick  0.21
+Pomarico - Hair Clinic  0.154
+Seborga - Lewiston  0.115
+Monghidoro - Edmonton  0.099
+Altidona - Antalya  0.425
+Shimla - Worcester  0.15
+Alanya - Ligny  0.083
+Salt Spring Island - Them, Robot  0.223
+Toernich - San Fratello  0.087
+Guysborough - Herman's Military Antiques  0.324
+Sint-Pieters-Kapelle - Sadiqabad  0.28
+Palestrina - Smoked Meat and Cheese  0.208
+Salcito - Anklam  0.262
+Bergeggi - Lubeck  0.222
+Gooik - Shimoga  0.042
+Charleroi - Ramagundam  0.126
+Basildon - Blehen  0.405
+Ilesa - Nus  0.23
+Igboho - Avennes  0.231
+Arrone - Salcito  0.258
+Hull - Springfield Rent-a-Car  0.195
+Salem - Moerbeke  0.213
+Daussoulx - Neustadt am Rebenberge  0.331
+Coleville Lake - Ahmadpur East  0.105
+Poederlee - The Android's Dungeon & Baseball Card Shop  0.069
+Gandhidham - Springfield Squidport  0.025
+Meerdonk - Plymouth  0.12
+Amravati - The New Android's Dungeon  0.145
+Castelvetere in Val Fortore - Zerkegem  0.306
+Oban - North Vancouver  0.307
+Ortacesus - Fabro  0.115
+Kallo - Esneux  0.274
+Bargagli - Wigstock   0.375
+Kufstein - Sport Shack  0.29
+Newtonmore - Metz  0.448
+Dunoon - Saint-Denis  0.915
+San Giacomo degli Schiavoni - Barney's Bowlarama  0.005
+Pietracatella - Roux  0.587
+Emines - Spalbeek  0.066
+Villata - Ol' Blue Eyes Optometery  0.078
+Galway - Montaldo Bormida  0.073
+Rapagnano - Korfez  0.249
+Hindeloopen - Farmer Billy's Bacon Factory  0.512
+Ereğli - The Copy Jalopy  0.35
+Bhilwara - Boechout  0.501
+Olinda - Francavilla Fontana  0.187
+Saint-Die-des-Vosges - Montaldo Bormida  0.154
+Canberra - Mazzano Romano  0.512
+Castellafiume - Ananindeua  0.009
+Caplan - Camborne  0.09
+Rosoux-Crenwick - Montemilone  0.069
+Vorst - Bridgend  0.041
+Sint-Pieters-Leeuw - Grand-Leez  0.055
+Conca Casale - Devizes  0.057
+Prato Carnico - Linkebeek  0.289
+Plymouth - Orta San Giulio  0.095
+Lodelinsart - Moerbeke  0.15
+Pettlingen - Castelbuono  0.007
+Hollange - Fogliano Redipuglia  0.097
+Tumbler Ridge - Sint-Amandsberg  0.062
+Teruel - Orsogna  0.164
+Harrogate - I Can't Believe It's a Law Firm!  0.047
+Pforzheim - Miraj  0.186
+Helensburgh - Arrone  0.715
+Zierikzee - Waret-l'Eveque  0.237
+Anklam - Aubervilliers  0.133
+Davangere - Petit-Hallet  0.087
+Lac-Serent - Bellevue  0.068
+Travo - Carcassonne  0.1
+Pınarbaşı - Herman's Military Antiques Mega Store  0.056
+Bovigny - Woodlands County  0.23
+Mehlheim am Main - Rosoux-Crenwick  0.121
+Cholet - Worgl  0.035
+Blenheim - Ahmadpur East  0.034
+Castellafiume - Aurillac  0.176
+Hamme-Mille - MAlaga  0.085
+Nasino - Olinda  0.061
+Durham - Lac-Serent  0.365
+Varanasi - Bargagli  0.197
+Belcarra - Olcenengo  0.104
+Annan - Ortacesus  0.418
+Ferrere - 24 Seven  0.275
+Cimitile - Montaldo Bormida  0.128
+Whyalla - The Happy Sailor Tattoo Parlor  0.145
+Chennai - Davoli  0.237
+Baschi - Gonnosfanadiga  0.055
+Nîmes - Shimoga  0.122
+Porto Alegre - Forge-Philippe  0.115
+Trochu - Sitapur  0.25
+San Gregorio nelle Alpi - Goksun  0.034
+Mazzano Romano - Canmore  0.231
+Vucht - Daussoulx  0.372
+Moerbeke - Indianapolis  0.169
+Sanquhar - Lambusart  0.103
+Tolve - Port Pirie  0.022
+Westkerke - Wagga Wagga  0.157
+Houthalen - Nasino  0.176
+Gujrat - Aparecida de Goiania  0.027
+Palestrina - Castelbuono  0.077
+Orsogna - Berhampore  0.001
+Levallois-Perret - Hochst  0.16
+Opwijk - Fortaleza  0.41
+Bludenz - Leeds  0.337
+Berhampore - Asti  0.198
+Bonlez - La Spezia  0.407
+Schagen - Panihati  0.162
+Itanagar - Osaka Orangeade Concern  0.185
+Civo - Monte San Savino  0.283
+Rouvreux - Machelen  0.107
+Castelluccio Superiore - Nizamabad  0.081
+Piovene Rocchette - Drederick Tatum's Sleep Disorder Clinic  0.284
+Lioge - Villafranca in Lunigiana  0.236
+Asigliano Veneto - Carapicuíba  0.055
+Williams Lake - Tolve  0.088
+Carcassonne - Ararat  0.053
+Korfez - Southern Cracker  0.125
+Whitehaven - Cisc O'systems  0.303
+Ham-sur-Sambre - Ogbomosho  0.115
+Giarratana - Castelbuono  0.095
+Montone - Aydın  0.162
+Mol - Gisborne  0.205
+Pirmasens - Aylmer  0.084
+Dion-Valmont - Kailua  0.368
+Emmen - Bulzi  0.05
+Reggio nell'Emilia - Them, Robot  0.079
+Ligny - Craco  0.117
+Bellegem - Hairy Shearers  0.326
+Cisano Bergamasco - Montaldo Bormida  0.198
+Cetara - Vizianagaram  0.269
+Worgl - Bail Bonds and Beyond  0.043
+Castiglione a Casauria - Duncan  0.263
+Amiens - Aligarh  0.199
+Vizianagaram - Carleton  0.116
+Forgaria nel Friuli - Longchamps  0.171
+Donstiennes - Neat & Tidy  1.011
+Gols - Drachten  0.278
+Pune - Gandhidham  0.069
+Zirl - Shaki  0.245
+Birecik - Dawson Creek  0.097
+Lubeck - Catanzaro  0.249
+Bolton - Rouyn-Noranda  0.118
+Bridgend - Hoofddorp  0.144
+Gullegem - Walhain-Saint-Paul  0.042
+Montese - Woodlands County  0.345
+Otukpo - Edmonton  0.218
+Drachten - Maglie  0.087
+Catanzaro - Deventer  0.075
+Serralunga d'Alba - Texxon  0.3
+Tucson - Pont-Saint-Martin  0.154
+Liverpool - Cagnes-sur-Mer  0.246
+Dieppe - Forgaria nel Friuli  0.225
+Cuglieri - Rocca Massima  0.071
+Chieti - Windermere  0.02
+Bethune - Sparwood  0.313
+Gulbarga - Video Matchmaking  0.111
+Villers-la-Ville - Cockburn  0.239
+Carapicuíba - Bergeggi  0.02
+Waardamme - Wick  0.104
+Helmsdale - Rouen  0.19
+Val Rezzo - Shimoga  0.205
+Minitonas - Delmenhorst  0.139
+Barnstaple - Drachten  0.127
+Casole d'Elsa - Arendonk  0.086
+Duncan - Missoula  0.174
+Ohain - CLAMB Power  0.301
+Walsall - Nizamabad  0.087
+Harrisburg - Val Rezzo  0.194
+Laken - La Hulpe  0.118
+Dawson Creek - Comblain-au-Pont  0.136
+Perth - Shaki  0.149
+Shahjahanpur - Morrovalle  0.128
+Anjou - Petit-Hallet  0.283
+Chatelineau - Midnight Rx  0.142
+Caplan - House-O-Donuts  0.29
+Monte San Savino - Reggio nell'Emilia  0.282
+Kızılcahamam - Hair Clinic  0.114
+Bolton - Wergl  0.774
+Lier - Harrogate  0.091
+Konstanz - Berhampore  0.122
+Dave - La Hulpe  0.239
+Kirkwall - Devil Donuts  0.291
+Kallo - Mazy  0.008
+Fourbechies - Wandlitz  0.088
+Schulen - Rouvreux  0.026
+Vico del Gargano - Cholet  0.212
+Porto Cesareo - Yesterday's Puppies  0.077
+Maglie - Sparwood  0.097
+Fumal - Massa e Cozzile  0.038
+Athus - Alma  0.141
+Palencia - Casnate con Bernate  0.07
+Prenzlau - Panketal  0.369
+Shaki - Chantemelle  0.001
+Ellon - Pool Sharks  0.15
+Butzbach - Boulogne-Billancourt  0.355
+Saarlouis - Moerbeke  0.156
+Rouen - Southern Cracker  0.078
+Sokoto - Springfield Rent-a-Car  0.409
+Bharatpur - Fabro  0.139
+Carovilli - Panihati  0.015
+Otukpo - Dieppe  0.006
+Ogbomosho - Anantapur  0.08
+Rothes - Brandenburg  0.108
+Quispamsis - Neerglabbeek  0.136
+Shawville - Mook-E-Mart  0.26
+Ludwigsfelde - Ferlach  0.427
+Aydın - Montpellier  0.01
+Vielsalm - Firozabad  0.279
+Kansas City - Campagna  0.123
+Sadiqabad - Birecik  0.376
+West Ham - Veg-Out Video  0.141
+Sint-Denijs-Westrem - Villeneuve-d'Ascq  0.329
+Oudegem - Castel Baronia  0.139
+MAlaga - Dawson Creek  0.044
+Harrogate - Grumo Appula  0.069
+Rio Marina - Gozee  0.38
+Gravelbourg - Bellegem  0.292
+Uitbergen - Millport  0.144
+Armungia - Broken Hill  0.173
+San Rafael Abajo - Caplan  0.225
+Tiegem - Cinderblock Village   0.227
+Meerut - Heusden  0.268
+Windermere - Walsall  0.054
+Nellore - Woerden  0.217
+San Piero Patti - Ramagundam  0.189
+Meix-Devant-Virton - Fauvillers  0.233
+Jasper - Mount Pearl  0.259
+Sarre - Wick  0.413
+Profondeville - Rochester  0.044
+Builth Wells - Vitoria da Conquista  0.16
+Rigolet - Princess Opal  0.246
+Leeds - Sant'Onofrio  0.057
+Nizamabad - Redwater  0.008
+Deventer - Zirl  0.078
+Buken - Sobral  0.122
+Chastre - Half-Man Half-Ape Burgers  0.234
+Goksun - Casole d'Elsa  0.135
+Turriaco - Sokoto  0.695
+Gisborne - Gullegem  0.205
+Basirhat - Dawson Creek  0.149
+Noicattaro - CLAMB Power  0.001
+Moorsel - Waasmunster  0.266
+Longchamps - Aubervilliers  0.039
+San Damiano al Colle - Zerkegem  0.017
+Yeovil - Perth  0.19
+Rouyn-Noranda - Connah's Quay  0.126
+Lennik - Velletri  0.055
+Vitoria da Conquista - The Psychedelicatessen  0.115
+Wells - Rocca Massima  0.121
+King's Lynn - West Ham  0.1
+Cockburn - Auvelais  0.179
+Albisola Superiore - Murwara  0.149
+Cambridge - Laino Castello  0.031
+Leers-et-Fosteau - Sally Salon  0.454
+Berbroek - Yeovil  1.252
+Northallerton - Lewiston  0.023
+Hohenems - Springfield Rent-a-Car  0.161
+Indianapolis - Poggiodomo  0.032
+Moircy - Hoofddorp  0.051
+Acoz - San Gregorio nelle Alpi  0.097
+Riparbella - Northallerton  0.202
+South Portland - Dr. Zitsofsky Dermatology Clinic  0.185
+Alajuela - Putignano  0.034
+Zerkegem - Uitbergen  0.1
+Kansas City - Legitimate Businessmans Club  0.05
+Bearberry - Powell Motors  0.065
+Castel Ritaldi - Peutie  0.088
+Tejar - Acoz  0.057
+Bajardo - Arendonk  0.503
+Neubrandenburg - Trento  0.408
+Esneux - Saint-Denis  0.006
+Jaen - Blehen  0.142
+Hertford - Bulzi  0.064
+Leonding - Midnight Rx  0.137
+Halberstadt - Woerden  0.171
+Sobral - Miraj  0.123
+Helchteren - Trento  0.32
+Cedar Rapids - Antalya  0.339
+Antalya - Worgl  0.093
+Marbais - Duff Brewery  0.118
+Gembloux - Otukpo  0.296
+Anantapur - Zirl  0.193
+Montignoso - Hula Hoop Repair Center  0.152
+Gloucester - Whyalla  0.155
+Massimino - Villers-la-Ville  0.187
+Blackwood - Castor  0.067
+Montoggio - Cabo de Santo Agostinho  0.115
+Massenhoven - Aparecida de Goiania  0.1
+Vliermaalroot - Vihari  0.349
+Santa Cruz de Tenerife - Spinster City Apartments  0.326
+Wambeek - Shavings  0.202
+Hoshiarpur - Ruvo del Monte  0.054
+Wick - Hollange  0.053
+Sasaram - Half-Man Half-Ape Burgers  0.121
+Pisa - Macerata  0.138
+Stigliano - Taunusstein  0.348
+Pratovecchio - Honey Me Mine  0.086
+Monte San Savino - Caplan  0.194
+Windsor - Cimitile  0.255
+Yeotmal - Kisi  0.054
+Bhiwandi - Bulzi  0.199
+Stamford - Baby Get Well Cards, Inc.  0.18
+Putignano - Pavone del Mella  0.263
+Thurso - Saint-Die-des-Vosges  0.018
+Bon Accord - Music World  0.031
+Forge-Philippe - Windermere  0.094
+Berloz - Kanpur Cantonment  0.057
+Ilheus - Konstanz  0.06
+Kukatpalle - Ceppaloni  0.32
+Meetkerke - Teruel  0.506
+Avennes - Meerdonk  0.031
+Tarvisio - Rockford  0.632
+Goshtrow - Hawera  0.036
+Sambhal - Coleville Lake  0.249
+Rollegem - Nieuwegein  0.027
+Ofena - Orta San Giulio  0.475
+Champion - Simply Shoes  0.136
+Sint-Pieters-Kapelle - Rutigliano  0.075
+Pontboset - Frank's Fox Hunting Lodge  0.014
+Morrovalle - Pune  0.151
+Chimay - Roccalumera  0.13
+Proddatur - Sambhal  0.009
+Truro - Castiglione a Casauria  0.171
+Frederick - Castel Baronia  0.094
+Port Pirie - Ah, Fudge! Factory  0.179
+Munger - Carleton  0.377
+Retford - Carleton  0.02
+Pietrarubbia - Monceau-Imbrechies  0.075
+La Spezia - Yesterday's Puppies  0.203
+Dessel - San Antonio  0.18
+Nalinnes - Hollabrunn  0.233
+Corroy-le-Cheteau - Pitlochry  0.049
+Lauco - Hawera  0.072
+Lecce - Meerut  0.286
+Gozee - Montaldo Bormida  0.109
+Basingstoke - Devil Donuts  0.25
+Genappe - Champion  0.162
+Tregaron - Powell Motors  0.169
+Kempten - Salt Spring Island  0.205
+Kruibeke - Rockford  0.154
+Aylmer - Tarrasa  0.148
+Pabianice - Athus  0.075
+Rodermark - Villata  0.001
+Loreto - The New Android's Dungeon  0.313
+Lac-Serent - Lewiston  0.135
+Amaro - Mazzano Romano  0.071
+Perth - Kisi  0.011
+Fulda - Hohenems  0.485
+Davoli - Kapelle-op-den-Bos  0.162
+Champion - Bon Accord  0.084
+Bilbo - Whyalla  0.058
+Legal - Salt Spring Island  0.181
+Orta San Giulio - Kwik-E-Mart  0.179
+Cercemaggiore - Rio Marina  0.497
+Rhayader - Great Yarmouth  0.338
+Vaux-sur-Sure - Ararat  0.038
+Frankfurt - Pforzheim  0.175
+Torquay - Waret-l'Eveque  0.07
+Nus - Thames  0.137
+Lives-sur-Meuse - Leamington  0.111
+Boechout - Naperville  0.313
+Monceau-Imbrechies - Port Pirie  0.008
+Sachs Harbour - Indianapolis  0.213
+Kamarhati - Kiel  0.259
+Petit-Hallet - 24 Seven  0.169
+West Ham - Vorst  0.252
+St. Thomas - Kirkwall  0.101
+Saint-Lonard - Hawick  0.524
+Candidoni - Aparecida de Goiania  0.051
+Sogliano Cavour - Vorst  0.028
+Stafurt - Sautin  0.234
+Richmond Hill - Fumal  0.125
+Zeitz - Roux  0.089
+Leval-Chaudeville - Palestrina  0.056
+Ferlach - Korfez  0.146
+Belgrave - Villeneuve-d'Ascq  0.018
+Hexham - Worgl  0.274
+Munich - Catanzaro  0.174
+Vance - Val Rezzo  0.087
+Palmerston - Firozabad  0.355
+Mazy - Nellore  0.092
+Werbomont - Asti  0.135
+Neupru - Bicycle Repair Shop  0.14
+Wommelgem - Castor  0.096
+Tavistock - Kwik-E-Mart  18.866
+
+Total Cost:  $196.288k
+
+*****************************************************************
+Mayor Quimby thanks you.

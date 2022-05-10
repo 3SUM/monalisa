@@ -1,0 +1,10 @@
+Sensor Network Connectivity Report
+----------------------------------
+
+Total Unique Groups: 1
+
+   Group      Parent       Group     Connect
+  Number        Node        Size     Percent
+  ------    --------    --------    --------
+       0           0          11      100.00
+

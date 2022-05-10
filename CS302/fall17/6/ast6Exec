@@ -1,0 +1,51 @@
+#!/bin/bash
+# CS 302, assignment #6 timing script.
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+# ---------------------------------------------------------
+# Define script variables and function
+
+bolded=`tput bold`
+normal=`tput sgr0`
+
+# ---------------------------------------------------------
+# Display initial page
+#
+clear
+echo
+echo ${bolded}Assignment 6 - Execution Times Utility${normal}
+echo
+echo "The times are recorded in 'a6times.txt' "
+echo
+echo
+echo
+echo -e "Executions for Happy/Sad Numbers program.\n" > a6times.txt
+#
+# ---------------------------------------------------------
+#  Begin executions
+#
+amLimit=500000000
+#
+# for th in {1..10..1}
+#
+for th in 1 2 4 8 16 32
+do
+  echo -e "\n**********************************************************************" >> a6times.txt
+  echo "Executions for Happy/Sad Number Program to $amLimit, $th threads."
+  echo -e >> a6times.txt
+  echo -e "Executions for Happy/Sad Numbers Program to $amLimit, $th threads." >> a6times.txt
+  echo -e >> a6times.txt
+  ./$1 -t $th -l $amLimit >> a6times.txt
+done
+#
+echo -e >> a6times.txt
+echo
+#

@@ -1,0 +1,26 @@
+*****************************************************************
+[1mCS 302 - Assignment #10
+Springfield Fiber Installation[0m
+
+=================================================================
+Error testing: 
+
+undirectedGraph: Error, invalid graph size.
+undirectedGraph: Error, invalid graph size.
+addEdge: error, invalid vertex.
+setGraphSize: Error, invalid graph size.
+setGraphSize: Error, invalid graph size.
+addEdge: error, invalid vertex.
+addEdge: error, invalid vertex.
+addEdge: error, invalid vertex.
+addEdge: error, vertex to and from can not be the same.
+addEdge: error, no graph, can not add edge.
+readLocationNames: Error, no graph defined.
+prims: Error, invalid source node.
+prims: Error, invalid source node.
+prims: Error, invalid source node.
+printMatrix: Error, no graph data.
+
+
+*****************************************************************
+Testing Complete.

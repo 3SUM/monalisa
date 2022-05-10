@@ -1,0 +1,440 @@
+*****************************************************************
+CS 302 - Assignment #5
+Amazon Review Checking Program
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> --------------------------------------
+Review Data Statistics:
+
+Review Data Tree Stats:
+   Tree Height: 7
+
+Review Data Stats:
+   Total Reviews: 222
+   Unique Products: 55
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> 
+--------------------
+Product: B00374ZKQ0
+  Avg Score: 2.93
+  Reviews:   28
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> Enter input file: ***********************************************
+
+Reviews List:
+-------------
+prod: B00374ZKQ0
+Product: B00374ZKQ0
+  Avg Score: 2.93
+  Reviews:   28
+
+prod: B0015V7GG4
+Product: B0015V7GG4
+  Avg Score: 4.80
+  Reviews:   5
+
+prod: B000KOUOHU
+Product: B000KOUOHU
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B000H28ABW
+Product: B000H28ABW
+  Avg Score: 4.57
+  Reviews:   14
+
+prod: B0001WYNFA
+Product: B0001WYNFA
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B0000D16IP
+Product: B0000D16IP
+  Avg Score: 3.00
+  Reviews:   2
+
+prod: B0002ARMS6
+Product: B0002ARMS6
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B000JT45IA
+Product: B000JT45IA
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B000H7K114
+Product: B000H7K114
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B000KOSIP0
+Product: B000KOSIP0
+  Avg Score: 3.33
+  Reviews:   6
+
+prod: B000P56I7Y
+Product: B000P56I7Y
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B000NY4SAG
+Product: B000NY4SAG
+  Avg Score: 4.75
+  Reviews:   4
+
+prod: B000LKVRQA
+Product: B000LKVRQA
+  Avg Score: 4.20
+  Reviews:   10
+
+prod: B000NY8O9M
+Product: B000NY8O9M
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B000RHXJM2
+Product: B000RHXJM2
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B0013Z0PTW
+Product: B0013Z0PTW
+  Avg Score: 4.18
+  Reviews:   22
+
+prod: B001IZHZJA
+Product: B001IZHZJA
+  Avg Score: 4.00
+  Reviews:   8
+
+prod: B001BOAOLY
+Product: B001BOAOLY
+  Avg Score: 4.50
+  Reviews:   6
+
+prod: B001682QCK
+Product: B001682QCK
+  Avg Score: 3.00
+  Reviews:   5
+
+prod: B0018CLWM4
+Product: B0018CLWM4
+  Avg Score: 4.57
+  Reviews:   7
+
+prod: B001EQ5O6Y
+Product: B001EQ5O6Y
+  Avg Score: 3.94
+  Reviews:   18
+
+prod: B001ELL54Y
+Product: B001ELL54Y
+  Avg Score: 4.00
+  Reviews:   6
+
+prod: B001EO7N10
+Product: B001EO7N10
+  Avg Score: 4.50
+  Reviews:   6
+
+prod: B001F2GDJY
+Product: B001F2GDJY
+  Avg Score: 5.00
+  Reviews:   2
+
+prod: B001FPT1WM
+Product: B001FPT1WM
+  Avg Score: 4.50
+  Reviews:   8
+
+prod: B002PXSGA6
+Product: B002PXSGA6
+  Avg Score: 5.00
+  Reviews:   2
+
+prod: B001TGY7W6
+Product: B001TGY7W6
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B001LR2CU2
+Product: B001LR2CU2
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B002OXLXLG
+Product: B002OXLXLG
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B002XO3Q52
+Product: B002XO3Q52
+  Avg Score: 3.00
+  Reviews:   1
+
+prod: B004BRECPW
+Product: B004BRECPW
+  Avg Score: 3.00
+  Reviews:   2
+
+prod: B003O5Q3KE
+Product: B003O5Q3KE
+  Avg Score: 3.00
+  Reviews:   4
+
+prod: B003JHR4GE
+Product: B003JHR4GE
+  Avg Score: 5.00
+  Reviews:   3
+
+prod: B003EMXLU2
+Product: B003EMXLU2
+  Avg Score: 4.50
+  Reviews:   4
+
+prod: B0039KE8Y2
+Product: B0039KE8Y2
+  Avg Score: 4.00
+  Reviews:   1
+
+prod: B003IFB148
+Product: B003IFB148
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B003NQMPYM
+Product: B003NQMPYM
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B003VWU7IE
+Product: B003VWU7IE
+  Avg Score: 4.67
+  Reviews:   6
+
+prod: B003Q9VWUO
+Product: B003Q9VWUO
+  Avg Score: 2.00
+  Reviews:   1
+
+prod: B003S1WTCU
+Product: B003S1WTCU
+  Avg Score: 2.00
+  Reviews:   1
+
+prod: B004BRECP2
+Product: B004BRECP2
+  Avg Score: 3.00
+  Reviews:   1
+
+prod: B003XUL27E
+Product: B003XUL27E
+  Avg Score: 1.40
+  Reviews:   5
+
+prod: B005OCX5XI
+Product: B005OCX5XI
+  Avg Score: 1.00
+  Reviews:   1
+
+prod: B004CZUOSM
+Product: B004CZUOSM
+  Avg Score: 2.00
+  Reviews:   1
+
+prod: B004CHDG44
+Product: B004CHDG44
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B004BY23I8
+Product: B004BY23I8
+  Avg Score: 4.00
+  Reviews:   3
+
+prod: B004JLGEII
+Product: B004JLGEII
+  Avg Score: 4.20
+  Reviews:   5
+
+prod: B004I613EE
+Product: B004I613EE
+  Avg Score: 5.00
+  Reviews:   2
+
+prod: B004MZ40DW
+Product: B004MZ40DW
+  Avg Score: 3.00
+  Reviews:   2
+
+prod: B006JSPXZY
+Product: B006JSPXZY
+  Avg Score: 1.00
+  Reviews:   1
+
+prod: B005OTVL8C
+Product: B005OTVL8C
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B005ZC0RRO
+Product: B005ZC0RRO
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B006Z0Z6WG
+Product: B006Z0Z6WG
+  Avg Score: 4.00
+  Reviews:   1
+
+prod: B006T7TKZO
+Product: B006T7TKZO
+  Avg Score: 5.00
+  Reviews:   1
+
+prod: B009GTIHG0
+Product: B009GTIHG0
+  Avg Score: 5.00
+  Reviews:   1
+
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> Enter Product: 
+Product: B000NY8O9M
+  Avg Score: 5.00
+  Reviews:   1
+
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> Enter Product: 
+Product: B003VWU7IE
+  Avg Score: 4.67
+  Reviews:   6
+
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> Enter Product: 
+Product, B003VWU7I1 not found.
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> Complete Tree: (debug)
+----------------------
+B0000D16IP  6.00  2
+B0002ARMS6  5.00  1
+B0001WYNFA  5.00  1
+B000H7K114  5.00  1
+B000KOSIP0  20.00  6
+B000JT45IA  5.00  1
+B000H28ABW  64.00  14
+B000LKVRQA  42.00  10
+B000NY8O9M  5.00  1
+B000NY4SAG  19.00  4
+B0013Z0PTW  92.00  22
+B000RHXJM2  5.00  1
+B000P56I7Y  5.00  1
+B000KOUOHU  5.00  1
+B0018CLWM4  32.00  7
+B001682QCK  15.00  5
+B001EO7N10  27.00  6
+B001ELL54Y  24.00  6
+B001FPT1WM  36.00  8
+B001F2GDJY  10.00  2
+B001EQ5O6Y  71.00  18
+B001BOAOLY  27.00  6
+B001LR2CU2  5.00  1
+B002OXLXLG  5.00  1
+B001TGY7W6  5.00  1
+B002XO3Q52  3.00  1
+B002PXSGA6  10.00  2
+B001IZHZJA  32.00  8
+B0015V7GG4  24.00  5
+B0039KE8Y2  4.00  1
+B003IFB148  5.00  1
+B003EMXLU2  18.00  4
+B003NQMPYM  5.00  1
+B003JHR4GE  15.00  3
+B003S1WTCU  2.00  1
+B003Q9VWUO  2.00  1
+B003XUL27E  7.00  5
+B004BRECP2  3.00  1
+B003VWU7IE  28.00  6
+B003O5Q3KE  12.00  4
+B004BY23I8  12.00  3
+B004CHDG44  5.00  1
+B004I613EE  10.00  2
+B004MZ40DW  6.00  2
+B004JLGEII  21.00  5
+B004CZUOSM  2.00  1
+B005ZC0RRO  5.00  1
+B005OTVL8C  5.00  1
+B006T7TKZO  5.00  1
+B009GTIHG0  5.00  1
+B006Z0Z6WG  4.00  1
+B006JSPXZY  1.00  1
+B005OCX5XI  1.00  1
+B004BRECPW  6.00  2
+B00374ZKQ0  82.00  28
+
+==================================================
+Select Option:
+   'p' - process input file.
+   's' - show statistics
+   'a' - show entire tree contents (debug)
+   'l' - lookup product
+   'm' - find/show product with maximum number of reviews
+   'q' - quit
+> 
+*****************************************************************
+Game Over, thank you for playing.

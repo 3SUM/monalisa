@@ -1,0 +1,520 @@
+*****************************************************************
+[1mCS 302 - Assignment #10
+Springfield Fiber Installation[0m
+
+=================================================================
+Springfield Fiber Configuration: 
+
+
+*****************************************************************
+Springfield Fiber Configuration:
+--------------------------------
+
+By Vertex's:
+------------
+1 - 72  0.06506
+2 - 86  0.0598
+3 - 67  0.09725
+4 - 55  0.06425
+5 - 102  0.03834
+6 - 129  0.05363
+7 - 157  0.00516
+8 - 244  0.02711
+9 - 23  0.03526
+10 - 175  0.07429
+11 - 152  0.0414
+12 - 35  0.06079
+13 - 100  0.0256
+14 - 133  0.06649
+15 - 211  0.04
+16 - 6  0.04529
+17 - 170  0.07756
+18 - 86  0.02813
+19 - 70  0.06872
+20 - 116  0.02095
+21 - 27  0.01873
+22 - 56  0.01508
+23 - 58  0.07072
+24 - 209  0.02802
+25 - 111  0.05309
+26 - 5  0.03351
+27 - 240  0.06581
+28 - 198  0.00775
+29 - 218  0.02524
+30 - 212  0.03314
+31 - 241  0.07871
+32 - 187  0.04594
+33 - 23  0.06032
+34 - 22  0.03658
+35 - 94  0.06254
+36 - 41  0.05329
+37 - 153  0.03846
+38 - 215  0.0529
+39 - 149  0.05382
+40 - 220  0.0315
+41 - 182  0.03878
+42 - 181  0.06506
+43 - 207  0.02708
+44 - 49  0.02107
+45 - 83  0.02906
+46 - 169  0.06854
+47 - 218  0.02914
+48 - 232  0.02109
+49 - 225  0.03314
+50 - 59  0.04226
+51 - 2  0.05083
+52 - 187  0.03447
+53 - 145  0.06902
+54 - 140  0.02922
+55 - 112  0.0459
+56 - 120  0.05027
+57 - 184  0.03368
+58 - 68  0.04795
+59 - 97  0.06442
+60 - 25  0.03405
+61 - 87  0.05163
+62 - 233  0.03192
+63 - 199  0.01821
+64 - 137  0.03977
+65 - 188  0.03552
+66 - 39  0.0559
+67 - 217  0.04501
+68 - 176  0.04396
+69 - 107  0.0564
+70 - 179  0.06528
+71 - 21  0.03782
+72 - 203  0.0347
+73 - 34  0.01812
+74 - 215  0.04643
+75 - 116  0.02706
+76 - 37  0.02674
+77 - 102  0.02737
+78 - 4  0.02559
+79 - 70  0.01576
+80 - 225  0.05577
+81 - 17  0.05763
+82 - 11  0.03687
+83 - 232  0.06812
+84 - 174  0.0277
+85 - 82  0.04344
+86 - 141  0.0564
+87 - 130  0.03684
+88 - 36  0.01841
+89 - 75  0.03394
+90 - 173  0.06973
+91 - 146  0.02723
+92 - 235  0.0604
+93 - 160  0.0436
+94 - 141  0.0807
+95 - 76  0.0737
+96 - 199  0.01569
+97 - 49  0.03121
+98 - 236  0.04433
+99 - 147  0.03171
+100 - 19  0.06397
+101 - 196  0.03115
+102 - 226  0.07775
+103 - 174  0.03708
+104 - 248  0.0664
+105 - 106  0.01034
+106 - 193  0.02119
+107 - 1  0.07484
+108 - 42  0.06664
+109 - 137  0.05083
+110 - 214  0.0292
+111 - 61  0.06739
+112 - 159  0.04347
+113 - 198  0.05009
+114 - 58  0.01947
+115 - 37  0.01398
+116 - 164  0.0406
+117 - 16  0.05134
+118 - 197  0.06902
+119 - 134  0.04953
+120 - 53  0.02782
+121 - 170  0.03464
+122 - 139  0.01217
+123 - 10  0.00886
+124 - 118  0.063
+125 - 7  0.02442
+126 - 38  0.00845
+127 - 89  0.10682
+128 - 239  0.01726
+129 - 166  0.03392
+130 - 194  0.05825
+131 - 143  0.05854
+132 - 235  0.05508
+133 - 13  0.06257
+134 - 81  0.04508
+135 - 42  0.05008
+136 - 234  0.03185
+137 - 91  0.01061
+138 - 77  0.07171
+139 - 101  0.03983
+140 - 147  0.04712
+141 - 135  0.06693
+142 - 213  0.03433
+143 - 8  0.07437
+144 - 248  0.01527
+145 - 119  0.05361
+146 - 227  0.0456
+147 - 16  0.07171
+148 - 184  0.03398
+149 - 24  0.02915
+150 - 189  0.06046
+151 - 208  0.00391
+152 - 8  0.00702
+153 - 3  0.04799
+154 - 238  0.02365
+155 - 124  0.01487
+156 - 205  0.05088
+157 - 148  0.01712
+158 - 223  0.05291
+159 - 136  0.0231
+160 - 191  0.0541
+161 - 186  0.06124
+162 - 99  0.06455
+163 - 222  0.05489
+164 - 40  0.03395
+165 - 180  0.01756
+166 - 133  0.06778
+167 - 224  0.07521
+168 - 231  0.00268
+169 - 186  0.05624
+170 - 223  0.03653
+171 - 213  0.06758
+172 - 124  0.04713
+173 - 69  0.05282
+174 - 19  0.01925
+175 - 246  0.03569
+176 - 202  0.04299
+177 - 189  0.03512
+178 - 236  0.02867
+179 - 30  0.0657
+180 - 155  0.03246
+181 - 157  0.05473
+182 - 121  0.03939
+183 - 215  0.03017
+184 - 65  0.0479
+185 - 50  0.05942
+186 - 177  0.03537
+187 - 168  0.0408
+188 - 71  0.03894
+189 - 72  0.03706
+190 - 40  0.03649
+191 - 176  0.02089
+192 - 103  0.04287
+193 - 131  0.01012
+194 - 89  0.0511
+195 - 9  0.04585
+196 - 108  0.03132
+197 - 57  0.02583
+198 - 12  0.05807
+199 - 60  0.04868
+200 - 203  0.05651
+201 - 104  0.02597
+202 - 204  0.04207
+203 - 249  0.04148
+204 - 44  0.01774
+205 - 122  0.00647
+206 - 66  0.05154
+207 - 210  0.03158
+208 - 52  0.03135
+209 - 211  0.01269
+210 - 219  0.03728
+211 - 163  0.01708
+212 - 207  0.05667
+213 - 155  0.01559
+214 - 156  0.03435
+215 - 109  0.06179
+216 - 48  0.07531
+217 - 83  0.03695
+218 - 91  0.04088
+219 - 156  0.00745
+220 - 150  0.04158
+221 - 207  0.02902
+222 - 114  0.0206
+223 - 113  0.04665
+224 - 29  0.03477
+225 - 0  0.02383
+226 - 52  0.02384
+227 - 134  0.03986
+228 - 241  0.01473
+229 - 17  0.06676
+230 - 148  0.04043
+231 - 93  0.03594
+232 - 201  0.03557
+233 - 21  0.04409
+234 - 87  0.08302
+235 - 171  0.03106
+236 - 6  0.05556
+237 - 63  0.04962
+238 - 171  0.05664
+239 - 78  0.02065
+240 - 138  0.02076
+241 - 153  0.04247
+242 - 28  0.02503
+243 - 103  0.05731
+244 - 30  0.01475
+245 - 154  0.04011
+246 - 11  0.06678
+247 - 190  0.0668
+248 - 185  0.02896
+249 - 158  0.05734
+
+By Springfield Locations:
+-------------------------
+Springfield Nuclear Power Plant - The Prodigy Barn  0.06506
+Legitimate Businessmans Club - Yesterday's Puppies  0.0598
+Barney's Bowlarama - Cats Amore Kitty Boutique  0.09725
+Badge, Haggle and Bill - G. Bannister & Associates  0.06425
+Midnight Rx - Kwickee & Sons General Store  0.03834
+The Android's Dungeon & Baseball Card Shop - Sun Glasses   0.05363
+Duff Brewery - Smoked Meat and Cheese  0.00516
+Spinster City Apartments - Vitrolles  0.02711
+Malaria Zone - The Happy Sailor Tattoo Parlor  0.03526
+Springfield Library - Church of the Latter Day Druids  0.07429
+Channel 6 Studios - Mother Hubbard's Sandwich Cupboard  0.0414
+Nighthawk Diner - Ah, Fudge! Factory  0.06079
+Audulty Education Annex - Harry's Cluck'n'Suds  0.0256
+Springfield Town Hall - Santa's Workshop  0.06649
+Squeaky Farms - Linkebeek  0.04
+Air Springfield - The Android's Dungeon & Baseball Card Shop  0.04529
+Hal's Liquor - Springfield Travel Agency  0.07756
+Shapes - Yesterday's Puppies  0.02813
+Powell Motors - Mook-E-Mart  0.06872
+Uncle Homer's Daycare Center - A Test Before Trying  0.02095
+SpringShield - Girdles N' Such  0.01873
+Box Factory - Groovy Grove Juice Corporation  0.01508
+The Happy Sailor Tattoo Parlor - Boris' Car Loft   0.07072
+Dr. Zitsofsky Dermatology Clinic - Ogbomosho  0.02802
+Herman's Military Antiques - Springfield Emporia Shopping Mall  0.05309
+Bob's RV Round-Up - Midnight Rx  0.03351
+Girdles N' Such - Casalbuono  0.06581
+International House of Answering Machines - Smoke Factory  0.00775
+Rubber Baby Buggy Bumpers Babysitting Service - Tielen  0.02524
+Hair Clinic - Poggiodomo  0.03314
+Simpson & Son Grease Co. - Putignano  0.07871
+I Can't Believe It's a Law Firm! - АПТЕКА  0.04594
+Springfield Department of Motor Vehicles - The Happy Sailor Tattoo Parlor  0.06032
+Mt. Swartzwelder Historic Cider Mill - Box Factory  0.03658
+Ah, Fudge! Factory - Springfield's Little Ukraine  0.06254
+Au Naturel - Lullabuy$  0.05329
+Steel Mill - Gil's Baby Photo Studio  0.03846
+Springfield Grocery Store - Messancy  0.0529
+Video Matchmaking - Gavelby's Auction House  0.05382
+Chalmskinn Productions  - Moricone  0.0315
+Lullabuy$ - Kwik-Kuts Barber   0.03878
+Kentucky Fried Panda - Immigration and Naturalization Service  0.06506
+Wall E. Weasel's - Lille  0.02708
+Tattoos - Springfield Squidport  0.02107
+Half-Man Half-Ape Burgers - Sleazy Sam's Payday Loans  0.02906
+Mapple - Devil Donuts  0.06854
+Kid First Industries - Tielen  0.02914
+We Have Restrooms! - Ham-sur-Sambre  0.02109
+Springfield Squidport - Coimbatore  0.03314
+Springfield Skating Rink - Hairy Shearers  0.04226
+House-O-Donuts - Legitimate Businessmans Club  0.05083
+Widow's Peak - АПТЕКА  0.03447
+Stern Lecture Plumbing - Bail Bonds and Beyond  0.06902
+Motherloving Sugar Corp. - Sorny  0.02922
+G. Bannister & Associates - Usurpco Commerical Development Corporation  0.0459
+Groovy Grove Juice Corporation - Beauty Barn  0.05027
+Bail Bonds - Madame and Masseur  0.03368
+Boris' Car Loft  - Waterfront  0.04795
+Hairy Shearers - Broken-Home Chimney Repair   0.06442
+Southern Cracker - Herman's Military Antiques  0.03405
+Cisc O'systems - Dukakis Campaign H.Q.  0.05163
+Springfield Donuts - Rimbey  0.03192
+Springfield Rent-a-Car - Van Brunt & Churchill Ad Agency  0.01821
+Professor Pigskin - 24 Seven  0.03977
+Pretzel Wagon - Baby Get Well Cards, Inc.  0.03552
+The Copy Jalopy - Video Matchmaking  0.0559
+Cats Amore Kitty Boutique - Fairbanks  0.04501
+Waterfront - Cletus's Youngun's Flaverd Water  0.04396
+Texxon - Al's Towing  0.0564
+Mook-E-Mart - Herman's Military Antiques Mega Store  0.06528
+World Class Wrestling - SpringShield  0.03782
+The Prodigy Barn - Springfield Dry Cleaner   0.0347
+Toddlin' Town - Mt. Swartzwelder Historic Cider Mill  0.01812
+Springfield Cinema - Messancy  0.04643
+Merry Widow Insurance Co. - A Test Before Trying  0.02706
+Omni-Pave - Steel Mill  0.02674
+Twirl King - Kwickee & Sons General Store  0.02737
+Cinderblock Village  - Badge, Haggle and Bill  0.02559
+Music World - Mook-E-Mart  0.01576
+Are We Hair Yet? - Coimbatore  0.05577
+Shavings - Hal's Liquor  0.05763
+The Quick Market - Channel 6 Studios  0.03687
+Sleazy Sam's Payday Loans - Ham-sur-Sambre  0.06812
+Pool Sharks - Burns Recycling Inc.  0.0277
+The Sharper Mark-Up - The Quick Market  0.04344
+Yesterday's Puppies - King Pin Malt Liquor  0.0564
+Dukakis Campaign H.Q. - Le Pamperie Hair Salon  0.03684
+JCPenney's - Au Naturel  0.01841
+Stinking Fish Realty - Merry Widow Insurance Co.  0.03394
+Let's Get Fiscal - Bed, Bath & Baha'i  0.06973
+The Perm Bank - Springfield Dry Cleaners  0.02723
+Twelve-Day Dry Cleaners - Macerata  0.0604
+Them, Robot - Gentleman's Relief Productions  0.0436
+Springfield's Little Ukraine - King Pin Malt Liquor  0.0807
+The Psychedelicatessen - Omni-Pave  0.0737
+Neat & Tidy - Van Brunt & Churchill Ad Agency  0.01569
+Broken-Home Chimney Repair  - Springfield Squidport  0.03121
+Betty's Beauty Barn - Peutie  0.04433
+Veg-Out Video - Acme Anvil Works   0.03171
+Harry's Cluck'n'Suds - Powell Motors  0.06397
+Springfield Coal-Fired Power Plant - Raven Rental Cars  0.03115
+Kwickee & Sons General Store - Aubervilliers  0.07775
+Funtendo - Burns Recycling Inc.  0.03708
+Iceland - Alma  0.0664
+Luvum and Burnham, Family Law - Honey Me Mine  0.01034
+Honey Me Mine - Leo's  0.02119
+Al's Towing - Springfield Nuclear Power Plant  0.07484
+Suds-n-Duds Laundromat - Kentucky Fried Panda  0.06664
+Dewey, Cheatem, Howe & Weissmann - 24 Seven  0.05083
+CLAMB Power - Ludlow  0.0292
+Springfield Emporia Shopping Mall - Cisc O'systems  0.06739
+Usurpco Commerical Development Corporation - Frank's Fox Hunting Lodge  0.04347
+My First Tattoo  - Smoke Factory  0.05009
+Fleet-A-Pita - Boris' Car Loft   0.01947
+Clip and Save - Steel Mill  0.01398
+A Test Before Trying - Springfield Ink   0.0406
+Princess Opal - Air Springfield  0.05134
+Ice Cream (Springfield Mall) - The Robot's Pagoda  0.06902
+Shoelaces Plus - Malfunctioning Eddie's  0.04953
+Beauty Barn - Stern Lecture Plumbing  0.02782
+Origam Designs - Springfield Travel Agency  0.03464
+SpringfieldSuits - Panaphonics  0.01217
+Springfield Candy - Springfield Library  0.00886
+Springfield Tools - Ice Cream (Springfield Mall)  0.063
+Sport Shack - Duff Brewery  0.02442
+Party Supplies - Springfield Grocery Store  0.00845
+1 Photo - Stinking Fish Realty  0.10682
+Frames - Moere  0.01726
+Sun Glasses  - Mr. Big & Large  0.03392
+Le Pamperie Hair Salon - Modeling Agency  0.05825
+Uriah's Heap Recycling Center - Springfield's Finest Double Cut Sawmill  0.05854
+Department of Magical Vehicles - Macerata  0.05508
+Santa's Workshop - Audulty Education Annex  0.06257
+Malfunctioning Eddie's - Shavings  0.04508
+Farmer Billy's Bacon Factory - Kentucky Fried Panda  0.05008
+Sideshow Bob's Cotton Candy - Buzet  0.03185
+24 Seven - The Perm Bank  0.01061
+Magnetbox - Twirl King  0.07171
+Panaphonics - Springfield Coal-Fired Power Plant  0.03983
+Sorny - Acme Anvil Works   0.04712
+King Pin Malt Liquor - Farmer Billy's Bacon Factory  0.06693
+Frank's Print - Almería  0.03433
+Springfield's Finest Double Cut Sawmill - Spinster City Apartments  0.07437
+Simply Shoes - Alma  0.01527
+Bail Bonds and Beyond - Shoelaces Plus  0.05361
+Springfield Dry Cleaners - Glendale  0.0456
+Acme Anvil Works  - Air Springfield  0.07171
+UKwik-E-Mart - Madame and Masseur  0.03398
+Gavelby's Auction House - Dr. Zitsofsky Dermatology Clinic  0.02915
+Krusty's Ark - Bicycle Repair Shop  0.06046
+Insurance Co. - Rachecourt  0.00391
+Mother Hubbard's Sandwich Cupboard - Spinster City Apartments  0.00702
+Gil's Baby Photo Studio - Barney's Bowlarama  0.04799
+The New Android's Dungeon - Redwater  0.02365
+New Things - Springfield Tools  0.01487
+Repo Depot - Asia de Cube  0.05088
+Smoked Meat and Cheese - UKwik-E-Mart  0.01712
+Australia Post - Bundaberg  0.05291
+Frank's Fox Hunting Lodge - Sideshow Bob's Cotton Candy  0.0231
+Gentleman's Relief Productions - The Graphic Hovel  0.0541
+John's Carpentry - Social Security Office  0.06124
+Kitchen-Maid Inc. - Veg-Out Video  0.06455
+Simpson and Grandson Bike Customizing - Aydın  0.05489
+Springfield Ink  - Chalmskinn Productions   0.03395
+Wilted Rose - Hula Hoop Repair Center  0.01756
+Mr. Big & Large - Santa's Workshop  0.06778
+U-Rent-It - Athus  0.07521
+Whiskey a God God - Miraj  0.00268
+Devil Donuts - Social Security Office  0.05624
+Springfield Travel Agency - Bundaberg  0.03653
+Sally Salon - Almería  0.06758
+Al's Septic Seats - Springfield Tools  0.04713
+Bed, Bath & Baha'i - Texxon  0.05282
+Burns Recycling Inc. - Powell Motors  0.01925
+Church of the Latter Day Druids - Alvito  0.03569
+Cletus's Youngun's Flaverd Water - Shelbyville Car Impound Lot  0.04299
+Drederick Tatum's Sleep Disorder Clinic - Bicycle Repair Shop  0.03512
+Hackey, Joke and Dunnit - Peutie  0.02867
+Herman's Military Antiques Mega Store - Hair Clinic  0.0657
+Hula Hoop Repair Center - New Things  0.03246
+Immigration and Naturalization Service - Smoked Meat and Cheese  0.05473
+Kwik-Kuts Barber  - Origam Designs  0.03939
+Liquor - Messancy  0.03017
+Madame and Masseur - Pretzel Wagon  0.0479
+Osaka Orangeade Concern - Springfield Skating Rink  0.05942
+Social Security Office - Drederick Tatum's Sleep Disorder Clinic  0.03537
+АПТЕКА - Whiskey a God God  0.0408
+Baby Get Well Cards, Inc. - World Class Wrestling  0.03894
+Bicycle Repair Shop - The Prodigy Barn  0.03706
+Candyman Candies - Chalmskinn Productions   0.03649
+The Graphic Hovel - Cletus's Youngun's Flaverd Water  0.02089
+High Steaks Steakhouse - Funtendo  0.04287
+Leo's - Uriah's Heap Recycling Center  0.01012
+Modeling Agency - Stinking Fish Realty  0.0511
+Ol' Blue Eyes Optometery - Malaria Zone  0.04585
+Raven Rental Cars - Suds-n-Duds Laundromat  0.03132
+The Robot's Pagoda - Bail Bonds  0.02583
+Smoke Factory - Nighthawk Diner  0.05807
+Van Brunt & Churchill Ad Agency - Southern Cracker  0.04868
+Wigstock  - Springfield Dry Cleaner   0.05651
+Wholesome & Sons Publishing - Iceland  0.02597
+Shelbyville Car Impound Lot - Springfield Penitentiary  0.04207
+Springfield Dry Cleaner  - Nemi  0.04148
+Springfield Penitentiary - Tattoos  0.01774
+Asia de Cube - SpringfieldSuits  0.00647
+Rutigliano - The Copy Jalopy  0.05154
+Lille - Kamalia  0.03158
+Rachecourt - Widow's Peak  0.03135
+Ogbomosho - Linkebeek  0.01269
+Kamalia - Bellevue  0.03728
+Linkebeek - Simpson and Grandson Bike Customizing  0.01708
+Poggiodomo - Lille  0.05667
+Almería - New Things  0.01559
+Ludlow - Repo Depot  0.03435
+Messancy - Dewey, Cheatem, Howe & Weissmann  0.06179
+Kapelle-op-den-Bos - We Have Restrooms!  0.07531
+Fairbanks - Sleazy Sam's Payday Loans  0.03695
+Tielen - The Perm Bank  0.04088
+Bellevue - Repo Depot  0.00745
+Moricone - Krusty's Ark  0.04158
+Arendonk - Lille  0.02902
+Aydın - Fleet-A-Pita  0.0206
+Bundaberg - My First Tattoo   0.04665
+Athus - Rubber Baby Buggy Bumpers Babysitting Service  0.03477
+Coimbatore - Kwik-E-Mart  0.02383
+Aubervilliers - Widow's Peak  0.02384
+Glendale - Malfunctioning Eddie's  0.03986
+San Diego - Putignano  0.01473
+Pavone del Mella - Hal's Liquor  0.06676
+Mespelare - UKwik-E-Mart  0.04043
+Miraj - Them, Robot  0.03594
+Ham-sur-Sambre - Wholesome & Sons Publishing  0.03557
+Rimbey - SpringShield  0.04409
+Buzet - Dukakis Campaign H.Q.  0.08302
+Macerata - Sally Salon  0.03106
+Peutie - The Android's Dungeon & Baseball Card Shop  0.05556
+Wibrin - Springfield Rent-a-Car  0.04962
+Redwater - Sally Salon  0.05664
+Moere - Cinderblock Village   0.02065
+Casalbuono - Magnetbox  0.02076
+Putignano - Gil's Baby Photo Studio  0.04247
+Sint-Martens-Bodegem - International House of Answering Machines  0.02503
+Nagpur - Funtendo  0.05731
+Vitrolles - Hair Clinic  0.01475
+Gosnells - The New Android's Dungeon  0.04011
+Alvito - Channel 6 Studios  0.06678
+Baasrode - Candyman Candies  0.0668
+Alma - Osaka Orangeade Concern  0.02896
+Nemi - Australia Post  0.05734
+
+Total Cost:  $10.4635k
+
+*****************************************************************
+Mayor Quimby thanks you.
