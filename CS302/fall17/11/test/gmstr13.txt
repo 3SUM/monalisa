@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # USA-road-d.NY (33.0)
+   Nodes:  264347
+   Edges:  550384
+   Source: NODE ID: aaaab
+   Sink:   NODE ID: aowlg
+
+Max Flow: 33.00
+
+*****************************************************************
+Game over, thanks for playing.

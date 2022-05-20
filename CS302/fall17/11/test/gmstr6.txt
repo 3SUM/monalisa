@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # web graph from 2002
+   Nodes:  281904
+   Edges:  2312497
+   Source: NODE ID: aaab
+   Sink:   NODE ID: ajrw
+
+Max Flow: 0.00
+
+*****************************************************************
+Game over, thanks for playing.

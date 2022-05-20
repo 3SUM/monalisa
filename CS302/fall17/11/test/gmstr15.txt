@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # asym positive (48617)
+   Nodes:  89270
+   Edges:  3394979
+   Source: NODE ID: aaaf
+   Sink:   NODE ID: evaq
+
+Max Flow: 48617.00
+
+*****************************************************************
+Game over, thanks for playing.

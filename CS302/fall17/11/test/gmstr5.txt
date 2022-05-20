@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # large test (15942.7)
+   Nodes:  10495
+   Edges:  62364
+   Source: NODE ID: aaab
+   Sink:   NODE ID: apnq
+
+Max Flow: 15942.66
+
+*****************************************************************
+Game over, thanks for playing.

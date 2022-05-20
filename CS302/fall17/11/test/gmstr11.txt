@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # fome (117.88)
+   Nodes:  97841
+   Edges:  285052
+   Source: NODE ID: aahph
+   Sink:   NODE ID: afotc
+
+Max Flow: 117.88
+
+*****************************************************************
+Game over, thanks for playing.

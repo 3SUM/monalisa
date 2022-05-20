@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # test  maxflow = 2485.35
+   Nodes:  379
+   Edges:  9828
+   Source: Springfield Nuclear Power Plant
+   Sink:   Thames
+
+Max Flow: 2485.35
+
+*****************************************************************
+Game over, thanks for playing.

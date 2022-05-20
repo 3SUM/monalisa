@@ -1,0 +1,16 @@
+# very simple test graph, maxflow = 7
+# Nodes: 6
+# Edges: 11
+# Source: Kwik-E-Mart
+# Sink: Springfield Town Hall
+Kwik-E-Mart;Springfield Nuclear Power Plant;3.0
+Kwik-E-Mart;Barney's Bowlarama;4.0
+Springfield Nuclear Power Plant;Duff Brewery;6.0
+Springfield Nuclear Power Plant;Barney's Bowlarama;4.0
+Duff Brewery;Barney's Bowlarama;5.0
+Duff Brewery;Spinster City Apartments;2.0
+Duff Brewery;Springfield Town Hall;7.0
+Barney's Bowlarama;Springfield Nuclear Power Plant;2.0
+Barney's Bowlarama;Spinster City Apartments;5.0
+Spinster City Apartments;Duff Brewery;5.0
+Spinster City Apartments;Springfield Town Hall;1.0

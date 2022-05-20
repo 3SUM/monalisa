@@ -1,0 +1,15 @@
+# very simple test graph 1, maxflow = 23
+# Nodes: 6
+# Edges: 10
+# Source: Planet Express
+# Sink: Slurm Bottle Corporation
+Planet Express;Benderbräu Brewery;16.0
+Planet Express;Bachelor Chow Corp Headquarters;13.0
+Benderbräu Brewery;Bachelor Chow Corp Headquarters;10.0
+Benderbräu Brewery;Pabst Blue Robot;12.0
+Bachelor Chow Corp Headquarters;Benderbräu Brewery;4.0
+Bachelor Chow Corp Headquarters;eyePhone Factory;14.0
+Pabst Blue Robot;Bachelor Chow Corp Headquarters;9.0
+Pabst Blue Robot;Slurm Bottle Corporation;20.0
+eyePhone Factory;Pabst Blue Robot;7.0
+eyePhone Factory;Slurm Bottle Corporation;4.0

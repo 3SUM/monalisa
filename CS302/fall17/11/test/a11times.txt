@@ -1,0 +1,44 @@
+Assignment #11 - Execution Times.
+
+---------------
+Graph0 
+
+real	0m0.007s
+user	0m0.002s
+sys	0m0.002s
+
+---------------
+Graph1 
+
+real	0m0.008s
+user	0m0.002s
+sys	0m0.003s
+
+---------------
+Graph2 
+
+real	0m0.325s
+user	0m0.311s
+sys	0m0.006s
+
+---------------
+Graph3 
+
+real	0m0.322s
+user	0m0.307s
+sys	0m0.006s
+
+---------------
+Graph4 
+
+real	0m1.700s
+user	0m1.669s
+sys	0m0.014s
+
+---------------
+Graph5 
+
+real	0m3.459s
+user	0m3.360s
+sys	0m0.040s
+

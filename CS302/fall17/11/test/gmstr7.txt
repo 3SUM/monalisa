@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # superros, maxflow = 596.8
+   Nodes:  43522
+   Edges:  43519
+   Source: NODE ID: aaab
+   Sink:   NODE ID: cmjx
+
+Max Flow: 596.80
+
+*****************************************************************
+Game over, thanks for playing.

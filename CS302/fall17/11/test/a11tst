@@ -1,0 +1,94 @@
+#!/bin/bash
+# CS 302, assignment #11 test script.
+
+# usage (for normal tests)
+#	./a11tst maxFlow
+
+# usage (for initial/simple tests)
+#	./a11tst maxFlow s
+
+# usage (for hardest tests) -> takes > 2 hrs...
+#	./a11tst maxFlow h
+
+# ---------------------------------------------------------
+# Initial checks.
+#	Ensure executable file exists.
+#	Verify availability of testing support files.
+
+if [ -z $1 ]; then
+	echo "Error, must provide executable file name."
+	exit
+fi
+
+if [ ! -e $1 ] || [ ! -x $1 ]; then
+	echo "Error, unable to find $1 executable file."
+	exit
+fi
+
+if [ ! -e graph1.txt ]; then
+	echo "Error, unable to find graph files."
+	exit
+fi
+
+# ---------------------------------------------------------
+#  Check arguments
+
+tstStart=6
+tstStop=11
+msg="Standard Execution Tests."
+
+if [ "$2" == "s" ]; then
+	tstStart=0
+	tstStop=5
+	msg="Initial/Simple Execution Tests (~15-20 minutes)."
+fi
+
+if [ "$2" == "h" ]; then
+	tstStart=13
+	tstStop=15
+	msg="Hard Execution Tests (>2 hrs)."
+fi
+
+# ---------------------------------------------------------
+# Begin test.
+#
+clear
+echo "${bolded}CS 302 Assignment #11 Test Script${normal}"
+echo "See a11times.txt for execution times."
+echo $msg
+echo
+echo
+#
+#
+echo
+inFile="graph"
+ansFile="gmstr"
+outFile="out"
+ext=".txt"
+#
+echo "Assignment #11 - Execution Times." > a11times.txt
+echo >> a11times.txt
+#
+for ((iter=tstStart; iter<=tstStop; iter++))
+do
+#
+echo "---------------" >> a11times.txt
+echo "Graph$iter " >> a11times.txt
+#
+echo "./"$1" $inFile$iter$ext >$outFile$iter$ext"
+(time ./$1 $inFile$iter$ext) >$outFile$iter$ext 2>>a11times.txt
+
+if `diff $outFile$iter$ext $ansFile$iter$ext >/dev/null`; then
+	echo "Test $iter Successful"
+else
+	diff $outFile$iter$ext $ansFile$iter$ext
+fi
+echo
+echo
+echo >> a11times.txt
+#
+done
+#
+echo
+echo "Test Script Done."
+

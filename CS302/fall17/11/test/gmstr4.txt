@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # bitcoin  maxflow = 5
+   Nodes:  6006
+   Edges:  35592
+   Source: Springfield Nuclear Power Plant
+   Sink:   Gardena 
+
+Max Flow: 5.00
+
+*****************************************************************
+Game over, thanks for playing.

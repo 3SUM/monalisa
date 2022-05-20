@@ -1,0 +1,15 @@
+*****************************************************************
+[1mCS 302 - Assignment #11
+Maximum Flow Program[0m
+
+Graph Statistics:
+   Title:  # medium graph   
+   Nodes:  407
+   Edges:  10962
+   Source: Springfield Nuclear Power Plant
+   Sink:   Dworp
+
+Max Flow: 2318.29
+
+*****************************************************************
+Game over, thanks for playing.
